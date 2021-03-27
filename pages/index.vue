@@ -1,89 +1,102 @@
 <template>
-  <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
-      <div class="text-center">
-        <logo />
-        <vuetify-logo />
-      </div>
-      <v-card>
-        <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
-        </v-card-title>
-        <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>
-            For more information on Vuetify, check out the <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation
-            </a>.
-          </p>
-          <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord
-            </a>.
-          </p>
-          <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board
-            </a>.
-          </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
-          <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt Documentation
-          </a>
-          <br>
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt GitHub
-          </a>
-        </v-card-text>
-        <v-card-actions>
-          <v-spacer />
+  <section id="hero">  
+    <v-parallax dark :src="require('../assets/background/01.png')" height="800">
+      <v-container>
+        <v-row align="center" justify="center">
+        <v-col cols="12" md="6">
+          <h1 class="display-2 font-weight-bold mb-4">Finage</h1>
+          <h1 class="font-weight-light">
+            Finage is your safe personal asset manager website.<br />
+            Start to manage your finance and use finage today!<br />
+          </h1>
           <v-btn
-            color="primary"
-            nuxt
-            to="/inspire"
+            rounded
+            outlined
+            large
+            @click="$vuetify.goTo('#hero')"
+            class="mt-5"
           >
-            Continue
+            Sign up for free!
+            <v-icon class="ml-2">mdi-login</v-icon>
           </v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-col>
-  </v-row>
+        </v-col>
+        <v-col cols="12" md="6"> 
+          <img class="isometric" height="700px" src="../assets/isometric/data analytics.svg" alt="">
+        </v-col>
+      </v-row>
+      </v-container>
+      <div class="svg-border-waves">
+        <svg id="wave" style="transform:rotate(0deg); transition: 0.3s" viewBox="0 0 1440 100" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 0px); opacity:1" fill="url(#sw-gradient-0)" d="M0,20L40,26.7C80,33,160,47,240,45C320,43,400,27,480,25C560,23,640,37,720,38.3C800,40,880,30,960,28.3C1040,27,1120,33,1200,45C1280,57,1360,73,1440,70C1520,67,1600,43,1680,31.7C1760,20,1840,20,1920,25C2000,30,2080,40,2160,48.3C2240,57,2320,63,2400,65C2480,67,2560,63,2640,60C2720,57,2800,53,2880,46.7C2960,40,3040,30,3120,36.7C3200,43,3280,67,3360,70C3440,73,3520,57,3600,55C3680,53,3760,67,3840,71.7C3920,77,4000,73,4080,68.3C4160,63,4240,57,4320,56.7C4400,57,4480,63,4560,56.7C4640,50,4720,30,4800,25C4880,20,4960,30,5040,31.7C5120,33,5200,27,5280,30C5360,33,5440,47,5520,46.7C5600,47,5680,33,5720,26.7L5760,20L5760,100L5720,100C5680,100,5600,100,5520,100C5440,100,5360,100,5280,100C5200,100,5120,100,5040,100C4960,100,4880,100,4800,100C4720,100,4640,100,4560,100C4480,100,4400,100,4320,100C4240,100,4160,100,4080,100C4000,100,3920,100,3840,100C3760,100,3680,100,3600,100C3520,100,3440,100,3360,100C3280,100,3200,100,3120,100C3040,100,2960,100,2880,100C2800,100,2720,100,2640,100C2560,100,2480,100,2400,100C2320,100,2240,100,2160,100C2080,100,2000,100,1920,100C1840,100,1760,100,1680,100C1600,100,1520,100,1440,100C1360,100,1280,100,1200,100C1120,100,1040,100,960,100C880,100,800,100,720,100C640,100,560,100,480,100C400,100,320,100,240,100C160,100,80,100,40,100L0,100Z"></path><defs><linearGradient id="sw-gradient-1" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 1)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 1)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 50px); opacity:0.9" fill="url(#sw-gradient-1)" d="M0,10L40,11.7C80,13,160,17,240,25C320,33,400,47,480,48.3C560,50,640,40,720,35C800,30,880,30,960,31.7C1040,33,1120,37,1200,33.3C1280,30,1360,20,1440,13.3C1520,7,1600,3,1680,16.7C1760,30,1840,60,1920,65C2000,70,2080,50,2160,38.3C2240,27,2320,23,2400,26.7C2480,30,2560,40,2640,40C2720,40,2800,30,2880,31.7C2960,33,3040,47,3120,53.3C3200,60,3280,60,3360,56.7C3440,53,3520,47,3600,50C3680,53,3760,67,3840,68.3C3920,70,4000,60,4080,50C4160,40,4240,30,4320,30C4400,30,4480,40,4560,46.7C4640,53,4720,57,4800,50C4880,43,4960,27,5040,26.7C5120,27,5200,43,5280,43.3C5360,43,5440,27,5520,26.7C5600,27,5680,43,5720,51.7L5760,60L5760,100L5720,100C5680,100,5600,100,5520,100C5440,100,5360,100,5280,100C5200,100,5120,100,5040,100C4960,100,4880,100,4800,100C4720,100,4640,100,4560,100C4480,100,4400,100,4320,100C4240,100,4160,100,4080,100C4000,100,3920,100,3840,100C3760,100,3680,100,3600,100C3520,100,3440,100,3360,100C3280,100,3200,100,3120,100C3040,100,2960,100,2880,100C2800,100,2720,100,2640,100C2560,100,2480,100,2400,100C2320,100,2240,100,2160,100C2080,100,2000,100,1920,100C1840,100,1760,100,1680,100C1600,100,1520,100,1440,100C1360,100,1280,100,1200,100C1120,100,1040,100,960,100C880,100,800,100,720,100C640,100,560,100,480,100C400,100,320,100,240,100C160,100,80,100,40,100L0,100Z"></path></svg>
+      </div>
+    </v-parallax>
+    <section id="features" style="margin:none;background-color:#efedf1;color:#2a1242">
+      <v-container>
+        <h2 class="display-2">Features</h2>
+        <v-row>
+          <v-col cols="12" md="4">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nostrum obcaecati sed beatae praesentium ratione incidunt qui, libero expedita neque odit error corporis perspiciatis quod earum doloribus atque quisquam maxime!
+          </v-col>
+        </v-row>
+      </v-container>
+      <div class="reversed-svg-border-waves">
+        <svg id="wave" style="transform:rotate(180deg); transition: 0.3s" viewBox="0 0 1440 110" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 0px); opacity:1" fill="url(#sw-gradient-0)" d="M0,44L40,53.2C80,62,160,81,240,73.3C320,66,400,33,480,33C560,33,640,66,720,80.7C800,95,880,92,960,80.7C1040,70,1120,51,1200,53.2C1280,55,1360,77,1440,86.2C1520,95,1600,92,1680,84.3C1760,77,1840,66,1920,62.3C2000,59,2080,62,2160,69.7C2240,77,2320,88,2400,88C2480,88,2560,77,2640,62.3C2720,48,2800,29,2880,27.5C2960,26,3040,40,3120,40.3C3200,40,3280,26,3360,27.5C3440,29,3520,48,3600,55C3680,62,3760,59,3840,49.5C3920,40,4000,26,4080,16.5C4160,7,4240,4,4320,16.5C4400,29,4480,59,4560,58.7C4640,59,4720,29,4800,14.7C4880,0,4960,0,5040,5.5C5120,11,5200,22,5280,34.8C5360,48,5440,62,5520,64.2C5600,66,5680,55,5720,49.5L5760,44L5760,110L5720,110C5680,110,5600,110,5520,110C5440,110,5360,110,5280,110C5200,110,5120,110,5040,110C4960,110,4880,110,4800,110C4720,110,4640,110,4560,110C4480,110,4400,110,4320,110C4240,110,4160,110,4080,110C4000,110,3920,110,3840,110C3760,110,3680,110,3600,110C3520,110,3440,110,3360,110C3280,110,3200,110,3120,110C3040,110,2960,110,2880,110C2800,110,2720,110,2640,110C2560,110,2480,110,2400,110C2320,110,2240,110,2160,110C2080,110,2000,110,1920,110C1840,110,1760,110,1680,110C1600,110,1520,110,1440,110C1360,110,1280,110,1200,110C1120,110,1040,110,960,110C880,110,800,110,720,110C640,110,560,110,480,110C400,110,320,110,240,110C160,110,80,110,40,110L0,110Z"></path><defs><linearGradient id="sw-gradient-1" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 1)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 1)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 50px); opacity:0.9" fill="url(#sw-gradient-1)" d="M0,66L40,64.2C80,62,160,59,240,49.5C320,40,400,26,480,18.3C560,11,640,11,720,11C800,11,880,11,960,9.2C1040,7,1120,4,1200,12.8C1280,22,1360,44,1440,56.8C1520,70,1600,73,1680,77C1760,81,1840,84,1920,71.5C2000,59,2080,29,2160,27.5C2240,26,2320,51,2400,51.3C2480,51,2560,26,2640,18.3C2720,11,2800,22,2880,31.2C2960,40,3040,48,3120,44C3200,40,3280,26,3360,31.2C3440,37,3520,62,3600,62.3C3680,62,3760,37,3840,36.7C3920,37,4000,62,4080,77C4160,92,4240,95,4320,95.3C4400,95,4480,92,4560,80.7C4640,70,4720,51,4800,44C4880,37,4960,40,5040,40.3C5120,40,5200,37,5280,36.7C5360,37,5440,40,5520,36.7C5600,33,5680,22,5720,16.5L5760,11L5760,110L5720,110C5680,110,5600,110,5520,110C5440,110,5360,110,5280,110C5200,110,5120,110,5040,110C4960,110,4880,110,4800,110C4720,110,4640,110,4560,110C4480,110,4400,110,4320,110C4240,110,4160,110,4080,110C4000,110,3920,110,3840,110C3760,110,3680,110,3600,110C3520,110,3440,110,3360,110C3280,110,3200,110,3120,110C3040,110,2960,110,2880,110C2800,110,2720,110,2640,110C2560,110,2480,110,2400,110C2320,110,2240,110,2160,110C2080,110,2000,110,1920,110C1840,110,1760,110,1680,110C1600,110,1520,110,1440,110C1360,110,1280,110,1200,110C1120,110,1040,110,960,110C880,110,800,110,720,110C640,110,560,110,480,110C400,110,320,110,240,110C160,110,80,110,40,110L0,110Z"></path></svg>
+      </div>
+    </section>
+    <section id="Our Team" style="margin:none;background-color:#efedf1;color:#2a1242">
+      <h2 class="display-2">Our Team</h2>
+      <v-parallax dark :src="require('../assets/background/05.png')" height="800">
+
+      </v-parallax>
+    </section>
+    <section id="PlanningContanct" style="margin:none;background-color:#efedf1;color:#2a1242">
+      <h2 class="display-2">Contact</h2>
+      <div class="reversed-svg-border-waves">
+        <svg id="wave" style="transform:rotate(180deg); transition: 0.3s" viewBox="0 0 1440 110" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 0.25098039215686274)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 0px); opacity:1" fill="url(#sw-gradient-0)" d="M0,44L40,53.2C80,62,160,81,240,73.3C320,66,400,33,480,33C560,33,640,66,720,80.7C800,95,880,92,960,80.7C1040,70,1120,51,1200,53.2C1280,55,1360,77,1440,86.2C1520,95,1600,92,1680,84.3C1760,77,1840,66,1920,62.3C2000,59,2080,62,2160,69.7C2240,77,2320,88,2400,88C2480,88,2560,77,2640,62.3C2720,48,2800,29,2880,27.5C2960,26,3040,40,3120,40.3C3200,40,3280,26,3360,27.5C3440,29,3520,48,3600,55C3680,62,3760,59,3840,49.5C3920,40,4000,26,4080,16.5C4160,7,4240,4,4320,16.5C4400,29,4480,59,4560,58.7C4640,59,4720,29,4800,14.7C4880,0,4960,0,5040,5.5C5120,11,5200,22,5280,34.8C5360,48,5440,62,5520,64.2C5600,66,5680,55,5720,49.5L5760,44L5760,110L5720,110C5680,110,5600,110,5520,110C5440,110,5360,110,5280,110C5200,110,5120,110,5040,110C4960,110,4880,110,4800,110C4720,110,4640,110,4560,110C4480,110,4400,110,4320,110C4240,110,4160,110,4080,110C4000,110,3920,110,3840,110C3760,110,3680,110,3600,110C3520,110,3440,110,3360,110C3280,110,3200,110,3120,110C3040,110,2960,110,2880,110C2800,110,2720,110,2640,110C2560,110,2480,110,2400,110C2320,110,2240,110,2160,110C2080,110,2000,110,1920,110C1840,110,1760,110,1680,110C1600,110,1520,110,1440,110C1360,110,1280,110,1200,110C1120,110,1040,110,960,110C880,110,800,110,720,110C640,110,560,110,480,110C400,110,320,110,240,110C160,110,80,110,40,110L0,110Z"></path><defs><linearGradient id="sw-gradient-1" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(255, 255, 255, 1)" offset="0%"></stop><stop stop-color="rgba(255, 255, 255, 1)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 50px); opacity:0.9" fill="url(#sw-gradient-1)" d="M0,66L40,64.2C80,62,160,59,240,49.5C320,40,400,26,480,18.3C560,11,640,11,720,11C800,11,880,11,960,9.2C1040,7,1120,4,1200,12.8C1280,22,1360,44,1440,56.8C1520,70,1600,73,1680,77C1760,81,1840,84,1920,71.5C2000,59,2080,29,2160,27.5C2240,26,2320,51,2400,51.3C2480,51,2560,26,2640,18.3C2720,11,2800,22,2880,31.2C2960,40,3040,48,3120,44C3200,40,3280,26,3360,31.2C3440,37,3520,62,3600,62.3C3680,62,3760,37,3840,36.7C3920,37,4000,62,4080,77C4160,92,4240,95,4320,95.3C4400,95,4480,92,4560,80.7C4640,70,4720,51,4800,44C4880,37,4960,40,5040,40.3C5120,40,5200,37,5280,36.7C5360,37,5440,40,5520,36.7C5600,33,5680,22,5720,16.5L5760,11L5760,110L5720,110C5680,110,5600,110,5520,110C5440,110,5360,110,5280,110C5200,110,5120,110,5040,110C4960,110,4880,110,4800,110C4720,110,4640,110,4560,110C4480,110,4400,110,4320,110C4240,110,4160,110,4080,110C4000,110,3920,110,3840,110C3760,110,3680,110,3600,110C3520,110,3440,110,3360,110C3280,110,3200,110,3120,110C3040,110,2960,110,2880,110C2800,110,2720,110,2640,110C2560,110,2480,110,2400,110C2320,110,2240,110,2160,110C2080,110,2000,110,1920,110C1840,110,1760,110,1680,110C1600,110,1520,110,1440,110C1360,110,1280,110,1200,110C1120,110,1040,110,960,110C880,110,800,110,720,110C640,110,560,110,480,110C400,110,320,110,240,110C160,110,80,110,40,110L0,110Z"></path></svg>
+      </div>
+      <v-parallax dark :src="require('../assets/background/05.png')" height="800">
+
+      </v-parallax>
+    </section>
+  </section>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-import VuetifyLogo from '~/components/VuetifyLogo.vue'
 
 export default {
   components: {
-    Logo,
-    VuetifyLogo
   }
 }
 </script>
+<style>
+.btn-play {
+  transition: 0.2s;
+}
+.svg-border-waves{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3rem;
+  width: 100%;
+  overflow: hidden;
+}
+.reversed-svg-border-waves{
+}
+
+.reversed-svg-border-waves svg{
+}
+
+#hero {
+  z-index: 0;
+}
+.isometric{
+  z-index: 1;
+}
+.svg-border-waves svg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: -2px;
+  z-index:-1;
+}
+</style>

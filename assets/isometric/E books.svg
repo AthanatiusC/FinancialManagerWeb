@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_11_);}
+	.st1{opacity:0.3;}
+	.st2{opacity:0;fill:#3C5185;}
+	.st3{opacity:2.439000e-002;fill:#3C5185;}
+	.st4{opacity:4.878000e-002;fill:#3C5185;}
+	.st5{opacity:7.317100e-002;fill:#3C5185;}
+	.st6{opacity:9.756100e-002;fill:#3C5185;}
+	.st7{opacity:0.122;fill:#3C5185;}
+	.st8{opacity:0.1463;fill:#3C5185;}
+	.st9{opacity:0.1707;fill:#3C5185;}
+	.st10{opacity:0.1951;fill:#3C5185;}
+	.st11{opacity:0.2195;fill:#3C5185;}
+	.st12{opacity:0.2439;fill:#3C5185;}
+	.st13{opacity:0.2683;fill:#3C5185;}
+	.st14{opacity:0.2927;fill:#3C5185;}
+	.st15{opacity:0.3171;fill:#3C5185;}
+	.st16{opacity:0.3415;fill:#3C5185;}
+	.st17{opacity:0.3659;fill:#3C5185;}
+	.st18{opacity:0.3902;fill:#3C5185;}
+	.st19{opacity:0.4146;fill:#3C5185;}
+	.st20{opacity:0.439;fill:#3C5185;}
+	.st21{opacity:0.4634;fill:#3C5185;}
+	.st22{opacity:0.4878;fill:#3C5185;}
+	.st23{opacity:0.5122;fill:#3C5185;}
+	.st24{opacity:0.5366;fill:#3C5185;}
+	.st25{opacity:0.561;fill:#3C5185;}
+	.st26{opacity:0.5854;fill:#3C5185;}
+	.st27{opacity:0.6098;fill:#3C5185;}
+	.st28{opacity:0.6341;fill:#3C5185;}
+	.st29{opacity:0.6585;fill:#3C5185;}
+	.st30{opacity:0.6829;fill:#3C5185;}
+	.st31{opacity:0.7073;fill:#3C5185;}
+	.st32{opacity:0.7317;fill:#3C5185;}
+	.st33{opacity:0.7561;fill:#3C5185;}
+	.st34{opacity:0.7805;fill:#3C5185;}
+	.st35{opacity:0.8049;fill:#3C5185;}
+	.st36{opacity:0.8293;fill:#3C5185;}
+	.st37{opacity:0.8537;fill:#3C5185;}
+	.st38{opacity:0.878;fill:#3C5185;}
+	.st39{opacity:0.9024;fill:#3C5185;}
+	.st40{opacity:0.9268;fill:#3C5185;}
+	.st41{opacity:0.9512;fill:#3C5185;}
+	.st42{opacity:0.9756;fill:#3C5185;}
+	.st43{fill:#3C5185;}
+	.st44{fill:none;}
+	.st45{fill:url(#XMLID_289_);}
+	.st46{fill:url(#XMLID_290_);}
+	.st47{fill:url(#XMLID_291_);}
+	.st48{fill:#FFFFFF;}
+	.st49{opacity:0.5;}
+	.st50{fill:#7EA7DF;}
+	.st51{opacity:0.9756;fill:#7EA7DF;}
+	.st52{opacity:0.9512;fill:#7EA7DF;}
+	.st53{opacity:0.9268;fill:#7EA7DF;}
+	.st54{opacity:0.9024;fill:#7EA7DF;}
+	.st55{opacity:0.878;fill:#7EA7DF;}
+	.st56{opacity:0.8537;fill:#7EA7DF;}
+	.st57{opacity:0.8293;fill:#7EA7DF;}
+	.st58{opacity:0.8049;fill:#7EA7DF;}
+	.st59{opacity:0.7805;fill:#7EA7DF;}
+	.st60{opacity:0.7561;fill:#7EA7DF;}
+	.st61{opacity:0.7317;fill:#7EA7DF;}
+	.st62{opacity:0.7073;fill:#7EA7DF;}
+	.st63{opacity:0.6829;fill:#7EA7DF;}
+	.st64{opacity:0.6585;fill:#7EA7DF;}
+	.st65{opacity:0.6341;fill:#7EA7DF;}
+	.st66{opacity:0.6098;fill:#7EA7DF;}
+	.st67{opacity:0.5854;fill:#7EA7DF;}
+	.st68{opacity:0.561;fill:#7EA7DF;}
+	.st69{opacity:0.5366;fill:#7EA7DF;}
+	.st70{opacity:0.5122;fill:#7EA7DF;}
+	.st71{opacity:0.4878;fill:#7EA7DF;}
+	.st72{opacity:0.4634;fill:#7EA7DF;}
+	.st73{opacity:0.439;fill:#7EA7DF;}
+	.st74{opacity:0.4146;fill:#7EA7DF;}
+	.st75{opacity:0.3902;fill:#7EA7DF;}
+	.st76{opacity:0.3659;fill:#7EA7DF;}
+	.st77{opacity:0.3415;fill:#7EA7DF;}
+	.st78{opacity:0.3171;fill:#7EA7DF;}
+	.st79{opacity:0.2927;fill:#7EA7DF;}
+	.st80{opacity:0.2683;fill:#7EA7DF;}
+	.st81{opacity:0.2439;fill:#7EA7DF;}
+	.st82{opacity:0.2195;fill:#7EA7DF;}
+	.st83{opacity:0.1951;fill:#7EA7DF;}
+	.st84{opacity:0.1707;fill:#7EA7DF;}
+	.st85{opacity:0.1463;fill:#7EA7DF;}
+	.st86{opacity:0.122;fill:#7EA7DF;}
+	.st87{opacity:9.756100e-002;fill:#7EA7DF;}
+	.st88{opacity:7.317100e-002;fill:#7EA7DF;}
+	.st89{opacity:4.878000e-002;fill:#7EA7DF;}
+	.st90{opacity:2.439000e-002;fill:#7EA7DF;}
+	.st91{opacity:0;fill:#7EA7DF;}
+	.st92{opacity:0.1;fill:url(#XMLID_292_);}
+	.st93{opacity:0.1;fill:url(#XMLID_293_);}
+	.st94{opacity:0.1;fill:url(#XMLID_294_);}
+	.st95{opacity:0.1;fill:url(#XMLID_296_);}
+	.st96{opacity:0.1;fill:url(#XMLID_298_);}
+	.st97{opacity:0.1;fill:url(#XMLID_299_);}
+	.st98{opacity:0.1;fill:url(#XMLID_301_);}
+	.st99{fill:#4F6291;}
+	.st100{fill:url(#XMLID_302_);}
+	.st101{fill:url(#XMLID_303_);}
+	.st102{fill:#FFDA6A;}
+	.st103{fill:url(#XMLID_304_);}
+	.st104{fill:url(#XMLID_305_);}
+	.st105{fill:#A5CBEF;}
+	.st106{fill:url(#XMLID_306_);}
+	.st107{fill:url(#XMLID_307_);}
+	.st108{fill:#6E84B5;}
+	.st109{fill:url(#XMLID_308_);}
+	.st110{fill:url(#XMLID_309_);}
+	.st111{fill:#FFC107;}
+	.st112{opacity:0.1;fill:url(#XMLID_310_);}
+	.st113{opacity:0.1;fill:url(#XMLID_311_);}
+	.st114{opacity:0.1;fill:url(#XMLID_312_);}
+	.st115{opacity:0.1;fill:url(#XMLID_313_);}
+	.st116{opacity:0.1;fill:url(#XMLID_314_);}
+	.st117{opacity:0.7;}
+	.st118{fill:url(#XMLID_315_);}
+	.st119{fill:#D1E1F2;}
+	.st120{fill:#EDF3FA;}
+	.st121{fill:url(#XMLID_316_);}
+	.st122{opacity:0.15;}
+	.st123{fill:#465A8B;}
+	.st124{fill:url(#XMLID_317_);}
+	.st125{fill:#EDF5FC;}
+	.st126{fill:#DBEAF9;}
+	.st127{fill:#B7D5F2;}
+	.st128{fill:#F1F2F2;}
+	.st129{fill:#F6F9FC;}
+	.st130{fill:#C9E0F5;}
+	.st131{fill:#4A65A3;}
+	.st132{fill:url(#XMLID_318_);}
+	.st133{fill:url(#XMLID_319_);}
+	.st134{fill:#F2B1B5;}
+	.st135{opacity:1.960800e-002;fill:#3C5185;}
+	.st136{opacity:3.921600e-002;fill:#3C5185;}
+	.st137{opacity:5.882400e-002;fill:#3C5185;}
+	.st138{opacity:7.843100e-002;fill:#3C5185;}
+	.st139{opacity:9.803900e-002;fill:#3C5185;}
+	.st140{opacity:0.1176;fill:#3C5185;}
+	.st141{opacity:0.1373;fill:#3C5185;}
+	.st142{opacity:0.1569;fill:#3C5185;}
+	.st143{opacity:0.1765;fill:#3C5185;}
+	.st144{opacity:0.1961;fill:#3C5185;}
+	.st145{opacity:0.2157;fill:#3C5185;}
+	.st146{opacity:0.2353;fill:#3C5185;}
+	.st147{opacity:0.2549;fill:#3C5185;}
+	.st148{opacity:0.2745;fill:#3C5185;}
+	.st149{opacity:0.2941;fill:#3C5185;}
+	.st150{opacity:0.3137;fill:#3C5185;}
+	.st151{opacity:0.3333;fill:#3C5185;}
+	.st152{opacity:0.3529;fill:#3C5185;}
+	.st153{opacity:0.3725;fill:#3C5185;}
+	.st154{opacity:0.3922;fill:#3C5185;}
+	.st155{opacity:0.4118;fill:#3C5185;}
+	.st156{opacity:0.4314;fill:#3C5185;}
+	.st157{opacity:0.451;fill:#3C5185;}
+	.st158{opacity:0.4706;fill:#3C5185;}
+	.st159{opacity:0.4902;fill:#3C5185;}
+	.st160{opacity:0.5098;fill:#3C5185;}
+	.st161{opacity:0.5294;fill:#3C5185;}
+	.st162{opacity:0.549;fill:#3C5185;}
+	.st163{opacity:0.5686;fill:#3C5185;}
+	.st164{opacity:0.5882;fill:#3C5185;}
+	.st165{opacity:0.6078;fill:#3C5185;}
+	.st166{opacity:0.6275;fill:#3C5185;}
+	.st167{opacity:0.6471;fill:#3C5185;}
+	.st168{opacity:0.6667;fill:#3C5185;}
+	.st169{opacity:0.6863;fill:#3C5185;}
+	.st170{opacity:0.7059;fill:#3C5185;}
+	.st171{opacity:0.7255;fill:#3C5185;}
+	.st172{opacity:0.7451;fill:#3C5185;}
+	.st173{opacity:0.7647;fill:#3C5185;}
+	.st174{opacity:0.7843;fill:#3C5185;}
+	.st175{opacity:0.8039;fill:#3C5185;}
+	.st176{opacity:0.8235;fill:#3C5185;}
+	.st177{opacity:0.8431;fill:#3C5185;}
+	.st178{opacity:0.8627;fill:#3C5185;}
+	.st179{opacity:0.8824;fill:#3C5185;}
+	.st180{opacity:0.902;fill:#3C5185;}
+	.st181{opacity:0.9216;fill:#3C5185;}
+	.st182{opacity:0.9412;fill:#3C5185;}
+	.st183{opacity:0.9608;fill:#3C5185;}
+	.st184{opacity:0.9804;fill:#3C5185;}
+	.st185{fill:url(#XMLID_320_);}
+	.st186{fill:url(#XMLID_321_);}
+	.st187{fill:url(#XMLID_322_);}
+	.st188{fill:url(#XMLID_323_);}
+	.st189{fill:url(#XMLID_324_);}
+	.st190{fill:url(#XMLID_325_);}
+	.st191{fill:url(#XMLID_326_);}
+</style>
+<g>
+	<linearGradient id="XMLID_11_" gradientUnits="userSpaceOnUse" x1="148.9319" y1="205.3268" x2="102.7464" y2="54.7216">
+		<stop  offset="0.1445" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#E1EBF7"/>
+	</linearGradient>
+	<path id="XMLID_288_" class="st0" d="M209.7,132.8c0,42.4-41.9,72.4-84.4,72.4s-81.9-29.9-81.9-72.4s40.4-81.9,82.9-81.9
+		S209.7,90.3,209.7,132.8z"/>
+	<g id="XMLID_178_" class="st1">
+		<polygon id="XMLID_180_" class="st2" points="101.6,92.6 81.6,104 170.2,156.3 190.3,143.8 		"/>
+		<polygon id="XMLID_287_" class="st3" points="101.6,92.6 81.9,103.8 170.6,156.1 190.3,143.8 		"/>
+		<polygon id="XMLID_286_" class="st4" points="101.6,92.6 82.3,103.5 171,155.9 190.3,143.8 		"/>
+		<polygon id="XMLID_285_" class="st5" points="101.6,92.6 82.7,103.3 171.3,155.7 190.3,143.8 		"/>
+		<polygon id="XMLID_284_" class="st6" points="101.6,92.6 83.1,103.1 171.7,155.4 190.3,143.8 		"/>
+		<polygon id="XMLID_283_" class="st7" points="101.6,92.6 83.5,102.9 172,155.2 190.3,143.8 		"/>
+		<polygon id="XMLID_272_" class="st8" points="101.6,92.6 83.9,102.7 172.4,155 190.3,143.8 		"/>
+		<polygon id="XMLID_271_" class="st9" points="101.6,92.6 84.2,102.5 172.8,154.8 190.3,143.8 		"/>
+		<polygon id="XMLID_270_" class="st10" points="101.6,92.6 84.6,102.2 173.1,154.6 190.3,143.8 		"/>
+		<polygon id="XMLID_269_" class="st11" points="101.6,92.6 85,102 173.5,154.3 190.3,143.8 		"/>
+		<polygon id="XMLID_268_" class="st12" points="101.6,92.6 85.4,101.8 173.9,154.1 190.3,143.8 		"/>
+		<polygon id="XMLID_267_" class="st13" points="101.6,92.6 85.8,101.6 174.2,153.9 190.3,143.8 		"/>
+		<polygon id="XMLID_266_" class="st14" points="101.6,92.6 86.2,101.4 174.6,153.7 190.3,143.8 		"/>
+		<polygon id="XMLID_265_" class="st15" points="101.6,92.6 86.6,101.1 174.9,153.4 190.3,143.8 		"/>
+		<polygon id="XMLID_264_" class="st16" points="101.6,92.6 86.9,100.9 175.3,153.2 190.3,143.8 		"/>
+		<polygon id="XMLID_263_" class="st17" points="101.6,92.6 87.3,100.7 175.7,153 190.3,143.8 		"/>
+		<polygon id="XMLID_262_" class="st18" points="101.6,92.6 87.7,100.5 176,152.8 190.3,143.8 		"/>
+		<polygon id="XMLID_261_" class="st19" points="101.6,92.6 88.1,100.3 176.4,152.5 190.3,143.8 		"/>
+		<polygon id="XMLID_260_" class="st20" points="101.6,92.6 88.5,100 176.7,152.3 190.3,143.8 		"/>
+		<polygon id="XMLID_259_" class="st21" points="101.6,92.6 88.9,99.8 177.1,152.1 190.3,143.8 		"/>
+		<polygon id="XMLID_258_" class="st22" points="101.6,92.6 89.3,99.6 177.5,151.9 190.3,143.8 		"/>
+		<polygon id="XMLID_257_" class="st23" points="101.6,92.6 89.6,99.4 177.8,151.7 190.3,143.8 		"/>
+		<polygon id="XMLID_256_" class="st24" points="101.6,92.6 90,99.2 178.2,151.4 190.3,143.8 		"/>
+		<polygon id="XMLID_255_" class="st25" points="101.6,92.6 90.4,99 178.6,151.2 190.3,143.8 		"/>
+		<polygon id="XMLID_253_" class="st26" points="101.6,92.6 90.8,98.7 178.9,151 190.3,143.8 		"/>
+		<polygon id="XMLID_252_" class="st27" points="101.6,92.6 91.2,98.5 179.3,150.8 190.3,143.8 		"/>
+		<polygon id="XMLID_251_" class="st28" points="101.6,92.6 91.6,98.3 179.6,150.5 190.3,143.8 		"/>
+		<polygon id="XMLID_250_" class="st29" points="101.6,92.6 91.9,98.1 180,150.3 190.3,143.8 		"/>
+		<polygon id="XMLID_249_" class="st30" points="101.6,92.6 92.3,97.9 180.4,150.1 190.3,143.8 		"/>
+		<polygon id="XMLID_248_" class="st31" points="101.6,92.6 92.7,97.6 180.7,149.9 190.3,143.8 		"/>
+		<polygon id="XMLID_247_" class="st32" points="101.6,92.6 93.1,97.4 181.1,149.6 190.3,143.8 		"/>
+		<polygon id="XMLID_246_" class="st33" points="101.6,92.6 93.5,97.2 181.4,149.4 190.3,143.8 		"/>
+		<polygon id="XMLID_244_" class="st34" points="101.6,92.6 93.9,97 181.8,149.2 190.3,143.8 		"/>
+		<polygon id="XMLID_241_" class="st35" points="101.6,92.6 94.3,96.8 182.2,149 190.3,143.8 		"/>
+		<polygon id="XMLID_240_" class="st36" points="101.6,92.6 94.6,96.5 182.5,148.8 190.3,143.8 		"/>
+		<polygon id="XMLID_239_" class="st37" points="101.6,92.6 95,96.3 182.9,148.5 190.3,143.8 		"/>
+		<polygon id="XMLID_238_" class="st38" points="101.6,92.6 95.4,96.1 183.3,148.3 190.3,143.8 		"/>
+		<polygon id="XMLID_232_" class="st39" points="101.6,92.6 95.8,95.9 183.6,148.1 190.3,143.8 		"/>
+		<polygon id="XMLID_231_" class="st40" points="101.6,92.6 96.2,95.7 184,147.9 190.3,143.8 		"/>
+		<polygon id="XMLID_230_" class="st41" points="101.6,92.6 96.6,95.5 184.3,147.6 190.3,143.8 		"/>
+		<polygon id="XMLID_229_" class="st42" points="101.6,92.6 97,95.2 184.7,147.4 190.3,143.8 		"/>
+		<polygon id="XMLID_179_" class="st43" points="101.6,92.6 97.3,95 185.1,147.2 190.3,143.8 		"/>
+	</g>
+	<g>
+		<path id="XMLID_228_" class="st44" d="M154.3,61.2L154.3,61.2C154.3,61.2,154.3,61.2,154.3,61.2C154.3,61.2,154.3,61.2,154.3,61.2
+			z"/>
+		<linearGradient id="XMLID_289_" gradientUnits="userSpaceOnUse" x1="134.9368" y1="73.8424" x2="122.0367" y2="56.2839">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_227_" class="st45" d="M153.1,60c-9.9-8.9-24.7-9.3-35.3-1.3l-4.4,3.3c-0.7,0.7,9.6,4.8,9.7,5.8
+			c-5.4-1.5-11.2,2.5-11.2,8.5l0,0c0,2.8,0.7,5.5,2.1,7.9l40.3-23.1C154,60.9,153.6,60.5,153.1,60z"/>
+		<linearGradient id="XMLID_290_" gradientUnits="userSpaceOnUse" x1="201.2877" y1="139.6259" x2="177.6376" y2="106.659">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_226_" class="st46" d="M212.3,121.7c-1-9.4-7.6-20-15.4-24.5c-0.4-0.3-0.9-0.5-1.3-0.7l-38.3,22l33.5,25.4
+			c0,0,14.1-7.7,17.1-9.5c0.2-0.1,0.5-0.3,0.7-0.5c0,0,0,0,0,0c0.6-0.4,1.1-0.9,1.5-1.4c1.5-1.7,2.4-4,2.4-6.5v-4.1L212.3,121.7z"/>
+		<linearGradient id="XMLID_291_" gradientUnits="userSpaceOnUse" x1="111.9037" y1="86.9096" x2="212.4778" y2="86.9096">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_225_" class="st47" d="M195.4,96.4c0-0.6,0.1-1.2,0.1-1.9c0-13.9-5.8-26.4-14.9-33.6c-4.6-3.6-9.6-5.6-14.8-5.6
+			c-3.6,0-6.3,2-10.1,4.7c-1.1,0.7-2,1.6-3.1,2.2c-7.9,4.5-38.5,22.1-38.5,22.1c1.4,2.4,3.4,4.5,5.9,5.9l37.4,28.3l38.3-22
+			C195.5,96.5,195.4,96.4,195.4,96.4z"/>
+		<path id="XMLID_177_" class="st48" d="M193,133.2c-1-9.4-7.6-20-15.4-24.5c-0.5-0.3-1-0.6-1.5-0.8c0-0.6,0.1-1.2,0.1-1.9
+			c0-13.9-9.9-31-21.9-38c-9.7-5.6-18-3-20.9,5.5c-2.9-3.6-6.2-6.6-9.8-8.7c-11-6.3-19.9-1.2-19.9,11.5c0,1,0.1,2,0.2,3.1
+			c-5.4-1.5-11.2,2.5-11.2,8.5v0c0,5.7,3,10.9,8,13.8l77.6,44.4c3.5,2,7.4,1.6,10.4-0.3c0.2-0.1,0.5-0.3,0.7-0.5c0,0,0,0,0,0
+			c0.6-0.4,1.1-0.9,1.5-1.4c1.5-1.7,2.4-4,2.4-6.5v-4.1L193,133.2z"/>
+	</g>
+	<g>
+		<g id="XMLID_411_" class="st49">
+			<path id="XMLID_243_" class="st50" d="M114.7,80.2v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1L118,78.2C116.5,77.4,114.7,78.5,114.7,80.2z"/>
+			<path id="XMLID_224_" class="st51" d="M113.8,80.7v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1L117,78.8C115.6,78,113.8,79,113.8,80.7z"/>
+			<path id="XMLID_223_" class="st52" d="M112.8,81.3V111c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C114.6,78.5,112.8,79.6,112.8,81.3z"/>
+			<path id="XMLID_222_" class="st53" d="M111.8,81.8v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C113.6,79.1,111.8,80.2,111.8,81.8z"/>
+			<path id="XMLID_221_" class="st54" d="M110.9,82.4v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C112.7,79.7,110.9,80.7,110.9,82.4z"/>
+			<path id="XMLID_220_" class="st55" d="M109.9,83v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1L113.2,81C111.7,80.2,109.9,81.3,109.9,83z"/>
+			<path id="XMLID_219_" class="st56" d="M108.9,83.5v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C110.7,80.8,108.9,81.8,108.9,83.5z"/>
+			<path id="XMLID_217_" class="st57" d="M108,84.1v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C109.8,81.3,108,82.4,108,84.1z"/>
+			<path id="XMLID_216_" class="st58" d="M107,84.6v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C108.8,81.9,107,83,107,84.6z"/>
+			<path id="XMLID_215_" class="st59" d="M106,85.2v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C107.9,82.5,106,83.5,106,85.2z"/>
+			<path id="XMLID_214_" class="st60" d="M105.1,85.8v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C106.9,83,105.1,84.1,105.1,85.8z"/>
+			<path id="XMLID_213_" class="st61" d="M104.1,86.3v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C105.9,83.6,104.1,84.6,104.1,86.3z"/>
+			<path id="XMLID_212_" class="st62" d="M103.1,86.9v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1L106.4,85C105,84.1,103.1,85.2,103.1,86.9z"/>
+			<path id="XMLID_211_" class="st63" d="M102.2,87.5v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C104,84.7,102.2,85.8,102.2,87.5z"/>
+			<path id="XMLID_210_" class="st64" d="M101.2,88v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C103,85.3,101.2,86.3,101.2,88z"/>
+			<path id="XMLID_209_" class="st65" d="M100.2,88.6v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C102.1,85.8,100.2,86.9,100.2,88.6z"/>
+			<path id="XMLID_208_" class="st66" d="M99.3,89.1v29.7c0,1.3,0.7,2.5,1.8,1.6l50.9,28.9c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C101.1,86.4,99.3,87.4,99.3,89.1z"/>
+			<path id="XMLID_207_" class="st67" d="M98.3,89.7v29.7c0,1.3,0.7,2.5,1.8,1.6L151,150c1.5,2.3,3.3,1.3,3.3-0.4v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C100.1,86.9,98.3,88,98.3,89.7z"/>
+			<path id="XMLID_206_" class="st68" d="M97.3,90.3V120c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C99.2,87.5,97.3,88.6,97.3,90.3z"/>
+			<path id="XMLID_205_" class="st69" d="M96.4,90.8v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L99.7,88.9C98.2,88.1,96.4,89.1,96.4,90.8z"/>
+			<path id="XMLID_204_" class="st70" d="M95.4,91.4v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L98.7,89.5C97.2,88.6,95.4,89.7,95.4,91.4z"/>
+			<path id="XMLID_203_" class="st71" d="M94.4,91.9v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L97.7,90C96.3,89.2,94.4,90.2,94.4,91.9z"/>
+			<path id="XMLID_202_" class="st72" d="M93.5,92.5v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L96.8,90.6C95.3,89.7,93.5,90.8,93.5,92.5z"/>
+			<path id="XMLID_201_" class="st73" d="M92.5,93.1v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L95.8,91.1C94.3,90.3,92.5,91.4,92.5,93.1z"/>
+			<path id="XMLID_200_" class="st74" d="M91.5,93.6v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L94.8,91.7C93.4,90.9,91.5,91.9,91.5,93.6z"/>
+			<path id="XMLID_199_" class="st75" d="M90.6,94.2v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L93.9,92.3C92.4,91.4,90.6,92.5,90.6,94.2z"/>
+			<path id="XMLID_197_" class="st76" d="M89.6,94.7v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L92.9,92.8C91.4,92,89.6,93,89.6,94.7z"/>
+			<path id="XMLID_194_" class="st77" d="M88.6,95.3V125c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L91.9,93.4C90.5,92.5,88.6,93.6,88.6,95.3z"/>
+			<path id="XMLID_193_" class="st78" d="M87.7,95.9v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L91,93.9C89.5,93.1,87.7,94.2,87.7,95.9z"/>
+			<path id="XMLID_192_" class="st79" d="M86.7,96.4v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L90,94.5C88.5,93.7,86.7,94.7,86.7,96.4z"/>
+			<path id="XMLID_191_" class="st80" d="M85.7,97v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L89,95.1C87.6,94.2,85.7,95.3,85.7,97z"/>
+			<path id="XMLID_190_" class="st81" d="M84.8,97.5v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L88.1,95.6C86.6,94.8,84.8,95.9,84.8,97.5z"/>
+			<path id="XMLID_189_" class="st82" d="M83.8,98.1v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L87.1,96.2C85.6,95.4,83.8,96.4,83.8,98.1z"/>
+			<path id="XMLID_188_" class="st83" d="M82.9,98.7v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L86.1,96.7C84.7,95.9,82.9,97,82.9,98.7z"/>
+			<path id="XMLID_172_" class="st84" d="M81.9,99.2V129c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L85.2,97.3C83.7,96.5,81.9,97.5,81.9,99.2z"/>
+			<path id="XMLID_171_" class="st85" d="M80.9,99.8v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L84.2,97.9C82.7,97,80.9,98.1,80.9,99.8z"/>
+			<path id="XMLID_170_" class="st86" d="M80,100.3v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L83.2,98.4C81.8,97.6,80,98.7,80,100.3z"/>
+			<path id="XMLID_169_" class="st87" d="M79,100.9v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L82.3,99C80.8,98.2,79,99.2,79,100.9z"/>
+			<path id="XMLID_168_" class="st88" d="M78,101.5v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1L81.3,99.5C79.8,98.7,78,99.8,78,101.5z"/>
+			<path id="XMLID_167_" class="st89" d="M77.1,102v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C78.9,99.3,77.1,100.3,77.1,102z"/>
+			<path id="XMLID_166_" class="st90" d="M76.1,102.6v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C77.9,99.8,76.1,100.9,76.1,102.6z"/>
+			<path id="XMLID_242_" class="st91" d="M75.1,103.1v29.7c0,1.3,0.7,2.5,1.8,3.1l50.9,28.9c1.5,0.8,3.3-0.2,3.3-1.9v-31
+				c0-1.3-0.7-2.5-1.8-3.1l-50.8-27.7C76.9,100.4,75.1,101.5,75.1,103.1z"/>
+		</g>
+		
+			<linearGradient id="XMLID_292_" gradientUnits="userSpaceOnUse" x1="350.7303" y1="231.1881" x2="350.5356" y2="308.6552" gradientTransform="matrix(-0.5039 -0.8638 -0.8638 0.5039 505.3084 274.6065)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_165_" class="st92" points="72,118.7 74.3,122.8 127.6,91.7 125.3,87.6 		"/>
+		
+			<linearGradient id="XMLID_293_" gradientUnits="userSpaceOnUse" x1="341.5191" y1="232.5282" x2="341.3244" y2="309.9952" gradientTransform="matrix(-0.5039 -0.8638 -0.8638 0.5039 505.3084 274.6065)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_164_" class="st93" points="75.4,127.3 77.8,131.4 131.1,100.3 128.7,96.3 		"/>
+		
+			<linearGradient id="XMLID_294_" gradientUnits="userSpaceOnUse" x1="232.3925" y1="229.1127" x2="232.1978" y2="306.5795" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_163_" class="st94" points="84.7,136.5 89.1,143.9 142.4,112.8 138,105.4 		"/>
+		
+			<linearGradient id="XMLID_296_" gradientUnits="userSpaceOnUse" x1="219.1654" y1="223.0204" x2="219.0024" y2="287.8652" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_162_" class="st95" points="111.4,149.2 115.7,156.6 155.8,132.5 155.8,122.8 		"/>
+		
+			<linearGradient id="XMLID_298_" gradientUnits="userSpaceOnUse" x1="210.78" y1="219.5084" x2="210.6485" y2="271.8166" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_161_" class="st96" points="131.1,155.3 135.5,162.8 167,143.8 167,134.1 		"/>
+		
+			<linearGradient id="XMLID_299_" gradientUnits="userSpaceOnUse" x1="237.9152" y1="213.6197" x2="237.7064" y2="296.6989" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1019" style="stop-color:#F7FAFE"/>
+			<stop  offset="0.1605" style="stop-color:#E1ECFA"/>
+			<stop  offset="0.2326" style="stop-color:#BDD5F5"/>
+			<stop  offset="0.3154" style="stop-color:#8BB6EE"/>
+			<stop  offset="0.406" style="stop-color:#4D8EE4"/>
+			<stop  offset="0.4849" style="stop-color:#1067DB"/>
+			<stop  offset="0.4934" style="stop-color:#1A6EDD"/>
+			<stop  offset="0.5472" style="stop-color:#5694E6"/>
+			<stop  offset="0.6007" style="stop-color:#8AB4ED"/>
+			<stop  offset="0.6527" style="stop-color:#B4CFF4"/>
+			<stop  offset="0.7029" style="stop-color:#D5E4F9"/>
+			<stop  offset="0.751" style="stop-color:#ECF3FC"/>
+			<stop  offset="0.7958" style="stop-color:#FAFCFE"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_160_" class="st97" points="89.1,122.4 93.4,129.9 150.2,95.8 142.4,91.3 		"/>
+		
+			<linearGradient id="XMLID_301_" gradientUnits="userSpaceOnUse" x1="225.6743" y1="223.6035" x2="225.4796" y2="301.0705" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_159_" class="st98" points="95.7,144.3 100,151.8 153.3,120.7 149,113.2 		"/>
+		<g id="XMLID_406_">
+			<polygon id="XMLID_237_" class="st43" points="110.4,87.1 110.4,121.6 122.6,114.6 122.6,80.3 			"/>
+			<polygon id="XMLID_409_" class="st99" points="110.4,121.6 105.6,118.7 105.6,84.3 110.4,87.1 			"/>
+			<polygon id="XMLID_408_" class="st43" points="122.6,80.3 117.4,77.4 105.6,84.3 110.4,87.1 			"/>
+			<polygon id="XMLID_407_" class="st48" points="122.3,80.3 117.5,77.6 106.3,84.1 110.7,86.7 			"/>
+		</g>
+		<g id="XMLID_234_">
+			<linearGradient id="XMLID_302_" gradientUnits="userSpaceOnUse" x1="119.9188" y1="103.8297" x2="129.1152" y2="103.8297">
+				<stop  offset="0.1499" style="stop-color:#FF9800"/>
+				<stop  offset="1" style="stop-color:#FFC107"/>
+			</linearGradient>
+			<polygon id="XMLID_405_" class="st100" points="119.9,89.2 119.9,123.6 129.1,118.4 129.1,84.1 			"/>
+			<linearGradient id="XMLID_303_" gradientUnits="userSpaceOnUse" x1="115.0535" y1="104.9542" x2="119.9189" y2="104.9542">
+				<stop  offset="0.1499" style="stop-color:#FF9800"/>
+				<stop  offset="1" style="stop-color:#FFC107"/>
+			</linearGradient>
+			<polygon id="XMLID_404_" class="st101" points="119.9,123.6 115.1,120.8 115.1,86.3 119.9,89.2 			"/>
+			<polygon id="XMLID_236_" class="st102" points="129.1,84.1 123.9,81.1 115.1,86.3 119.9,89.2 			"/>
+			<polygon id="XMLID_235_" class="st48" points="128.8,84.1 124,81.4 115.7,86.2 120.2,88.7 			"/>
+		</g>
+		<g id="XMLID_195_">
+			
+				<linearGradient id="XMLID_304_" gradientUnits="userSpaceOnUse" x1="409.3596" y1="108.6114" x2="421.5341" y2="108.6114" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+				<stop  offset="0" style="stop-color:#7EA7DF"/>
+				<stop  offset="1" style="stop-color:#A5CBEF"/>
+			</linearGradient>
+			<polygon id="XMLID_233_" class="st103" points="123.8,94.8 123.8,129.2 136,122.3 136,88 			"/>
+			
+				<linearGradient id="XMLID_305_" gradientUnits="userSpaceOnUse" x1="421.5341" y1="110.6096" x2="426.3995" y2="110.6096" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+				<stop  offset="0" style="stop-color:#7EA7DF"/>
+				<stop  offset="1" style="stop-color:#A5CBEF"/>
+			</linearGradient>
+			<polygon id="XMLID_218_" class="st104" points="123.8,129.2 118.9,126.4 118.9,92 123.8,94.8 			"/>
+			<polygon id="XMLID_198_" class="st105" points="136,88 130.8,85.1 118.9,92 123.8,94.8 			"/>
+			<polygon id="XMLID_196_" class="st48" points="135.6,88 130.8,85.3 119.6,91.8 124.1,94.4 			"/>
+		</g>
+		
+			<linearGradient id="XMLID_306_" gradientUnits="userSpaceOnUse" x1="396.9029" y1="105.203" x2="409.3186" y2="105.203" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+			<stop  offset="0" style="stop-color:#7EA7DF"/>
+			<stop  offset="1" style="stop-color:#5D7DBE"/>
+		</linearGradient>
+		<polygon id="XMLID_187_" class="st106" points="136,88 136,122.4 148.2,115.5 148.4,94.8 		"/>
+		
+			<linearGradient id="XMLID_307_" gradientUnits="userSpaceOnUse" x1="377.2132" y1="116.0178" x2="389.6291" y2="116.0178" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+			<stop  offset="0" style="stop-color:#7EA7DF"/>
+			<stop  offset="1" style="stop-color:#5D7DBE"/>
+		</linearGradient>
+		<polygon id="XMLID_245_" class="st107" points="155.7,98.8 155.7,133.2 167.9,126.3 168.1,105.6 		"/>
+		<g id="XMLID_182_">
+			<polygon id="XMLID_186_" class="st43" points="141,107.8 141,142.2 155.9,133.6 155.9,98.9 			"/>
+			<polygon id="XMLID_185_" class="st99" points="141,142.2 133.9,138.2 133.9,103.8 141,107.8 			"/>
+			<polygon id="XMLID_184_" class="st108" points="155.9,98.9 148.4,94.8 133.9,103.8 141,107.8 			"/>
+			<polygon id="XMLID_183_" class="st48" points="155.5,98.9 148.8,95 134.9,103.6 141.3,107.4 			"/>
+		</g>
+		<g id="XMLID_173_">
+			
+				<linearGradient id="XMLID_308_" gradientUnits="userSpaceOnUse" x1="374.9538" y1="127.7387" x2="387.3119" y2="127.7387" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+				<stop  offset="0.1499" style="stop-color:#FF9800"/>
+				<stop  offset="1" style="stop-color:#FFC107"/>
+			</linearGradient>
+			<polygon id="XMLID_181_" class="st109" points="158,113.7 158,148.7 170.4,141.6 170.4,106.8 			"/>
+			
+				<linearGradient id="XMLID_309_" gradientUnits="userSpaceOnUse" x1="387.3116" y1="129.767" x2="392.2505" y2="129.767" gradientTransform="matrix(-1 0 0 1 545.3334 0)">
+				<stop  offset="0.1499" style="stop-color:#FF9800"/>
+				<stop  offset="1" style="stop-color:#FFC107"/>
+			</linearGradient>
+			<polygon id="XMLID_176_" class="st110" points="158,148.7 153.1,145.8 153.1,110.9 158,113.7 			"/>
+			<polygon id="XMLID_175_" class="st111" points="170.4,106.8 165.1,103.8 153.1,110.9 158,113.7 			"/>
+			<polygon id="XMLID_174_" class="st48" points="170,106.8 165.2,104 153.8,110.7 158.3,113.3 			"/>
+		</g>
+		
+			<linearGradient id="XMLID_310_" gradientUnits="userSpaceOnUse" x1="221.709" y1="202.8839" x2="221.5175" y2="279.0844" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1019" style="stop-color:#F7FAFE"/>
+			<stop  offset="0.1605" style="stop-color:#E1ECFA"/>
+			<stop  offset="0.2326" style="stop-color:#BDD5F5"/>
+			<stop  offset="0.3154" style="stop-color:#8BB6EE"/>
+			<stop  offset="0.406" style="stop-color:#4D8EE4"/>
+			<stop  offset="0.4849" style="stop-color:#1067DB"/>
+			<stop  offset="0.4934" style="stop-color:#1A6EDD"/>
+			<stop  offset="0.5472" style="stop-color:#5694E6"/>
+			<stop  offset="0.6007" style="stop-color:#8AB4ED"/>
+			<stop  offset="0.6527" style="stop-color:#B4CFF4"/>
+			<stop  offset="0.7029" style="stop-color:#D5E4F9"/>
+			<stop  offset="0.751" style="stop-color:#ECF3FC"/>
+			<stop  offset="0.7958" style="stop-color:#FAFCFE"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_158_" class="st112" points="118.4,140 122.7,147.4 170.4,118.4 170.4,108.7 		"/>
+		
+			<linearGradient id="XMLID_311_" gradientUnits="userSpaceOnUse" x1="238.7673" y1="224.1544" x2="238.5758" y2="300.3549" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_157_" class="st113" points="84.3,123.7 88.6,131.2 136.3,102.1 136.3,92.4 		"/>
+		
+			<linearGradient id="XMLID_312_" gradientUnits="userSpaceOnUse" x1="230.2621" y1="210.6503" x2="230.0706" y2="286.8507" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1019" style="stop-color:#F7FAFE"/>
+			<stop  offset="0.1605" style="stop-color:#E1ECFA"/>
+			<stop  offset="0.2326" style="stop-color:#BDD5F5"/>
+			<stop  offset="0.3154" style="stop-color:#8BB6EE"/>
+			<stop  offset="0.406" style="stop-color:#4D8EE4"/>
+			<stop  offset="0.4849" style="stop-color:#1067DB"/>
+			<stop  offset="0.4934" style="stop-color:#1A6EDD"/>
+			<stop  offset="0.5472" style="stop-color:#5694E6"/>
+			<stop  offset="0.6007" style="stop-color:#8AB4ED"/>
+			<stop  offset="0.6527" style="stop-color:#B4CFF4"/>
+			<stop  offset="0.7029" style="stop-color:#D5E4F9"/>
+			<stop  offset="0.751" style="stop-color:#ECF3FC"/>
+			<stop  offset="0.7958" style="stop-color:#FAFCFE"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_156_" class="st114" points="103.8,130.4 108.1,137.8 155.8,108.8 155.8,99.1 		"/>
+		
+			<linearGradient id="XMLID_313_" gradientUnits="userSpaceOnUse" x1="239.2404" y1="215.7845" x2="239.035" y2="297.5114" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_155_" class="st115" points="87.1,121.1 91.4,128.5 146.7,94 139.1,89.8 		"/>
+		
+			<linearGradient id="XMLID_314_" gradientUnits="userSpaceOnUse" x1="229.7395" y1="205.3938" x2="229.5341" y2="287.1207" gradientTransform="matrix(-0.9225 -1.5814 -0.8638 0.5039 554.8942 359.5846)">
+			<stop  offset="6.415390e-002" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1077" style="stop-color:#F7F8FA"/>
+			<stop  offset="0.1753" style="stop-color:#E1E4EC"/>
+			<stop  offset="0.2586" style="stop-color:#BDC4D6"/>
+			<stop  offset="0.3541" style="stop-color:#8C98B7"/>
+			<stop  offset="0.4589" style="stop-color:#4D608F"/>
+			<stop  offset="0.4849" style="stop-color:#3C5185"/>
+			<stop  offset="0.5132" style="stop-color:#576996"/>
+			<stop  offset="0.5723" style="stop-color:#8A96B6"/>
+			<stop  offset="0.6306" style="stop-color:#B4BCD0"/>
+			<stop  offset="0.687" style="stop-color:#D5D9E4"/>
+			<stop  offset="0.7408" style="stop-color:#ECEEF3"/>
+			<stop  offset="0.7911" style="stop-color:#FAFBFC"/>
+			<stop  offset="0.8343" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<polygon id="XMLID_154_" class="st116" points="104.8,130.9 109.2,138.3 164.4,103.8 156.8,99.6 		"/>
+		<g>
+			<g>
+				<circle id="XMLID_153_" class="st43" cx="168.8" cy="111.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_152_" class="st43" cx="166.4" cy="114.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_151_" class="st43" cx="164.7" cy="119.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_150_" class="st43" cx="160" cy="125.3" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_149_" class="st43" cx="154.1" cy="110.1" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_148_" class="st43" cx="150.2" cy="109.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_147_" class="st43" cx="150.1" cy="115.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_146_" class="st43" cx="141.6" cy="117.8" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_145_" class="st43" cx="141.8" cy="121.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_144_" class="st43" cx="129.8" cy="133.8" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_143_" class="st43" cx="171.3" cy="131.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_142_" class="st43" cx="159.7" cy="138.6" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_141_" class="st43" cx="154.9" cy="141.1" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_140_" class="st43" cx="146" cy="143.5" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_139_" class="st43" cx="150.8" cy="139.6" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_138_" class="st43" cx="152.6" cy="151.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_137_" class="st43" cx="145.3" cy="151.9" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_136_" class="st43" cx="123.4" cy="126.1" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_135_" class="st43" cx="121.3" cy="128.1" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_134_" class="st43" cx="101.9" cy="137.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_133_" class="st43" cx="133.1" cy="104.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_132_" class="st43" cx="132.9" cy="109.7" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_131_" class="st43" cx="126.9" cy="121.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_130_" class="st43" cx="131.2" cy="94.6" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_129_" class="st43" cx="126.7" cy="96.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_128_" class="st43" cx="142.9" cy="92.7" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_127_" class="st43" cx="135.7" cy="96.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_126_" class="st43" cx="115.4" cy="89.1" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_125_" class="st43" cx="114" cy="90.6" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_124_" class="st43" cx="105.6" cy="95.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_123_" class="st43" cx="97.6" cy="98.8" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_122_" class="st43" cx="106.5" cy="87.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_121_" class="st43" cx="102.3" cy="90.9" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_120_" class="st43" cx="94.1" cy="96.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_119_" class="st43" cx="103.8" cy="99.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_118_" class="st43" cx="97.1" cy="108.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_117_" class="st43" cx="89.5" cy="115" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_116_" class="st43" cx="108.2" cy="116.6" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_115_" class="st43" cx="101.5" cy="121" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_114_" class="st43" cx="114.1" cy="128" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_113_" class="st43" cx="119.9" cy="136.2" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_112_" class="st43" cx="129.1" cy="140.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_111_" class="st43" cx="141.1" cy="145.8" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_110_" class="st43" cx="120.2" cy="113.2" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_109_" class="st43" cx="110.3" cy="118.4" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_108_" class="st43" cx="93.3" cy="125.1" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_107_" class="st43" cx="127.8" cy="109.9" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_106_" class="st43" cx="117.3" cy="102.5" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_105_" class="st43" cx="116.9" cy="106.2" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_104_" class="st43" cx="117.6" cy="118.1" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_103_" class="st43" cx="100.2" cy="86" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_102_" class="st43" cx="95.2" cy="89.9" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_101_" class="st43" cx="91.3" cy="92.8" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_100_" class="st43" cx="87.8" cy="95.4" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_99_" class="st43" cx="169.7" cy="127.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_98_" class="st43" cx="158.3" cy="135.8" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_97_" class="st43" cx="167.9" cy="132.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_96_" class="st43" cx="161.3" cy="137.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_95_" class="st43" cx="145" cy="145.2" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_94_" class="st43" cx="148.7" cy="137.2" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_93_" class="st43" cx="122.1" cy="148.9" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_92_" class="st43" cx="113.2" cy="140.2" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_91_" class="st43" cx="101.6" cy="130.7" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_90_" class="st43" cx="126.8" cy="118" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_89_" class="st43" cx="144.6" cy="128.9" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_88_" class="st43" cx="150.4" cy="126.8" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_87_" class="st43" cx="135.7" cy="135.9" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_86_" class="st43" cx="99.3" cy="124.3" r="0.2"/>
+			</g>
+			<g>
+				<circle id="XMLID_85_" class="st43" cx="167.9" cy="149.5" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_84_" class="st43" cx="146.4" cy="155.3" r="0.3"/>
+			</g>
+			<g>
+				<circle id="XMLID_83_" class="st43" cx="123.8" cy="148.1" r="0.3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g class="st117">
+			<path id="XMLID_612_" class="st2" d="M89,145.4l-33.2,19c-0.7,0.4-0.7,1.5,0,1.9l51.7,29.9c1.3,0.8,2.9,0.8,4.3,0l33.2-19
+				c0.7-0.4,0.7-1.5,0-1.9l-51.7-29.9C91.9,144.6,90.3,144.6,89,145.4z"/>
+			<path id="XMLID_82_" class="st3" d="M89,145.4l-33.1,18.9c-0.7,0.4-0.7,1.4,0,1.9l51.6,29.8c1.3,0.8,2.9,0.8,4.3,0l33.1-18.9
+				c0.7-0.4,0.7-1.4,0-1.9l-51.6-29.8C91.9,144.6,90.3,144.6,89,145.4z"/>
+			<path id="XMLID_81_" class="st4" d="M89,145.4l-33,18.9c-0.7,0.4-0.7,1.4,0,1.9l51.4,29.7c1.3,0.8,2.9,0.8,4.2,0l33-18.9
+				c0.7-0.4,0.7-1.4,0-1.9l-51.4-29.7C92,144.7,90.3,144.7,89,145.4z"/>
+			<path id="XMLID_80_" class="st5" d="M89.1,145.4l-32.9,18.8c-0.7,0.4-0.7,1.4,0,1.9l51.3,29.6c1.3,0.8,2.9,0.8,4.2,0l32.9-18.8
+				c0.7-0.4,0.7-1.4,0-1.9l-51.3-29.6C92,144.7,90.4,144.7,89.1,145.4z"/>
+			<path id="XMLID_79_" class="st6" d="M89.1,145.5l-32.8,18.8c-0.7,0.4-0.7,1.4,0,1.8l51.1,29.5c1.3,0.8,2.9,0.8,4.2,0l32.8-18.8
+				c0.7-0.4,0.7-1.4,0-1.8l-51.1-29.5C92,144.7,90.4,144.7,89.1,145.5z"/>
+			<path id="XMLID_78_" class="st7" d="M89.1,145.5l-32.7,18.7c-0.7,0.4-0.7,1.4,0,1.8l50.9,29.4c1.3,0.8,2.9,0.8,4.2,0l32.7-18.7
+				c0.7-0.4,0.7-1.4,0-1.8l-51-29.4C92,144.8,90.4,144.8,89.1,145.5z"/>
+			<path id="XMLID_77_" class="st8" d="M89.2,145.5l-32.6,18.6c-0.7,0.4-0.7,1.4,0,1.8l50.8,29.3c1.3,0.7,2.9,0.8,4.2,0l32.6-18.6
+				c0.7-0.4,0.7-1.4,0-1.8l-50.8-29.3C92.1,144.8,90.5,144.8,89.2,145.5z"/>
+			<path id="XMLID_76_" class="st9" d="M89.2,145.6l-32.5,18.6c-0.7,0.4-0.7,1.4,0,1.8l50.6,29.2c1.3,0.7,2.9,0.7,4.2,0l32.5-18.6
+				c0.7-0.4,0.7-1.4,0-1.8l-50.6-29.2C92.1,144.8,90.5,144.8,89.2,145.6z"/>
+			<path id="XMLID_75_" class="st10" d="M89.2,145.6l-32.4,18.5c-0.7,0.4-0.7,1.4,0,1.8l50.5,29.1c1.3,0.7,2.9,0.7,4.2,0l32.4-18.5
+				c0.7-0.4,0.7-1.4,0-1.8l-50.5-29.1C92.1,144.9,90.5,144.9,89.2,145.6z"/>
+			<path id="XMLID_74_" class="st11" d="M89.3,145.6L57,164.1c-0.7,0.4-0.7,1.4,0,1.8l50.3,29.1c1.3,0.7,2.9,0.7,4.2,0l32.3-18.5
+				c0.7-0.4,0.7-1.4,0-1.8l-50.3-29.1C92.1,144.9,90.6,144.9,89.3,145.6z"/>
+			<path id="XMLID_73_" class="st12" d="M89.3,145.7l-32.2,18.4c-0.7,0.4-0.7,1.4,0,1.8l50.2,29c1.3,0.7,2.9,0.7,4.1,0l32.2-18.4
+				c0.7-0.4,0.7-1.4,0-1.8l-50.2-29C92.2,144.9,90.6,144.9,89.3,145.7z"/>
+			<path id="XMLID_72_" class="st13" d="M89.3,145.7l-32.1,18.4c-0.7,0.4-0.7,1.4,0,1.8l50,28.9c1.3,0.7,2.8,0.7,4.1,0l32.1-18.4
+				c0.7-0.4,0.7-1.4,0-1.8l-50-28.9C92.2,145,90.6,145,89.3,145.7z"/>
+			<path id="XMLID_71_" class="st14" d="M89.4,145.7l-32,18.3c-0.7,0.4-0.7,1.4,0,1.8l49.8,28.8c1.3,0.7,2.8,0.7,4.1,0l32-18.3
+				c0.7-0.4,0.7-1.4,0-1.8l-49.8-28.8C92.2,145,90.7,145,89.4,145.7z"/>
+			<path id="XMLID_70_" class="st15" d="M89.4,145.8L57.5,164c-0.7,0.4-0.7,1.4,0,1.8l49.7,28.7c1.3,0.7,2.8,0.7,4.1,0l31.9-18.2
+				c0.7-0.4,0.7-1.4,0-1.8l-49.7-28.7C92.2,145,90.7,145,89.4,145.8z"/>
+			<path id="XMLID_69_" class="st16" d="M89.4,145.8L57.6,164c-0.7,0.4-0.7,1.4,0,1.8l49.5,28.6c1.3,0.7,2.8,0.7,4.1,0l31.8-18.2
+				c0.7-0.4,0.7-1.4,0-1.8l-49.5-28.6C92.3,145.1,90.7,145.1,89.4,145.8z"/>
+			<path id="XMLID_68_" class="st17" d="M89.5,145.8l-31.7,18.1c-0.7,0.4-0.7,1.4,0,1.8l49.4,28.5c1.3,0.7,2.8,0.7,4.1,0l31.7-18.1
+				c0.7-0.4,0.7-1.4,0-1.8l-49.4-28.5C92.3,145.1,90.7,145.1,89.5,145.8z"/>
+			<path id="XMLID_67_" class="st18" d="M89.5,145.8l-31.6,18.1c-0.7,0.4-0.7,1.4,0,1.8l49.2,28.4c1.3,0.7,2.8,0.7,4.1,0l31.6-18.1
+				c0.7-0.4,0.7-1.4,0-1.8l-49.2-28.4C92.3,145.1,90.8,145.1,89.5,145.8z"/>
+			<path id="XMLID_66_" class="st19" d="M89.6,145.9l-31.5,18c-0.7,0.4-0.7,1.4,0,1.8l49.1,28.3c1.3,0.7,2.8,0.7,4.1,0l31.5-18
+				c0.7-0.4,0.7-1.4,0-1.8l-49.1-28.3C92.4,145.2,90.8,145.2,89.6,145.9z"/>
+			<path id="XMLID_65_" class="st20" d="M89.6,145.9l-31.4,18c-0.7,0.4-0.7,1.4,0,1.8l48.9,28.2c1.2,0.7,2.8,0.7,4,0l31.4-18
+				c0.7-0.4,0.7-1.4,0-1.8l-48.9-28.2C92.4,145.2,90.8,145.2,89.6,145.9z"/>
+			<path id="XMLID_64_" class="st21" d="M89.6,145.9l-31.3,17.9c-0.7,0.4-0.7,1.4,0,1.8l48.7,28.1c1.2,0.7,2.8,0.7,4,0l31.3-17.9
+				c0.7-0.4,0.7-1.4,0-1.8l-48.7-28.1C92.4,145.2,90.9,145.2,89.6,145.9z"/>
+			<path id="XMLID_63_" class="st22" d="M89.7,146l-31.2,17.8c-0.7,0.4-0.7,1.4,0,1.8l48.6,28.1c1.2,0.7,2.8,0.7,4,0l31.2-17.8
+				c0.7-0.4,0.7-1.4,0-1.8L93.7,146C92.4,145.3,90.9,145.3,89.7,146z"/>
+			<path id="XMLID_62_" class="st23" d="M89.7,146l-31.1,17.8c-0.7,0.4-0.7,1.4,0,1.8l48.4,28c1.2,0.7,2.8,0.7,4,0l31.1-17.8
+				c0.7-0.4,0.7-1.4,0-1.8l-48.4-28C92.5,145.3,90.9,145.3,89.7,146z"/>
+			<path id="XMLID_61_" class="st24" d="M89.7,146l-31,17.7c-0.7,0.4-0.7,1.4,0,1.7l48.3,27.9c1.2,0.7,2.7,0.7,4,0l31-17.7
+				c0.7-0.4,0.7-1.4,0-1.7L93.7,146C92.5,145.3,91,145.3,89.7,146z"/>
+			<path id="XMLID_60_" class="st25" d="M89.8,146.1l-30.9,17.7c-0.7,0.4-0.7,1.4,0,1.7l48.1,27.8c1.2,0.7,2.7,0.7,4,0l30.9-17.7
+				c0.7-0.4,0.7-1.4,0-1.7l-48.1-27.8C92.5,145.4,91,145.4,89.8,146.1z"/>
+			<path id="XMLID_59_" class="st26" d="M89.8,146.1L59,163.7c-0.7,0.4-0.7,1.3,0,1.7l48,27.7c1.2,0.7,2.7,0.7,4,0l30.8-17.6
+				c0.7-0.4,0.7-1.3,0-1.7l-48-27.7C92.5,145.4,91,145.4,89.8,146.1z"/>
+			<path id="XMLID_58_" class="st27" d="M89.8,146.1l-30.7,17.6c-0.7,0.4-0.7,1.3,0,1.7l47.8,27.6c1.2,0.7,2.7,0.7,3.9,0l30.7-17.6
+				c0.7-0.4,0.7-1.3,0-1.7l-47.8-27.6C92.6,145.4,91.1,145.4,89.8,146.1z"/>
+			<path id="XMLID_57_" class="st28" d="M89.9,146.2l-30.6,17.5c-0.7,0.4-0.7,1.3,0,1.7l47.6,27.5c1.2,0.7,2.7,0.7,3.9,0l30.6-17.5
+				c0.7-0.4,0.7-1.3,0-1.7l-47.6-27.5C92.6,145.5,91.1,145.5,89.9,146.2z"/>
+			<path id="XMLID_56_" class="st29" d="M89.9,146.2l-30.5,17.4c-0.7,0.4-0.7,1.3,0,1.7l47.5,27.4c1.2,0.7,2.7,0.7,3.9,0l30.5-17.4
+				c0.7-0.4,0.7-1.3,0-1.7l-47.5-27.4C92.6,145.5,91.1,145.5,89.9,146.2z"/>
+			<path id="XMLID_55_" class="st30" d="M89.9,146.2l-30.4,17.4c-0.7,0.4-0.7,1.3,0,1.7l47.3,27.3c1.2,0.7,2.7,0.7,3.9,0l30.4-17.4
+				c0.7-0.4,0.7-1.3,0-1.7l-47.3-27.3C92.6,145.5,91.1,145.5,89.9,146.2z"/>
+			<path id="XMLID_54_" class="st31" d="M90,146.2l-30.3,17.3c-0.7,0.4-0.7,1.3,0,1.7l47.2,27.2c1.2,0.7,2.7,0.7,3.9,0l30.3-17.3
+				c0.7-0.4,0.7-1.3,0-1.7l-47.2-27.2C92.7,145.6,91.2,145.6,90,146.2z"/>
+			<path id="XMLID_53_" class="st32" d="M90,146.3l-30.2,17.3c-0.7,0.4-0.7,1.3,0,1.7l47,27.1c1.2,0.7,2.7,0.7,3.9,0l30.2-17.3
+				c0.7-0.4,0.7-1.3,0-1.7l-47-27.1C92.7,145.6,91.2,145.6,90,146.3z"/>
+			<path id="XMLID_52_" class="st33" d="M90,146.3l-30.1,17.2c-0.7,0.4-0.7,1.3,0,1.7l46.9,27.1c1.2,0.7,2.7,0.7,3.9,0l30.1-17.2
+				c0.7-0.4,0.7-1.3,0-1.7l-46.9-27.1C92.7,145.6,91.2,145.6,90,146.3z"/>
+			<path id="XMLID_51_" class="st34" d="M90.1,146.3l-30,17.1c-0.7,0.4-0.7,1.3,0,1.7l46.7,27c1.2,0.7,2.7,0.7,3.9,0l30-17.1
+				c0.7-0.4,0.7-1.3,0-1.7l-46.7-27C92.7,145.7,91.3,145.7,90.1,146.3z"/>
+			<path id="XMLID_50_" class="st35" d="M90.1,146.4l-29.9,17.1c-0.6,0.4-0.7,1.3,0,1.7l46.5,26.9c1.2,0.7,2.7,0.7,3.8,0l29.9-17.1
+				c0.6-0.4,0.7-1.3,0-1.7l-46.5-26.9C92.8,145.7,91.3,145.7,90.1,146.4z"/>
+			<path id="XMLID_49_" class="st36" d="M90.1,146.4l-29.8,17c-0.6,0.4-0.6,1.3,0,1.7l46.4,26.8c1.2,0.7,2.6,0.7,3.8,0l29.8-17
+				c0.6-0.4,0.6-1.3,0-1.7L94,146.4C92.8,145.7,91.3,145.7,90.1,146.4z"/>
+			<path id="XMLID_48_" class="st37" d="M90.2,146.4l-29.7,17c-0.6,0.4-0.6,1.3,0,1.7l46.2,26.7c1.2,0.7,2.6,0.7,3.8,0l29.7-17
+				c0.6-0.4,0.6-1.3,0-1.7L94,146.4C92.8,145.8,91.4,145.8,90.2,146.4z"/>
+			<path id="XMLID_47_" class="st38" d="M90.2,146.5l-29.6,16.9c-0.6,0.4-0.6,1.3,0,1.7l46.1,26.6c1.2,0.7,2.6,0.7,3.8,0l29.6-16.9
+				c0.6-0.4,0.6-1.3,0-1.7L94,146.5C92.8,145.8,91.4,145.8,90.2,146.5z"/>
+			<path id="XMLID_46_" class="st39" d="M90.2,146.5l-29.5,16.9c-0.6,0.4-0.6,1.3,0,1.7l45.9,26.5c1.2,0.7,2.6,0.7,3.8,0l29.5-16.9
+				c0.6-0.4,0.6-1.3,0-1.7L94,146.5C92.9,145.8,91.4,145.8,90.2,146.5z"/>
+			<path id="XMLID_45_" class="st40" d="M90.3,146.5l-29.4,16.8c-0.6,0.4-0.6,1.3,0,1.7l45.8,26.4c1.2,0.7,2.6,0.7,3.8,0l29.4-16.8
+				c0.6-0.4,0.6-1.3,0-1.7l-45.8-26.4C92.9,145.9,91.5,145.9,90.3,146.5z"/>
+			<path id="XMLID_44_" class="st41" d="M90.3,146.6L61,163.3c-0.6,0.4-0.6,1.3,0,1.6l45.6,26.3c1.2,0.7,2.6,0.7,3.8,0l29.3-16.7
+				c0.6-0.4,0.6-1.3,0-1.6l-45.6-26.3C92.9,145.9,91.5,145.9,90.3,146.6z"/>
+			<path id="XMLID_43_" class="st42" d="M90.4,146.6l-29.2,16.7c-0.6,0.4-0.6,1.3,0,1.6l45.4,26.2c1.2,0.7,2.6,0.7,3.8,0l29.2-16.7
+				c0.6-0.4,0.6-1.3,0-1.6l-45.4-26.2C92.9,145.9,91.5,145.9,90.4,146.6z"/>
+			<path id="XMLID_611_" class="st43" d="M90.4,146.6l-29.1,16.6c-0.6,0.4-0.6,1.3,0,1.6l45.3,26.1c1.2,0.7,2.6,0.7,3.7,0l29.1-16.6
+				c0.6-0.4,0.6-1.3,0-1.6l-45.3-26.1C93,146,91.5,146,90.4,146.6z"/>
+		</g>
+		<g>
+			<linearGradient id="XMLID_315_" gradientUnits="userSpaceOnUse" x1="92.465" y1="137.2836" x2="145.2823" y2="137.2836">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.3956" style="stop-color:#D5E7F8"/>
+				<stop  offset="0.7864" style="stop-color:#B2D3F1"/>
+				<stop  offset="0.9962" style="stop-color:#A5CBEF"/>
+			</linearGradient>
+			<path id="XMLID_610_" class="st118" d="M144.2,131.5l-50.2-29c-0.7-0.4-1.5,0.1-1.5,0.9v37.8c0,0.8,0.4,1.5,1.1,1.9l50.2,29
+				c0.7,0.4,1.5-0.1,1.5-0.9v-37.8C145.3,132.6,144.9,131.9,144.2,131.5z"/>
+			<path id="XMLID_609_" class="st119" d="M143.5,131.9l-50.2-29c-0.7-0.4-1.5,0.1-1.5,0.9v37.8c0,0.8,0.4,1.5,1.1,1.9l50.2,29
+				c0.7,0.4,1.5-0.1,1.5-0.9v-37.8C144.6,133,144.2,132.3,143.5,131.9z"/>
+			<polygon id="XMLID_607_" class="st120" points="141.7,134.3 94.4,106.9 94.4,141.5 141.7,168.9 			"/>
+			<linearGradient id="XMLID_316_" gradientUnits="userSpaceOnUse" x1="57.6225" y1="169.5074" x2="143.8366" y2="169.5074">
+				<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+				<stop  offset="0.2136" style="stop-color:#B2D3F1"/>
+				<stop  offset="0.6044" style="stop-color:#D5E7F8"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="XMLID_561_" class="st121" d="M89.8,145.4l-32.1,17c0,0-0.2,2.5,0.5,2.9l49.2,28.4c1.3,0.7,2.8,0.7,4.1,0l31.6-18.1
+				c1.3-0.8,0.5-2.9,0.5-2.9l-49.8-27.3C92.6,144.6,91,144.6,89.8,145.4z"/>
+			<path id="XMLID_560_" class="st48" d="M89.8,143.4l-31.6,18.1c-0.7,0.4-0.7,1.4,0,1.8l49.2,28.4c1.3,0.7,2.8,0.7,4.1,0l31.6-18.1
+				c0.7-0.4,0.7-1.4,0-1.8l-49.2-28.4C92.6,142.7,91,142.7,89.8,143.4z"/>
+			<path id="XMLID_559_" class="st119" d="M87,166.8l-8.3,4.8c-0.2,0.1-0.2,0.4,0,0.5l13,7.5c0.3,0.2,0.7,0.2,1.1,0l8.3-4.8
+				c0.2-0.1,0.2-0.4,0-0.5l-13-7.5C87.7,166.6,87.3,166.6,87,166.8z"/>
+			<path id="XMLID_556_" class="st119" d="M93.3,146.2l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C93,146.1,93.2,146.1,93.3,146.2z"/>
+			<path id="XMLID_546_" class="st119" d="M97.3,148.6l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C97,148.5,97.2,148.5,97.3,148.6z"/>
+			<path id="XMLID_545_" class="st119" d="M101.3,150.8l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C101,150.7,101.2,150.7,101.3,150.8z"/>
+			<path id="XMLID_544_" class="st119" d="M105.4,153.1l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C105.2,153.1,105.3,153.1,105.4,153.1z"/>
+			<path id="XMLID_543_" class="st119" d="M109.4,155.3l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C109.1,155.3,109.3,155.3,109.4,155.3z"/>
+			<path id="XMLID_542_" class="st119" d="M113.2,157.7l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C113,157.7,113.1,157.7,113.2,157.7z"/>
+			<path id="XMLID_541_" class="st119" d="M117.3,159.9l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C117,159.9,117.1,159.9,117.3,159.9z"/>
+			<path id="XMLID_540_" class="st119" d="M121.2,162.3l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C121,162.3,121.1,162.3,121.2,162.3z"/>
+			<path id="XMLID_539_" class="st119" d="M125.1,164.6l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C124.9,164.6,125,164.6,125.1,164.6z"/>
+			<path id="XMLID_538_" class="st119" d="M129.3,167l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C129,166.9,129.2,166.9,129.3,167z"/>
+			<path id="XMLID_537_" class="st119" d="M133.3,169.2l2.7,1.6c0.1,0.1,0.1,0.2,0,0.3l-1.4,0.8c-0.1,0.1-0.2,0.1-0.4,0l-2.7-1.6
+				c-0.1-0.1-0.1-0.2,0-0.3l1.4-0.8C133,169.2,133.2,169.2,133.3,169.2z"/>
+			<g id="XMLID_526_">
+				<path id="XMLID_536_" class="st119" d="M87.7,149.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C87.5,149.7,87.5,149.3,87.7,149.1z"/>
+				<path id="XMLID_535_" class="st119" d="M91.9,151.5l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C91.6,152,91.6,151.7,91.9,151.5z"/>
+				<path id="XMLID_534_" class="st119" d="M95.9,153.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C95.6,154.3,95.6,153.9,95.9,153.8z"/>
+				<path id="XMLID_593_" class="st119" d="M100.1,156.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C99.9,156.6,99.9,156.2,100.1,156.1z"/>
+				<path id="XMLID_533_" class="st119" d="M103.9,158.3l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C103.6,158.8,103.6,158.5,103.9,158.3z"/>
+				<path id="XMLID_532_" class="st119" d="M107.7,160.7l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C107.5,161.2,107.5,160.8,107.7,160.7z"/>
+				<path id="XMLID_531_" class="st119" d="M111.8,162.9l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C111.6,163.4,111.6,163.1,111.8,162.9z"/>
+				<path id="XMLID_530_" class="st119" d="M115.8,165.2l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C115.6,165.7,115.5,165.3,115.8,165.2z"/>
+				<path id="XMLID_529_" class="st119" d="M119.7,167.6l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C119.5,168.1,119.5,167.7,119.7,167.6z"/>
+				<path id="XMLID_528_" class="st119" d="M124,170.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C123.8,170.6,123.8,170.3,124,170.1z"/>
+				<path id="XMLID_527_" class="st119" d="M127.9,172.2l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C127.6,172.7,127.6,172.4,127.9,172.2z"/>
+			</g>
+			<g id="XMLID_514_">
+				<path id="XMLID_525_" class="st119" d="M83.6,151.4l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C83.4,151.9,83.4,151.5,83.6,151.4z"/>
+				<path id="XMLID_524_" class="st119" d="M87.7,153.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C87.5,154.3,87.5,153.9,87.7,153.8z"/>
+				<path id="XMLID_523_" class="st119" d="M91.8,156l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C91.5,156.5,91.5,156.2,91.8,156z"/>
+				<path id="XMLID_522_" class="st119" d="M96,158.3l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0L96,159C95.8,158.8,95.8,158.5,96,158.3z"/>
+				<path id="XMLID_521_" class="st119" d="M99.8,160.5l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C99.5,161.1,99.5,160.7,99.8,160.5z"/>
+				<path id="XMLID_520_" class="st119" d="M103.6,162.9l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C103.4,163.4,103.4,163.1,103.6,162.9z"/>
+				<path id="XMLID_519_" class="st119" d="M107.7,165.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C107.4,165.7,107.4,165.3,107.7,165.1z"/>
+				<path id="XMLID_518_" class="st119" d="M111.7,167.4l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C111.4,167.9,111.4,167.6,111.7,167.4z"/>
+				<path id="XMLID_517_" class="st119" d="M115.6,169.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C115.4,170.3,115.4,170,115.6,169.8z"/>
+				<path id="XMLID_516_" class="st119" d="M119.9,172.3l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C119.6,172.9,119.6,172.5,119.9,172.3z"/>
+				<path id="XMLID_515_" class="st119" d="M123.8,174.4l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C123.5,175,123.5,174.6,123.8,174.4z"/>
+			</g>
+			<g id="XMLID_502_">
+				<path id="XMLID_513_" class="st119" d="M79.5,153.6l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C79.2,154.1,79.2,153.8,79.5,153.6z"/>
+				<path id="XMLID_512_" class="st119" d="M83.6,156l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C83.4,156.5,83.4,156.1,83.6,156z"/>
+				<path id="XMLID_511_" class="st119" d="M87.6,158.2l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C87.4,158.8,87.4,158.4,87.6,158.2z"/>
+				<path id="XMLID_510_" class="st119" d="M91.9,160.6l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C91.7,161.1,91.7,160.7,91.9,160.6z"/>
+				<path id="XMLID_509_" class="st119" d="M95.7,162.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C95.4,163.3,95.4,162.9,95.7,162.8z"/>
+				<path id="XMLID_508_" class="st119" d="M99.5,165.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C99.2,165.7,99.2,165.3,99.5,165.1z"/>
+				<path id="XMLID_507_" class="st119" d="M103.6,167.4l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C103.3,167.9,103.3,167.5,103.6,167.4z"/>
+				<path id="XMLID_506_" class="st119" d="M107.6,169.6l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C107.3,170.2,107.3,169.8,107.6,169.6z"/>
+				<path id="XMLID_505_" class="st119" d="M111.5,172.1l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C111.3,172.6,111.3,172.2,111.5,172.1z"/>
+				<path id="XMLID_504_" class="st119" d="M115.8,174.6l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C115.5,175.1,115.5,174.7,115.8,174.6z"/>
+				<path id="XMLID_503_" class="st119" d="M119.7,176.7l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C119.4,177.2,119.4,176.8,119.7,176.7z"/>
+			</g>
+			<g id="XMLID_490_">
+				<path id="XMLID_501_" class="st119" d="M75.4,155.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C75.1,156.4,75.1,156,75.4,155.8z"/>
+				<path id="XMLID_500_" class="st119" d="M79.5,158.2l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C79.3,158.7,79.3,158.4,79.5,158.2z"/>
+				<path id="XMLID_499_" class="st119" d="M83.5,160.5l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C83.3,161,83.3,160.6,83.5,160.5z"/>
+				<path id="XMLID_496_" class="st119" d="M87.8,162.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C87.5,163.3,87.5,163,87.8,162.8z"/>
+				<path id="XMLID_495_" class="st119" d="M91.9,165.3l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l9.4,5.4c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-9.4-5.4C91.7,165.8,91.7,165.4,91.9,165.3z"/>
+				<path id="XMLID_494_" class="st119" d="M103.5,171.9l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C103.2,172.4,103.2,172,103.5,171.9z"/>
+				<path id="XMLID_493_" class="st119" d="M107.4,174.3l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7L110,176
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C107.1,174.8,107.1,174.4,107.4,174.3z"/>
+				<path id="XMLID_492_" class="st119" d="M111.7,176.8l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C111.4,177.3,111.4,177,111.7,176.8z"/>
+				<path id="XMLID_491_" class="st119" d="M115.5,178.9l1.8-1.1c0.2-0.1,0.5-0.1,0.8,0l1.8,1c0.3,0.1,0.3,0.5,0,0.7l-1.8,1.1
+					c-0.2,0.1-0.5,0.2-0.8,0l-1.8-1.1C115.3,179.4,115.3,179.1,115.5,178.9z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="XMLID_489_" class="st122">
+			<polygon id="XMLID_498_" class="st2" points="139.5,167.6 114.7,182.5 69.7,156.6 95.1,142 			"/>
+			<polygon id="XMLID_42_" class="st3" points="139.5,167.6 115.2,182.2 70.2,156.3 95.1,142 			"/>
+			<polygon id="XMLID_41_" class="st4" points="139.5,167.6 115.7,181.9 70.7,156 95.1,142 			"/>
+			<polygon id="XMLID_40_" class="st5" points="139.5,167.6 116.2,181.6 71.2,155.7 95.1,142 			"/>
+			<polygon id="XMLID_39_" class="st6" points="139.5,167.6 116.7,181.3 71.8,155.4 95.1,142 			"/>
+			<polygon id="XMLID_38_" class="st7" points="139.5,167.6 117.2,181 72.3,155.1 95.1,142 			"/>
+			<polygon id="XMLID_37_" class="st8" points="139.5,167.6 117.7,180.7 72.8,154.7 95.1,142 			"/>
+			<polygon id="XMLID_36_" class="st9" points="139.5,167.6 118.3,180.4 73.3,154.4 95.1,142 			"/>
+			<polygon id="XMLID_35_" class="st10" points="139.5,167.6 118.8,180.1 73.8,154.1 95.1,142 			"/>
+			<polygon id="XMLID_34_" class="st11" points="139.5,167.6 119.3,179.8 74.4,153.8 95.1,142 			"/>
+			<polygon id="XMLID_33_" class="st12" points="139.5,167.6 119.8,179.5 74.9,153.5 95.1,142 			"/>
+			<polygon id="XMLID_32_" class="st13" points="139.5,167.6 120.3,179.2 75.4,153.2 95.1,142 			"/>
+			<polygon id="XMLID_31_" class="st14" points="139.5,167.6 120.8,178.9 75.9,152.9 95.1,142 			"/>
+			<polygon id="XMLID_30_" class="st15" points="139.5,167.6 121.3,178.5 76.4,152.6 95.1,142 			"/>
+			<polygon id="XMLID_29_" class="st16" points="139.5,167.6 121.9,178.2 77,152.3 95.1,142 			"/>
+			<polygon id="XMLID_28_" class="st17" points="139.5,167.6 122.4,177.9 77.5,152 95.1,142 			"/>
+			<polygon id="XMLID_27_" class="st18" points="139.5,167.6 122.9,177.6 78,151.7 95.1,142 			"/>
+			<polygon id="XMLID_26_" class="st19" points="139.5,167.6 123.4,177.3 78.5,151.4 95.1,142 			"/>
+			<polygon id="XMLID_25_" class="st20" points="139.5,167.6 123.9,177 79,151.1 95.1,142 			"/>
+			<polygon id="XMLID_24_" class="st21" points="139.5,167.6 124.4,176.7 79.6,150.8 95.1,142 			"/>
+			<polygon id="XMLID_23_" class="st22" points="139.5,167.6 124.9,176.4 80.1,150.5 95.1,142 			"/>
+			<polygon id="XMLID_22_" class="st23" points="139.5,167.6 125.5,176.1 80.6,150.2 95.1,142 			"/>
+			<polygon id="XMLID_21_" class="st24" points="139.5,167.6 126,175.8 81.1,149.9 95.1,142 			"/>
+			<polygon id="XMLID_20_" class="st25" points="139.5,167.6 126.5,175.5 81.6,149.6 95.1,142 			"/>
+			<polygon id="XMLID_19_" class="st26" points="139.5,167.6 127,175.2 82.2,149.3 95.1,142 			"/>
+			<polygon id="XMLID_18_" class="st27" points="139.5,167.6 127.5,174.8 82.7,149 95.1,142 			"/>
+			<polygon id="XMLID_17_" class="st28" points="139.5,167.6 128,174.5 83.2,148.7 95.1,142 			"/>
+			<polygon id="XMLID_16_" class="st29" points="139.5,167.6 128.5,174.2 83.7,148.4 95.1,142 			"/>
+			<polygon id="XMLID_15_" class="st30" points="139.5,167.6 129.1,173.9 84.2,148.1 95.1,142 			"/>
+			<polygon id="XMLID_14_" class="st31" points="139.5,167.6 129.6,173.6 84.8,147.7 95.1,142 			"/>
+			<polygon id="XMLID_13_" class="st32" points="139.5,167.6 130.1,173.3 85.3,147.4 95.1,142 			"/>
+			<polygon id="XMLID_12_" class="st33" points="139.5,167.6 130.6,173 85.8,147.1 95.1,142 			"/>
+			<polygon id="XMLID_10_" class="st34" points="139.5,167.6 131.1,172.7 86.3,146.8 95.1,142 			"/>
+			<polygon id="XMLID_8_" class="st35" points="139.5,167.6 131.6,172.4 86.8,146.5 95.1,142 			"/>
+			<polygon id="XMLID_7_" class="st36" points="139.5,167.6 132.1,172.1 87.4,146.2 95.1,142 			"/>
+			<polygon id="XMLID_6_" class="st37" points="139.5,167.6 132.7,171.8 87.9,145.9 95.1,142 			"/>
+			<polygon id="XMLID_5_" class="st38" points="139.5,167.6 133.2,171.5 88.4,145.6 95.1,142 			"/>
+			<polygon id="XMLID_4_" class="st39" points="139.5,167.6 133.7,171.2 88.9,145.3 95.1,142 			"/>
+			<polygon id="XMLID_3_" class="st40" points="139.5,167.6 134.2,170.8 89.4,145 95.1,142 			"/>
+			<polygon id="XMLID_2_" class="st41" points="139.5,167.6 134.7,170.5 90,144.7 95.1,142 			"/>
+			<polygon id="XMLID_1_" class="st42" points="139.5,167.6 135.2,170.2 90.5,144.4 95.1,142 			"/>
+			<polygon id="XMLID_497_" class="st43" points="139.5,167.6 135.7,169.9 91,144.1 95.1,142 			"/>
+		</g>
+		<g>
+			<polygon id="XMLID_452_" class="st99" points="95,106.8 141.6,133.8 140.5,134.4 93.9,107.4 			"/>
+			<polygon id="XMLID_451_" class="st123" points="141.6,133.8 141.6,169.1 140.5,169.8 140.5,134.4 			"/>
+			<polygon id="XMLID_450_" class="st43" points="140.5,169.8 93.9,142.7 93.9,107.4 140.5,134.4 			"/>
+			<polygon id="XMLID_449_" class="st120" points="95.1,111.4 138.1,136.3 133.5,139 90.6,114.1 			"/>
+			
+				<linearGradient id="XMLID_317_" gradientUnits="userSpaceOnUse" x1="251.1447" y1="153.703" x2="255.7408" y2="153.703" gradientTransform="matrix(-1 0 0 1 389.2815 0)">
+				<stop  offset="0" style="stop-color:#A8D9FB"/>
+				<stop  offset="1" style="stop-color:#DFF0FD"/>
+			</linearGradient>
+			<polygon id="XMLID_448_" class="st124" points="138.1,136.3 138.1,168.4 133.6,171.1 133.5,139 			"/>
+			<polygon id="XMLID_376_" class="st125" points="133.6,171.1 90.6,146.2 90.6,114.1 133.5,139 			"/>
+			<polygon id="XMLID_375_" class="st126" points="134.1,138.6 134.1,170.7 134.7,170.4 134.7,138.3 			"/>
+			<polygon id="XMLID_374_" class="st126" points="135.3,138 135.3,170.1 135.9,169.7 135.9,137.6 			"/>
+			<polygon id="XMLID_373_" class="st126" points="136.5,137.3 136.5,169.4 137,169 137,136.9 			"/>
+			<polygon id="XMLID_372_" class="st120" points="137.5,136.7 137.5,168.8 138.1,168.4 138.1,136.3 			"/>
+			<polygon id="XMLID_371_" class="st127" points="90.6,114.1 133.5,139 134.1,138.6 91.2,113.8 			"/>
+			<polygon id="XMLID_370_" class="st48" points="111.7,126.9 111.7,158.3 86.7,147.6 86.7,116.2 			"/>
+			<polygon id="XMLID_369_" class="st128" points="111.5,127.1 111.5,158.3 112.1,158 112.1,126.8 			"/>
+			<polygon id="XMLID_368_" class="st119" points="86.7,116.2 111.4,126.7 112.1,126.5 87.2,115.9 			"/>
+			<polygon id="XMLID_367_" class="st127" points="91.7,113.4 134.7,138.3 135.3,137.9 92.3,113 			"/>
+			<polygon id="XMLID_366_" class="st127" points="92.9,112.7 135.9,137.6 136.5,137.2 93.5,112.4 			"/>
+			<polygon id="XMLID_360_" class="st127" points="94.1,112.1 137,137 137.5,136.7 94.6,111.7 			"/>
+			<polygon id="XMLID_349_" class="st129" points="127.1,142.4 127.1,174.1 111.4,158.3 111.4,126.6 			"/>
+			<polygon id="XMLID_348_" class="st130" points="126.3,144.2 126.3,145.5 112.2,131.1 112.2,130 			"/>
+			<polygon id="XMLID_347_" class="st130" points="126.3,147 126.3,148.3 112.2,133.9 112.2,132.8 			"/>
+			<polygon id="XMLID_346_" class="st130" points="126.3,149.8 126.3,151.1 112.2,136.7 112.2,135.6 			"/>
+			<polygon id="XMLID_345_" class="st130" points="126.3,152.6 126.3,153.9 112.2,139.5 112.2,138.4 			"/>
+			<polygon id="XMLID_343_" class="st130" points="126.3,155.4 126.3,156.7 112.2,142.3 112.2,141.2 			"/>
+			<polygon id="XMLID_342_" class="st130" points="126.3,158.2 126.3,159.5 112.2,145.2 112.2,144 			"/>
+			<polygon id="XMLID_341_" class="st130" points="126.3,161 126.3,162.3 112.2,148 112.2,146.8 			"/>
+			<polygon id="XMLID_340_" class="st130" points="126.3,163.9 126.3,165.1 112.2,150.8 112.2,149.7 			"/>
+			<polygon id="XMLID_334_" class="st130" points="126.3,166.7 126.3,167.9 112.2,153.6 112.2,152.5 			"/>
+			<polygon id="XMLID_333_" class="st130" points="126.3,169.5 126.3,170.7 112.2,156.4 112.2,155.3 			"/>
+			<polygon id="XMLID_300_" class="st119" points="127.1,142.4 127.1,174.1 127.6,173.8 127.6,142.1 			"/>
+			<polygon id="XMLID_282_" class="st119" points="111.4,126.6 127.1,142.4 127.6,142.1 112,126.4 			"/>
+			<polygon id="XMLID_281_" class="st130" points="110.4,129.2 110.4,130.4 88,120.8 88,119.7 			"/>
+			<polygon id="XMLID_280_" class="st130" points="110.4,132.1 110.4,133.2 88,123.6 88,122.5 			"/>
+			<polygon id="XMLID_279_" class="st130" points="110.4,134.9 110.4,136 88,126.4 88,125.3 			"/>
+			<polygon id="XMLID_278_" class="st130" points="110.4,137.7 110.4,138.8 88,129.2 88,128.1 			"/>
+			<polygon id="XMLID_277_" class="st130" points="110.4,140.5 110.4,141.7 88,132.1 88,131 			"/>
+			<polygon id="XMLID_276_" class="st130" points="110.4,143.4 110.4,144.5 88,134.9 88,133.8 			"/>
+			<polygon id="XMLID_275_" class="st130" points="110.4,146.2 110.4,147.3 88,137.7 88,136.6 			"/>
+			<polygon id="XMLID_274_" class="st130" points="110.4,149 110.4,150.2 88,140.6 88,139.5 			"/>
+			<polygon id="XMLID_273_" class="st130" points="110.4,151.9 110.4,153 88,143.4 88,142.3 			"/>
+			<polygon id="XMLID_254_" class="st130" points="110.4,154.7 110.4,155.8 88,146.2 88,145.1 			"/>
+		</g>
+	</g>
+	<g id="XMLID_613_">
+		<path id="XMLID_634_" class="st131" d="M73.5,182.8v4.4c0,0.7,0.6,1.3,1.3,1.3h0.4c0.8,0,1.5-0.2,2.2-0.5l4.3-1.7
+			c0.4-0.2,0.6-0.6,0.5-1.1l0,0c-0.3-0.9-1.1-1.4-2-1.4h-3.4l-0.5-0.9L73.5,182.8z"/>
+		<path id="XMLID_633_" class="st43" d="M82.2,185.2c-0.1,0.2-0.2,0.4-0.4,0.5l-4.3,1.7c-0.7,0.3-1.4,0.5-2.2,0.5h-0.4
+			c-0.7,0-1.3-0.6-1.3-1.3v0.6c0,0.7,0.6,1.3,1.3,1.3h0.4c0.8,0,1.5-0.2,2.2-0.5l4.3-1.7C82.1,186.1,82.3,185.6,82.2,185.2
+			C82.2,185.2,82.2,185.2,82.2,185.2z"/>
+		<g id="XMLID_631_">
+			<linearGradient id="XMLID_318_" gradientUnits="userSpaceOnUse" x1="72.7479" y1="170.6207" x2="77.8359" y2="170.6207">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.1821" style="stop-color:#F8FCFF"/>
+				<stop  offset="0.4523" style="stop-color:#E4F3FE"/>
+				<stop  offset="0.7757" style="stop-color:#C3E5FC"/>
+				<stop  offset="1" style="stop-color:#A8D9FB"/>
+			</linearGradient>
+			<path id="XMLID_632_" class="st132" d="M75,185.2L75,185.2c-1,0-1.8-0.8-1.8-1.8l0.3-11.3l0-6.6c0-0.5-0.1-1.1-0.3-1.6l-0.3-0.8
+				c-0.2-0.5-0.3-1.1-0.2-1.7l0.1-2.7c0-1,1.1-2.7,2.1-2.7c1,0,2.8,1,2.8,2l-0.1,14.1l-1.1,10.7C76.6,183.8,76.4,185.2,75,185.2z"/>
+		</g>
+		<path id="XMLID_630_" class="st131" d="M79.1,185.9v4.4c0,0.7,0.6,1.3,1.3,1.3h0.4c0.8,0,1.5-0.2,2.2-0.5l4.3-1.7
+			c0.4-0.2,0.6-0.6,0.5-1.1l0,0c-0.3-0.9-1.1-1.4-2-1.4h-3.4l-0.2-0.9L79.1,185.9z"/>
+		<path id="XMLID_629_" class="st43" d="M87.8,188.9c-0.1,0.2-0.2,0.4-0.4,0.5l-4.3,1.7c-0.7,0.3-1.4,0.5-2.2,0.5h-0.4
+			c-0.7,0-1.3-0.6-1.3-1.3v0.6c0,0.7,0.6,1.3,1.3,1.3h0.4c0.8,0,1.5-0.2,2.2-0.5l4.3-1.7C87.8,189.9,88,189.4,87.8,188.9
+			C87.8,189,87.8,189,87.8,188.9z"/>
+		<g id="XMLID_627_">
+			<linearGradient id="XMLID_319_" gradientUnits="userSpaceOnUse" x1="73.4798" y1="173.2406" x2="83.0069" y2="173.2406">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.1821" style="stop-color:#F8FCFF"/>
+				<stop  offset="0.4523" style="stop-color:#E4F3FE"/>
+				<stop  offset="0.7757" style="stop-color:#C3E5FC"/>
+				<stop  offset="1" style="stop-color:#A8D9FB"/>
+			</linearGradient>
+			<path id="XMLID_628_" class="st133" d="M80.7,188.3C80.7,188.3,80.6,188.3,80.7,188.3c-0.5,0-1.7-0.9-1.6-1.9l-0.3-11.6l-1.9-8.9
+				l-0.9-0.5c-1.4-0.8-2.3-2.2-2.4-3.8l-0.1-1.5c0-1,6.1-1.9,7.1-1.9c1,0,1.8,0.7,1.9,1.7l0.5,15.5l-0.7,11.1
+				C82.2,187.5,81.6,188.3,80.7,188.3z"/>
+		</g>
+		<path id="XMLID_626_" class="st43" d="M79.4,142.4l1.1,0.6c1.9,1.1,3,3.1,3,5.2l0.3,2.3c0.1,1-0.3,1.3-0.5,2.2l-0.2,3.1l0.1,7.6
+			c-7.4-0.3-10.4-3-10.4-3v-14.1C72.8,142.9,76.4,140.7,79.4,142.4z"/>
+		<path id="XMLID_625_" class="st134" d="M79.1,142h-0.6c-1,0-1.9-0.8-1.9-1.9v-5.1h6v3.4C82.6,140.4,81,142,79.1,142z"/>
+		<path id="XMLID_624_" class="st134" d="M78.8,143.7h-0.2c-0.6,0-1.1-0.5-1.1-1.1v-3.5c0-0.2,0.2-0.4,0.4-0.4h1.7
+			c0.2,0,0.4,0.2,0.4,0.4v3.5C79.9,143.2,79.4,143.7,78.8,143.7z"/>
+		<g id="XMLID_623_">
+			<path id="XMLID_297_" class="st131" d="M82.9,134.5c-0.2-0.3-0.5-0.5-1.1-0.7c-1.2-0.4-2.6-0.1-3.7,0.2c-1.9,0.6-3.1,1.8-3,3.9
+				c0.1,1.3,0.9,4,2.6,4c0.6,0,1.2-0.5,1.5-1c0.3-0.6,0.3-1.2,0.2-1.9c0-0.3-0.1-0.5,0-0.8c0.1-0.2,0.3-0.5,0.5-0.5
+				c0.3,0,0.5,0.3,0.7,0.6c0.2,0.3,0.5,0.6,0.8,0.5c0.3-0.1,0.3-0.5,0.2-0.8c-0.1-0.3-0.3-0.6-0.3-0.9c0-0.4,0.3-0.6,0.7-0.8
+				C82.9,135.9,83.3,135.1,82.9,134.5z"/>
+		</g>
+		<path id="XMLID_619_" class="st134" d="M83.8,154.5c-0.3,0-0.7-0.1-1-0.2c-1.3-0.4-2.3-1.5-2.4-2.9l-0.5-3.8
+			c-0.1-0.7,0.4-1.3,1-1.3c0.7-0.1,1.3,0.4,1.3,1l0.5,3.8c0.1,0.6,0.6,0.9,0.8,0.9c0.2,0,0.7,0.2,1.1-0.3l3.5-4
+			c0.4-0.5,1.2-0.5,1.7-0.1c0.5,0.4,0.5,1.2,0.1,1.7l-3.5,4C85.7,154.1,84.8,154.5,83.8,154.5z"/>
+		<path id="XMLID_618_" class="st43" d="M82.3,147.2c-0.1-0.8-0.9-1.3-1.6-1.1c-0.7,0.2-1.1,0.9-1,1.5l0.4,2.8
+			c0.1,0.7,0.8,1.3,1.5,1.2l0,0c0.7-0.1,1.3-0.8,1.2-1.5L82.3,147.2z"/>
+		<g id="XMLID_616_">
+			<path id="XMLID_617_" class="st134" d="M87.5,148.4l0.6-0.7c0.4-0.5,1.2-0.5,1.7-0.1c0.5,0.4,0.5,1.2,0.1,1.7l-0.7,0.8
+				L87.5,148.4z"/>
+		</g>
+		<circle id="XMLID_615_" class="st134" cx="89.5" cy="148.2" r="1.5"/>
+		<path id="XMLID_614_" class="st134" d="M90.8,145.7l-1.9,2c-0.1,0.1-0.3,0.1-0.4,0l0,0c-0.1-0.1-0.1-0.3,0-0.4l1.9-2
+			c0.1-0.1,0.3-0.1,0.4,0l0,0C90.9,145.4,90.9,145.5,90.8,145.7z"/>
+	</g>
+	<g id="XMLID_621_">
+		<g id="XMLID_1020_" class="st1">
+			<path id="XMLID_1082_" class="st2" d="M160.2,162l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.7c0.7,0.4,1.6,0.4,2.4,0l11.8-6.7
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C161.9,161.5,161,161.5,160.2,162z"/>
+			<path id="XMLID_1081_" class="st135" d="M160.2,162l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.6c0.7,0.4,1.6,0.4,2.4,0l11.8-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C161.9,161.6,161,161.6,160.2,162z"/>
+			<path id="XMLID_1080_" class="st136" d="M160.2,162l-11.7,6.8c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.7-6.8C161.9,161.6,161,161.6,160.2,162z"/>
+			<path id="XMLID_1079_" class="st137" d="M160.2,162.1l-11.7,6.7c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.5,0-2l-11.7-6.7C161.9,161.7,161,161.7,160.2,162.1z"/>
+			<path id="XMLID_1078_" class="st138" d="M160.3,162.1l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C161.9,161.7,161,161.7,160.3,162.1z"/>
+			<path id="XMLID_1077_" class="st139" d="M160.3,162.2l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C161.9,161.7,161,161.7,160.3,162.2z"/>
+			<path id="XMLID_1076_" class="st140" d="M160.3,162.2l-11.5,6.6c-0.8,0.4-0.7,1.5,0,2l11.5,6.5c0.7,0.4,1.6,0.4,2.3,0l11.5-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.5-6.6C161.9,161.8,161,161.8,160.3,162.2z"/>
+			<path id="XMLID_1075_" class="st141" d="M160.3,162.2l-11.4,6.6c-0.8,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C161.9,161.8,161,161.8,160.3,162.2z"/>
+			<path id="XMLID_1074_" class="st142" d="M160.3,162.3l-11.4,6.6c-0.7,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C161.9,161.8,161,161.8,160.3,162.3z"/>
+			<path id="XMLID_1073_" class="st143" d="M160.3,162.3l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.4c0.7,0.4,1.6,0.4,2.3,0l11.3-6.4
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C161.9,161.9,161,161.9,160.3,162.3z"/>
+			<path id="XMLID_1072_" class="st144" d="M160.3,162.3l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.3c0.7,0.4,1.6,0.4,2.3,0l11.3-6.3
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C161.9,161.9,161,161.9,160.3,162.3z"/>
+			<path id="XMLID_1071_" class="st145" d="M160.3,162.4l-11.2,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.6,0.4,2.3,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.2-6.5C161.9,162,161,162,160.3,162.4z"/>
+			<path id="XMLID_1070_" class="st146" d="M160.3,162.4l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.5,0.4,2.2,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C161.9,162,161,162,160.3,162.4z"/>
+			<path id="XMLID_1069_" class="st147" d="M160.3,162.5l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.3c0.7,0.4,1.5,0.4,2.2,0l11.1-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C161.9,162,161,162,160.3,162.5z"/>
+			<path id="XMLID_1068_" class="st148" d="M160.3,162.5l-11,6.4c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.4C161.9,162.1,161,162.1,160.3,162.5z"/>
+			<path id="XMLID_1067_" class="st149" d="M160.3,162.5l-11,6.3c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.3C161.9,162.1,161,162.1,160.3,162.5z"/>
+			<path id="XMLID_1066_" class="st150" d="M160.3,162.6l-10.9,6.3c-0.7,0.4-0.7,1.5,0,1.9l10.9,6.2c0.7,0.4,1.5,0.4,2.2,0l10.9-6.2
+				c0.7-0.4,0.7-1.4,0-1.9l-10.9-6.3C161.9,162.2,161,162.2,160.3,162.6z"/>
+			<path id="XMLID_1065_" class="st151" d="M160.3,162.6l-10.9,6.3c-0.7,0.4-0.7,1.4,0,1.8l10.9,6.1c0.7,0.4,1.5,0.4,2.2,0l10.9-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.9-6.3C161.9,162.2,161,162.2,160.3,162.6z"/>
+			<path id="XMLID_1064_" class="st152" d="M160.3,162.6l-10.8,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.2C161.9,162.2,161,162.2,160.3,162.6z"/>
+			<path id="XMLID_1063_" class="st153" d="M160.3,162.7l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C161.9,162.3,161,162.3,160.3,162.7z"/>
+			<path id="XMLID_1062_" class="st154" d="M160.3,162.7l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.2,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C161.9,162.3,161,162.3,160.3,162.7z"/>
+			<path id="XMLID_1061_" class="st155" d="M160.4,162.8l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C161.9,162.4,161,162.4,160.4,162.8z"/>
+			<path id="XMLID_1060_" class="st156" d="M160.4,162.8l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C161.9,162.4,161,162.4,160.4,162.8z"/>
+			<path id="XMLID_1059_" class="st157" d="M160.4,162.8l-10.5,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6.1C161.9,162.4,161,162.4,160.4,162.8z"/>
+			<path id="XMLID_1058_" class="st158" d="M160.4,162.9l-10.5,6c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6C161.9,162.5,161,162.5,160.4,162.9z"/>
+			<path id="XMLID_1057_" class="st159" d="M160.4,162.9l-10.4,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.9c0.7,0.4,1.4,0.4,2.1,0l10.4-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.4-6C161.8,162.5,161,162.5,160.4,162.9z"/>
+			<path id="XMLID_1056_" class="st160" d="M160.4,162.9l-10.3,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.8c0.6,0.4,1.4,0.4,2.1,0l10.4-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-6C161.8,162.6,161,162.6,160.4,162.9z"/>
+			<path id="XMLID_1055_" class="st161" d="M160.4,163l-10.3,5.9c-0.7,0.4-0.7,1.4,0,1.8l10.3,5.8c0.6,0.4,1.4,0.4,2.1,0l10.3-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-5.9C161.8,162.6,161,162.6,160.4,163z"/>
+			<path id="XMLID_1054_" class="st162" d="M160.4,163l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.8c0.6,0.4,1.4,0.4,2.1,0l10.2-5.8
+				c0.7-0.4,0.7-1.4,0-1.7l-10.2-5.9C161.8,162.6,161,162.6,160.4,163z"/>
+			<path id="XMLID_1053_" class="st163" d="M160.4,163.1l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.7c0.6,0.4,1.4,0.4,2.1,0l10.2-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.2-5.9C161.8,162.7,161,162.7,160.4,163.1z"/>
+			<path id="XMLID_1052_" class="st164" d="M160.4,163.1l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C161.8,162.7,161,162.7,160.4,163.1z"/>
+			<path id="XMLID_1051_" class="st165" d="M160.4,163.1l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C161.8,162.8,161,162.8,160.4,163.1z"/>
+			<path id="XMLID_1050_" class="st166" d="M160.4,163.2l-10,5.8c-0.7,0.4-0.7,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C161.8,162.8,161.1,162.8,160.4,163.2z"/>
+			<path id="XMLID_1049_" class="st167" d="M160.4,163.2l-9.9,5.7c-0.7,0.4-0.6,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C161.8,162.8,161.1,162.8,160.4,163.2z"/>
+			<path id="XMLID_1048_" class="st168" d="M160.4,163.2l-9.9,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C161.8,162.9,161.1,162.9,160.4,163.2z"/>
+			<path id="XMLID_1047_" class="st169" d="M160.4,163.3l-9.8,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.7C161.8,162.9,161.1,162.9,160.4,163.3z"/>
+			<path id="XMLID_1046_" class="st170" d="M160.4,163.3l-9.8,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.6C161.8,163,161.1,163,160.4,163.3z"/>
+			<path id="XMLID_1045_" class="st171" d="M160.4,163.4l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.7,5.5c0.6,0.3,1.3,0.3,2,0l9.7-5.5
+				c0.6-0.4,0.6-1.3,0-1.7l-9.7-5.6C161.8,163,161.1,163,160.4,163.4z"/>
+			<path id="XMLID_1044_" class="st172" d="M160.5,163.4l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.7,5.4c0.6,0.3,1.3,0.3,1.9,0l9.7-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.7-5.6C161.8,163,161.1,163,160.5,163.4z"/>
+			<path id="XMLID_1043_" class="st173" d="M160.5,163.4l-9.6,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.5C161.8,163.1,161.1,163.1,160.5,163.4z"/>
+			<path id="XMLID_1042_" class="st174" d="M160.5,163.5l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C161.8,163.1,161.1,163.1,160.5,163.5z"/>
+			<path id="XMLID_1041_" class="st175" d="M160.5,163.5L151,169c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.3c0.6,0.3,1.3,0.3,1.9,0l9.5-5.3
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C161.8,163.2,161.1,163.2,160.5,163.5z"/>
+			<path id="XMLID_1040_" class="st176" d="M160.5,163.5L151,169c-0.6,0.4-0.6,1.3,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.4,0.6-1.2,0-1.6l-9.4-5.4C161.8,163.2,161.1,163.2,160.5,163.5z"/>
+			<path id="XMLID_1039_" class="st177" d="M160.5,163.6l-9.4,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.3,0.6-1.2,0-1.6l-9.4-5.4C161.8,163.2,161.1,163.2,160.5,163.6z"/>
+			<path id="XMLID_1038_" class="st178" d="M160.5,163.6l-9.3,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.4C161.8,163.3,161.1,163.3,160.5,163.6z"/>
+			<path id="XMLID_1037_" class="st179" d="M160.5,163.7l-9.3,5.3c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.3C161.8,163.3,161.1,163.3,160.5,163.7z"/>
+			<path id="XMLID_1036_" class="st180" d="M160.5,163.7l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.9,0l9.2-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C161.8,163.4,161.1,163.4,160.5,163.7z"/>
+			<path id="XMLID_1034_" class="st181" d="M160.5,163.7l-9.1,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.1,5.2c0.6,0.3,1.3,0.3,1.8,0l9.1-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.1-5.3C161.8,163.4,161.1,163.4,160.5,163.7z"/>
+			<path id="XMLID_1031_" class="st182" d="M160.5,163.8l-9.1,5.2c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9.1-5.2C161.8,163.4,161.1,163.4,160.5,163.8z"/>
+			<path id="XMLID_1023_" class="st183" d="M160.5,163.8l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.3,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C161.8,163.5,161.1,163.5,160.5,163.8z"/>
+			<path id="XMLID_1022_" class="st184" d="M160.5,163.8l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.2,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C161.8,163.5,161.1,163.5,160.5,163.8z"/>
+			<path id="XMLID_1021_" class="st43" d="M160.5,163.9l-8.9,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.1C161.8,163.6,161.1,163.6,160.5,163.9z"/>
+		</g>
+		<linearGradient id="XMLID_320_" gradientUnits="userSpaceOnUse" x1="149.7899" y1="169.5166" x2="173.0694" y2="169.5166">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_1019_" class="st185" d="M160.4,162.9l-10.6,4.8v1.8c0,0.4,0.2,0.8,0.6,1l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10-5.6
+			c0.4-0.2,0.6-0.6,0.6-1v-1.6l-10.6-5C161.8,162.5,161,162.5,160.4,162.9z"/>
+		<path id="XMLID_1018_" class="st126" d="M160.4,161l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+			c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C161.8,160.6,161,160.6,160.4,161z"/>
+		<g id="XMLID_1017_">
+			<path id="XMLID_1087_" class="st43" d="M160.6,168.4c-0.8,0-1.6-0.2-2.2-0.5v0c-0.7-0.4-1.1-1-1.1-1.7c0-0.7,0.4-1.3,1.1-1.7
+				c1.3-0.7,3.2-0.7,4.5,0c0.7,0.4,1.1,1,1.1,1.7c0,0.7-0.4,1.3-1.1,1.7C162.3,168.3,161.4,168.4,160.6,168.4z M159.2,166.6
+				c0.8,0.5,2.2,0.5,3,0c0.3-0.2,0.4-0.3,0.4-0.4c0-0.1-0.1-0.3-0.4-0.4c-0.8-0.5-2.2-0.5-3,0c-0.3,0.2-0.4,0.3-0.4,0.4
+				C158.8,166.3,158.9,166.4,159.2,166.6L159.2,166.6z"/>
+		</g>
+		<g id="XMLID_1083_">
+			<path id="XMLID_1086_" class="st43" d="M162.8,172.2c-0.3,0-0.6-0.2-0.7-0.5l-0.8-1.9c-0.2-0.4,0-0.8,0.4-1c0.4-0.2,0.8,0,1,0.4
+				l0.8,1.9c0.2,0.4,0,0.8-0.4,1C163,172.2,162.9,172.2,162.8,172.2z"/>
+		</g>
+	</g>
+	<g id="XMLID_622_">
+		<g id="XMLID_638_" class="st1">
+			<path id="XMLID_872_" class="st2" d="M147.5,185.7l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.7c0.7,0.4,1.6,0.4,2.4,0l11.8-6.7
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C149.1,185.2,148.2,185.2,147.5,185.7z"/>
+			<path id="XMLID_871_" class="st135" d="M147.5,185.7l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.6c0.7,0.4,1.6,0.4,2.4,0l11.8-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C149.1,185.3,148.2,185.3,147.5,185.7z"/>
+			<path id="XMLID_870_" class="st136" d="M147.5,185.7l-11.7,6.8c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.7-6.8C149.1,185.3,148.2,185.3,147.5,185.7z"/>
+			<path id="XMLID_869_" class="st137" d="M147.5,185.8l-11.7,6.7c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.5,0-2l-11.7-6.7C149.1,185.3,148.2,185.3,147.5,185.8z"/>
+			<path id="XMLID_868_" class="st138" d="M147.5,185.8l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C149.1,185.4,148.2,185.4,147.5,185.8z"/>
+			<path id="XMLID_867_" class="st139" d="M147.5,185.9l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C149.1,185.4,148.2,185.4,147.5,185.9z"/>
+			<path id="XMLID_866_" class="st140" d="M147.5,185.9l-11.5,6.6c-0.8,0.4-0.7,1.5,0,2l11.5,6.5c0.7,0.4,1.6,0.4,2.3,0l11.5-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.5-6.6C149.1,185.5,148.2,185.5,147.5,185.9z"/>
+			<path id="XMLID_865_" class="st141" d="M147.5,185.9l-11.4,6.6c-0.8,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C149.1,185.5,148.2,185.5,147.5,185.9z"/>
+			<path id="XMLID_864_" class="st142" d="M147.5,186l-11.4,6.6c-0.7,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C149.1,185.5,148.2,185.5,147.5,186z"/>
+			<path id="XMLID_863_" class="st143" d="M147.5,186l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.4c0.7,0.4,1.6,0.4,2.3,0l11.3-6.4
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C149.1,185.6,148.2,185.6,147.5,186z"/>
+			<path id="XMLID_862_" class="st144" d="M147.5,186l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.3c0.7,0.4,1.6,0.4,2.3,0l11.3-6.3
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C149.1,185.6,148.2,185.6,147.5,186z"/>
+			<path id="XMLID_861_" class="st145" d="M147.5,186.1l-11.2,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.6,0.4,2.3,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.2-6.5C149.1,185.7,148.2,185.7,147.5,186.1z"/>
+			<path id="XMLID_860_" class="st146" d="M147.5,186.1l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.5,0.4,2.2,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C149.1,185.7,148.2,185.7,147.5,186.1z"/>
+			<path id="XMLID_859_" class="st147" d="M147.5,186.2l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.3c0.7,0.4,1.5,0.4,2.2,0l11.1-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C149.1,185.7,148.2,185.7,147.5,186.2z"/>
+			<path id="XMLID_858_" class="st148" d="M147.5,186.2l-11,6.4c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.4C149.1,185.8,148.2,185.8,147.5,186.2z"/>
+			<path id="XMLID_857_" class="st149" d="M147.5,186.2l-11,6.3c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.3C149.1,185.8,148.2,185.8,147.5,186.2z"/>
+			<path id="XMLID_856_" class="st150" d="M147.5,186.3l-10.9,6.3c-0.7,0.4-0.7,1.5,0,1.9l10.9,6.2c0.7,0.4,1.5,0.4,2.2,0l10.9-6.2
+				c0.7-0.4,0.7-1.4,0-1.9l-10.9-6.3C149.1,185.9,148.2,185.9,147.5,186.3z"/>
+			<path id="XMLID_855_" class="st151" d="M147.6,186.3l-10.9,6.3c-0.7,0.4-0.7,1.4,0,1.8l10.9,6.1c0.7,0.4,1.5,0.4,2.2,0l10.9-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.9-6.3C149.1,185.9,148.2,185.9,147.6,186.3z"/>
+			<path id="XMLID_854_" class="st152" d="M147.6,186.3l-10.8,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.2C149.1,185.9,148.2,185.9,147.6,186.3z"/>
+			<path id="XMLID_853_" class="st153" d="M147.6,186.4l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C149.1,186,148.2,186,147.6,186.4z"/>
+			<path id="XMLID_852_" class="st154" d="M147.6,186.4l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.2,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C149.1,186,148.2,186,147.6,186.4z"/>
+			<path id="XMLID_851_" class="st155" d="M147.6,186.5l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C149.1,186.1,148.3,186.1,147.6,186.5z"/>
+			<path id="XMLID_850_" class="st156" d="M147.6,186.5l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C149.1,186.1,148.3,186.1,147.6,186.5z"/>
+			<path id="XMLID_849_" class="st157" d="M147.6,186.5l-10.5,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6.1C149.1,186.1,148.3,186.1,147.6,186.5z"/>
+			<path id="XMLID_848_" class="st158" d="M147.6,186.6l-10.5,6c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6C149.1,186.2,148.3,186.2,147.6,186.6z"/>
+			<path id="XMLID_847_" class="st159" d="M147.6,186.6l-10.4,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.9c0.7,0.4,1.4,0.4,2.1,0l10.4-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.4-6C149.1,186.2,148.3,186.2,147.6,186.6z"/>
+			<path id="XMLID_846_" class="st160" d="M147.6,186.6l-10.3,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.8c0.6,0.4,1.4,0.4,2.1,0l10.4-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-6C149.1,186.3,148.3,186.3,147.6,186.6z"/>
+			<path id="XMLID_845_" class="st161" d="M147.6,186.7l-10.3,5.9c-0.7,0.4-0.7,1.4,0,1.8l10.3,5.8c0.6,0.4,1.4,0.4,2.1,0l10.3-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-5.9C149.1,186.3,148.3,186.3,147.6,186.7z"/>
+			<path id="XMLID_844_" class="st162" d="M147.6,186.7l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.8c0.6,0.4,1.4,0.4,2.1,0l10.2-5.8
+				c0.7-0.4,0.7-1.4,0-1.7l-10.2-5.9C149.1,186.3,148.3,186.3,147.6,186.7z"/>
+			<path id="XMLID_843_" class="st163" d="M147.6,186.8l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.7c0.6,0.4,1.4,0.4,2.1,0l10.2-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.2-5.9C149.1,186.4,148.3,186.4,147.6,186.8z"/>
+			<path id="XMLID_842_" class="st164" d="M147.6,186.8l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C149.1,186.4,148.3,186.4,147.6,186.8z"/>
+			<path id="XMLID_841_" class="st165" d="M147.6,186.8l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C149.1,186.5,148.3,186.5,147.6,186.8z"/>
+			<path id="XMLID_840_" class="st166" d="M147.6,186.9l-10,5.8c-0.7,0.4-0.7,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C149.1,186.5,148.3,186.5,147.6,186.9z"/>
+			<path id="XMLID_839_" class="st167" d="M147.6,186.9l-9.9,5.7c-0.7,0.4-0.6,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C149.1,186.5,148.3,186.5,147.6,186.9z"/>
+			<path id="XMLID_838_" class="st168" d="M147.7,186.9l-9.9,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C149.1,186.6,148.3,186.6,147.7,186.9z"/>
+			<path id="XMLID_837_" class="st169" d="M147.7,187l-9.8,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.7C149.1,186.6,148.3,186.6,147.7,187z"/>
+			<path id="XMLID_836_" class="st170" d="M147.7,187l-9.8,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.6C149.1,186.7,148.3,186.7,147.7,187z"/>
+			<path id="XMLID_835_" class="st171" d="M147.7,187.1l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.7,5.5c0.6,0.3,1.4,0.3,2,0l9.7-5.5
+				c0.6-0.4,0.6-1.3,0-1.7l-9.7-5.6C149,186.7,148.3,186.7,147.7,187.1z"/>
+			<path id="XMLID_834_" class="st172" d="M147.7,187.1l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.7,5.4c0.6,0.3,1.3,0.3,1.9,0l9.7-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.7-5.6C149,186.7,148.3,186.7,147.7,187.1z"/>
+			<path id="XMLID_833_" class="st173" d="M147.7,187.1l-9.6,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.5C149,186.8,148.3,186.8,147.7,187.1z"/>
+			<path id="XMLID_832_" class="st174" d="M147.7,187.2l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C149,186.8,148.3,186.8,147.7,187.2z"/>
+			<path id="XMLID_723_" class="st175" d="M147.7,187.2l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.3c0.6,0.3,1.3,0.3,1.9,0l9.5-5.3
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C149,186.9,148.3,186.9,147.7,187.2z"/>
+			<path id="XMLID_648_" class="st176" d="M147.7,187.2l-9.4,5.4c-0.6,0.4-0.6,1.3,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.4,0.6-1.2,0-1.6l-9.4-5.4C149,186.9,148.3,186.9,147.7,187.2z"/>
+			<path id="XMLID_647_" class="st177" d="M147.7,187.3l-9.4,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.3,0.6-1.2,0-1.6l-9.4-5.4C149,186.9,148.3,186.9,147.7,187.3z"/>
+			<path id="XMLID_646_" class="st178" d="M147.7,187.3l-9.3,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.4C149,187,148.3,187,147.7,187.3z"/>
+			<path id="XMLID_645_" class="st179" d="M147.7,187.4l-9.3,5.3c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.3C149,187,148.3,187,147.7,187.4z"/>
+			<path id="XMLID_644_" class="st180" d="M147.7,187.4l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.9,0l9.2-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C149,187.1,148.3,187.1,147.7,187.4z"/>
+			<path id="XMLID_643_" class="st181" d="M147.7,187.4l-9.1,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.1,5.2c0.6,0.3,1.3,0.3,1.8,0l9.1-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.1-5.3C149,187.1,148.3,187.1,147.7,187.4z"/>
+			<path id="XMLID_642_" class="st182" d="M147.7,187.5l-9.1,5.2c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9.1-5.2C149,187.1,148.3,187.1,147.7,187.5z"/>
+			<path id="XMLID_641_" class="st183" d="M147.7,187.5l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.3,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C149,187.2,148.3,187.2,147.7,187.5z"/>
+			<path id="XMLID_640_" class="st184" d="M147.7,187.5l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.2,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C149,187.2,148.3,187.2,147.7,187.5z"/>
+			<path id="XMLID_639_" class="st43" d="M147.8,187.6l-8.9,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.1C149,187.3,148.3,187.3,147.8,187.6z"/>
+		</g>
+		<linearGradient id="XMLID_321_" gradientUnits="userSpaceOnUse" x1="137.0159" y1="193.2144" x2="160.2953" y2="193.2144">
+			<stop  offset="0" style="stop-color:#3C5185"/>
+			<stop  offset="0.6002" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#4A65A3"/>
+		</linearGradient>
+		<path id="XMLID_637_" class="st186" d="M147.6,186.6l-10.6,4.8v1.8c0,0.4,0.2,0.8,0.6,1l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10-5.6
+			c0.4-0.2,0.6-0.6,0.6-1v-1.6l-10.6-5C149.1,186.2,148.3,186.2,147.6,186.6z"/>
+		<linearGradient id="XMLID_322_" gradientUnits="userSpaceOnUse" x1="137.0158" y1="191.292" x2="160.3206" y2="191.292">
+			<stop  offset="0" style="stop-color:#4A65A3"/>
+			<stop  offset="0.3998" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#3C5185"/>
+		</linearGradient>
+		<path id="XMLID_635_" class="st187" d="M147.6,184.7l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+			c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C149.1,184.3,148.3,184.3,147.6,184.7z"/>
+		<g id="XMLID_1090_">
+			<path id="XMLID_1093_" class="st48" d="M144.3,189.4l-1.1,0.3l-0.5-0.3l4.7-1.2l0.5,0.3l-2.1,2.8l-0.5-0.3l0.5-0.6L144.3,189.4z
+				 M146.1,189.8l0.9-1.2l-1.9,0.5L146.1,189.8z"/>
+			<path id="XMLID_1096_" class="st48" d="M147.5,192.3l-1.3-0.8l3.4-2l1.2,0.7c0.2,0.1,0.3,0.2,0.4,0.4c0.1,0.1,0.1,0.2,0.1,0.3
+				c0,0.2-0.2,0.3-0.4,0.5c-0.3,0.2-0.5,0.2-0.8,0.2c-0.1,0-0.2,0-0.2,0c0,0-0.1,0-0.2,0c0.1,0.1,0.2,0.3,0.2,0.4
+				c0,0.2-0.2,0.3-0.4,0.4c-0.2,0.1-0.5,0.2-0.8,0.2C148.3,192.6,147.9,192.5,147.5,192.3z M147.3,191.5l0.8,0.5
+				c0.2,0.1,0.4,0.2,0.5,0.2c0.2,0,0.3,0,0.5-0.1c0.3-0.2,0.2-0.4-0.2-0.7l-0.7-0.4L147.3,191.5z M148.7,190.6l0.6,0.4
+				c0.4,0.2,0.7,0.2,1,0.1c0.2-0.1,0.2-0.2,0.2-0.3c0-0.1-0.1-0.2-0.3-0.3l-0.6-0.4L148.7,190.6z"/>
+			<path id="XMLID_1100_" class="st48" d="M151.1,193.8c0.2,0.1,0.4,0.2,0.5,0.2c0.2,0,0.4,0,0.7,0l-0.1,0.4
+				c-0.7,0.1-1.3-0.1-1.7-0.3c-0.4-0.3-0.7-0.6-0.6-1c0-0.4,0.3-0.7,0.8-1c0.5-0.3,1.1-0.5,1.7-0.5c0.6,0,1.2,0.1,1.6,0.4
+				c0.5,0.3,0.6,0.6,0.6,1l-0.7,0c0-0.2,0-0.3-0.1-0.4c-0.1-0.1-0.2-0.2-0.4-0.3c-0.3-0.2-0.7-0.3-1.1-0.3c-0.4,0-0.8,0.1-1.2,0.3
+				c-0.3,0.2-0.5,0.4-0.6,0.7C150.7,193.4,150.8,193.6,151.1,193.8z"/>
+		</g>
+	</g>
+	<g id="XMLID_873_">
+		<g id="XMLID_878_" class="st1">
+			<path id="XMLID_930_" class="st2" d="M58.1,132.5l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.7c0.7,0.4,1.6,0.4,2.4,0l11.8-6.7
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C59.8,132,58.8,132,58.1,132.5z"/>
+			<path id="XMLID_929_" class="st135" d="M58.1,132.5l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.6c0.7,0.4,1.6,0.4,2.4,0l11.8-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C59.8,132.1,58.9,132.1,58.1,132.5z"/>
+			<path id="XMLID_928_" class="st136" d="M58.1,132.5l-11.7,6.8c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.7-6.8C59.8,132.1,58.9,132.1,58.1,132.5z"/>
+			<path id="XMLID_927_" class="st137" d="M58.1,132.6l-11.7,6.7c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.5,0-2l-11.7-6.7C59.8,132.2,58.9,132.2,58.1,132.6z"/>
+			<path id="XMLID_926_" class="st138" d="M58.1,132.6l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C59.8,132.2,58.9,132.2,58.1,132.6z"/>
+			<path id="XMLID_925_" class="st139" d="M58.1,132.7l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C59.8,132.2,58.9,132.2,58.1,132.7z"/>
+			<path id="XMLID_924_" class="st140" d="M58.1,132.7l-11.5,6.6c-0.8,0.4-0.7,1.5,0,2l11.5,6.5c0.7,0.4,1.6,0.4,2.3,0l11.5-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.5-6.6C59.8,132.3,58.9,132.3,58.1,132.7z"/>
+			<path id="XMLID_923_" class="st141" d="M58.1,132.7l-11.4,6.6c-0.8,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C59.8,132.3,58.9,132.3,58.1,132.7z"/>
+			<path id="XMLID_922_" class="st142" d="M58.1,132.8l-11.4,6.6c-0.7,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C59.8,132.3,58.9,132.3,58.1,132.8z"/>
+			<path id="XMLID_921_" class="st143" d="M58.2,132.8l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.4c0.7,0.4,1.6,0.4,2.3,0l11.3-6.4
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C59.8,132.4,58.9,132.4,58.2,132.8z"/>
+			<path id="XMLID_920_" class="st144" d="M58.2,132.8l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.3c0.7,0.4,1.6,0.4,2.3,0l11.3-6.3
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C59.8,132.4,58.9,132.4,58.2,132.8z"/>
+			<path id="XMLID_919_" class="st145" d="M58.2,132.9L47,139.3c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.6,0.4,2.3,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.2-6.5C59.8,132.5,58.9,132.5,58.2,132.9z"/>
+			<path id="XMLID_918_" class="st146" d="M58.2,132.9L47,139.4c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.5,0.4,2.2,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C59.7,132.5,58.9,132.5,58.2,132.9z"/>
+			<path id="XMLID_917_" class="st147" d="M58.2,133l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.3c0.7,0.4,1.5,0.4,2.2,0l11.1-6.3
+				c0.7-0.4,0.7-1.5,0-1.9L60.5,133C59.7,132.5,58.9,132.5,58.2,133z"/>
+			<path id="XMLID_916_" class="st148" d="M58.2,133l-11,6.4c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.4C59.7,132.6,58.9,132.6,58.2,133z"/>
+			<path id="XMLID_915_" class="st149" d="M58.2,133l-11,6.3c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.3C59.7,132.6,58.9,132.6,58.2,133z"/>
+			<path id="XMLID_914_" class="st150" d="M58.2,133.1l-10.9,6.3c-0.7,0.4-0.7,1.5,0,1.9l10.9,6.2c0.7,0.4,1.5,0.4,2.2,0l10.9-6.2
+				c0.7-0.4,0.7-1.4,0-1.9l-10.9-6.3C59.7,132.7,58.9,132.7,58.2,133.1z"/>
+			<path id="XMLID_913_" class="st151" d="M58.2,133.1l-10.9,6.3c-0.7,0.4-0.7,1.4,0,1.8l10.9,6.1c0.7,0.4,1.5,0.4,2.2,0l10.9-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.9-6.3C59.7,132.7,58.9,132.7,58.2,133.1z"/>
+			<path id="XMLID_912_" class="st152" d="M58.2,133.1l-10.8,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.2C59.7,132.7,58.9,132.7,58.2,133.1z"/>
+			<path id="XMLID_911_" class="st153" d="M58.2,133.2l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C59.7,132.8,58.9,132.8,58.2,133.2z"/>
+			<path id="XMLID_910_" class="st154" d="M58.2,133.2l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.2,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C59.7,132.8,58.9,132.8,58.2,133.2z"/>
+			<path id="XMLID_909_" class="st155" d="M58.2,133.3l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C59.7,132.9,58.9,132.9,58.2,133.3z"/>
+			<path id="XMLID_908_" class="st156" d="M58.2,133.3l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C59.7,132.9,58.9,132.9,58.2,133.3z"/>
+			<path id="XMLID_907_" class="st157" d="M58.2,133.3l-10.5,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6.1C59.7,132.9,58.9,132.9,58.2,133.3z"/>
+			<path id="XMLID_906_" class="st158" d="M58.2,133.4l-10.5,6c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6C59.7,133,58.9,133,58.2,133.4z"/>
+			<path id="XMLID_905_" class="st159" d="M58.2,133.4l-10.4,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.9c0.7,0.4,1.4,0.4,2.1,0l10.4-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.4-6C59.7,133,58.9,133,58.2,133.4z"/>
+			<path id="XMLID_904_" class="st160" d="M58.3,133.4l-10.3,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.8c0.6,0.4,1.4,0.4,2.1,0l10.4-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-6C59.7,133.1,58.9,133.1,58.3,133.4z"/>
+			<path id="XMLID_903_" class="st161" d="M58.3,133.5L48,139.4c-0.7,0.4-0.7,1.4,0,1.8l10.3,5.8c0.6,0.4,1.4,0.4,2.1,0l10.3-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-5.9C59.7,133.1,58.9,133.1,58.3,133.5z"/>
+			<path id="XMLID_902_" class="st162" d="M58.3,133.5L48,139.4c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.8c0.6,0.4,1.4,0.4,2.1,0l10.2-5.8
+				c0.7-0.4,0.7-1.4,0-1.7l-10.2-5.9C59.7,133.1,58.9,133.1,58.3,133.5z"/>
+			<path id="XMLID_901_" class="st163" d="M58.3,133.6l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.7c0.6,0.4,1.4,0.4,2.1,0l10.2-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.2-5.9C59.7,133.2,58.9,133.2,58.3,133.6z"/>
+			<path id="XMLID_900_" class="st164" d="M58.3,133.6l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C59.7,133.2,58.9,133.2,58.3,133.6z"/>
+			<path id="XMLID_899_" class="st165" d="M58.3,133.6l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C59.7,133.3,58.9,133.3,58.3,133.6z"/>
+			<path id="XMLID_898_" class="st166" d="M58.3,133.7l-10,5.8c-0.7,0.4-0.7,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C59.7,133.3,58.9,133.3,58.3,133.7z"/>
+			<path id="XMLID_897_" class="st167" d="M58.3,133.7l-9.9,5.7c-0.7,0.4-0.6,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C59.7,133.3,58.9,133.3,58.3,133.7z"/>
+			<path id="XMLID_896_" class="st168" d="M58.3,133.7l-9.9,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C59.7,133.4,58.9,133.4,58.3,133.7z"/>
+			<path id="XMLID_895_" class="st169" d="M58.3,133.8l-9.8,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.7C59.7,133.4,58.9,133.4,58.3,133.8z"/>
+			<path id="XMLID_894_" class="st170" d="M58.3,133.8l-9.8,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.6C59.7,133.5,58.9,133.5,58.3,133.8z"/>
+			<path id="XMLID_893_" class="st171" d="M58.3,133.9l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.7,5.5c0.6,0.3,1.4,0.3,2,0l9.7-5.5
+				c0.6-0.4,0.6-1.3,0-1.7l-9.7-5.6C59.7,133.5,58.9,133.5,58.3,133.9z"/>
+			<path id="XMLID_892_" class="st172" d="M58.3,133.9l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.7,5.4c0.6,0.3,1.3,0.3,1.9,0l9.7-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.7-5.6C59.7,133.5,58.9,133.5,58.3,133.9z"/>
+			<path id="XMLID_891_" class="st173" d="M58.3,133.9l-9.6,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.5C59.7,133.6,58.9,133.6,58.3,133.9z"/>
+			<path id="XMLID_890_" class="st174" d="M58.3,134l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C59.7,133.6,58.9,133.6,58.3,134z"/>
+			<path id="XMLID_889_" class="st175" d="M58.3,134l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.3c0.6,0.3,1.3,0.3,1.9,0l9.5-5.3
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C59.7,133.7,58.9,133.7,58.3,134z"/>
+			<path id="XMLID_888_" class="st176" d="M58.3,134l-9.4,5.4c-0.6,0.4-0.6,1.3,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.4,0.6-1.2,0-1.6l-9.4-5.4C59.7,133.7,58.9,133.7,58.3,134z"/>
+			<path id="XMLID_887_" class="st177" d="M58.4,134.1l-9.4,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.3,0.6-1.2,0-1.6l-9.4-5.4C59.7,133.7,58.9,133.7,58.4,134.1z"/>
+			<path id="XMLID_886_" class="st178" d="M58.4,134.1l-9.3,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.4C59.7,133.8,58.9,133.8,58.4,134.1z"/>
+			<path id="XMLID_885_" class="st179" d="M58.4,134.2l-9.3,5.3c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.3C59.7,133.8,59,133.8,58.4,134.2z"/>
+			<path id="XMLID_884_" class="st180" d="M58.4,134.2l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.9,0l9.2-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C59.7,133.9,59,133.9,58.4,134.2z"/>
+			<path id="XMLID_883_" class="st181" d="M58.4,134.2l-9.1,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.1,5.2c0.6,0.3,1.3,0.3,1.8,0l9.1-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.1-5.3C59.7,133.9,59,133.9,58.4,134.2z"/>
+			<path id="XMLID_882_" class="st182" d="M58.4,134.3l-9.1,5.2c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9.1-5.2C59.7,133.9,59,133.9,58.4,134.3z"/>
+			<path id="XMLID_881_" class="st183" d="M58.4,134.3l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.3,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C59.7,134,59,134,58.4,134.3z"/>
+			<path id="XMLID_880_" class="st184" d="M58.4,134.3l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.2,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C59.7,134,59,134,58.4,134.3z"/>
+			<path id="XMLID_879_" class="st43" d="M58.4,134.4l-8.9,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.1C59.7,134.1,59,134.1,58.4,134.4z"/>
+		</g>
+		<linearGradient id="XMLID_323_" gradientUnits="userSpaceOnUse" x1="47.6609" y1="140.0157" x2="70.9404" y2="140.0157">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_877_" class="st188" d="M58.3,133.4l-10.6,4.8v1.8c0,0.4,0.2,0.8,0.6,1l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10-5.6
+			c0.4-0.2,0.6-0.6,0.6-1v-1.6l-10.6-5C59.7,133,58.9,133,58.3,133.4z"/>
+		<path id="XMLID_876_" class="st126" d="M58.3,131.5l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+			c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C59.7,131.1,58.9,131.1,58.3,131.5z"/>
+		<g id="XMLID_874_">
+			<path id="XMLID_875_" class="st43" d="M56,140.4l-1-3.5c-0.1-0.4,0.1-0.8,0.5-0.9c0.4-0.1,0.8,0.1,0.9,0.5l0.6,2.1l5.7-1.5
+				c0.4-0.1,0.8,0.1,0.9,0.5c0.1,0.4-0.1,0.8-0.5,0.9L56,140.4z"/>
+		</g>
+	</g>
+	<g id="XMLID_931_">
+		<g id="XMLID_935_" class="st1">
+			<path id="XMLID_1152_" class="st2" d="M59.7,108.8l-11.2,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.5,0.4,2.2,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9L62,108.8C61.3,108.4,60.4,108.4,59.7,108.8z"/>
+			<path id="XMLID_1151_" class="st135" d="M59.7,108.9l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.3c0.7,0.4,1.5,0.4,2.2,0l11.1-6.3
+				c0.7-0.4,0.7-1.5,0-1.9L62,108.9C61.3,108.5,60.4,108.5,59.7,108.9z"/>
+			<path id="XMLID_1150_" class="st136" d="M59.7,108.9l-11,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.2c0.7,0.4,1.5,0.4,2.2,0l11.1-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.4C61.3,108.5,60.4,108.5,59.7,108.9z"/>
+			<path id="XMLID_1149_" class="st137" d="M59.7,108.9l-11,6.3c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.3C61.3,108.5,60.4,108.5,59.7,108.9z"/>
+			<path id="XMLID_1148_" class="st138" d="M59.7,109l-10.9,6.3c-0.7,0.4-0.7,1.5,0,1.9l10.9,6.2c0.7,0.4,1.5,0.4,2.2,0l10.9-6.2
+				c0.7-0.4,0.7-1.4,0-1.9L61.9,109C61.3,108.6,60.4,108.6,59.7,109z"/>
+			<path id="XMLID_1147_" class="st139" d="M59.7,109l-10.9,6.3c-0.7,0.4-0.7,1.4,0,1.9l10.9,6.1c0.7,0.4,1.5,0.4,2.2,0l10.9-6.1
+				c0.7-0.4,0.7-1.4,0-1.9L61.9,109C61.3,108.6,60.4,108.6,59.7,109z"/>
+			<path id="XMLID_1146_" class="st140" d="M59.7,109.1l-10.8,6.3c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.3C61.2,108.7,60.4,108.7,59.7,109.1z"/>
+			<path id="XMLID_1145_" class="st141" d="M59.7,109.1l-10.8,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0l10.8-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.2C61.2,108.7,60.4,108.7,59.7,109.1z"/>
+			<path id="XMLID_1144_" class="st142" d="M59.7,109.1L49,115.3c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.2,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C61.2,108.7,60.4,108.7,59.7,109.1z"/>
+			<path id="XMLID_1143_" class="st143" d="M59.7,109.2l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.1,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C61.2,108.8,60.4,108.8,59.7,109.2z"/>
+			<path id="XMLID_1142_" class="st144" d="M59.7,109.2l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C61.2,108.8,60.4,108.8,59.7,109.2z"/>
+			<path id="XMLID_1141_" class="st145" d="M59.7,109.2l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C61.2,108.8,60.4,108.8,59.7,109.2z"/>
+			<path id="XMLID_1140_" class="st146" d="M59.7,109.3l-10.5,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6.1C61.2,108.9,60.4,108.9,59.7,109.3z"/>
+			<path id="XMLID_1139_" class="st147" d="M59.8,109.3l-10.5,6c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6C61.2,108.9,60.4,108.9,59.8,109.3z"/>
+			<path id="XMLID_1138_" class="st148" d="M59.8,109.3l-10.4,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.9c0.7,0.4,1.4,0.4,2.1,0l10.4-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.4-6C61.2,109,60.4,109,59.8,109.3z"/>
+			<path id="XMLID_1137_" class="st149" d="M59.8,109.4l-10.3,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.8c0.6,0.4,1.4,0.4,2.1,0l10.4-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-6C61.2,109,60.4,109,59.8,109.4z"/>
+			<path id="XMLID_1136_" class="st150" d="M59.8,109.4l-10.3,5.9c-0.7,0.4-0.7,1.4,0,1.8l10.3,5.8c0.6,0.4,1.4,0.4,2.1,0l10.3-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-5.9C61.2,109,60.4,109,59.8,109.4z"/>
+			<path id="XMLID_1135_" class="st151" d="M59.8,109.4l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.8c0.6,0.4,1.4,0.4,2.1,0l10.2-5.8
+				c0.7-0.4,0.7-1.4,0-1.7l-10.2-5.9C61.2,109.1,60.4,109.1,59.8,109.4z"/>
+			<path id="XMLID_1134_" class="st152" d="M59.8,109.5l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.7c0.6,0.4,1.4,0.4,2.1,0l10.2-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.2-5.9C61.2,109.1,60.4,109.1,59.8,109.5z"/>
+			<path id="XMLID_940_" class="st153" d="M59.8,109.5l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C61.2,109.1,60.4,109.1,59.8,109.5z"/>
+			<path id="XMLID_939_" class="st154" d="M59.8,109.6l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C61.2,109.2,60.4,109.2,59.8,109.6z"/>
+			<path id="XMLID_938_" class="st155" d="M59.8,109.6l-10,5.8c-0.7,0.4-0.7,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C61.2,109.2,60.4,109.2,59.8,109.6z"/>
+			<path id="XMLID_937_" class="st156" d="M59.8,109.6l-10,5.8c-0.7,0.4-0.6,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C61.2,109.3,60.4,109.3,59.8,109.6z"/>
+			<path id="XMLID_936_" class="st157" d="M59.8,109.7l-9.9,5.7c-0.7,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C61.2,109.3,60.4,109.3,59.8,109.7z"/>
+			<path id="XMLID_1128_" class="st158" d="M59.8,109.7l-9.9,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C61.2,109.3,60.4,109.3,59.8,109.7z"/>
+			<path id="XMLID_1127_" class="st159" d="M59.8,109.7l-9.8,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.7C61.2,109.4,60.4,109.4,59.8,109.7z"/>
+			<path id="XMLID_1126_" class="st160" d="M59.8,109.8l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.6-1.3,0-1.7l-9.7-5.6C61.2,109.4,60.4,109.4,59.8,109.8z"/>
+			<path id="XMLID_1125_" class="st161" d="M59.8,109.8l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.7,5.5c0.6,0.3,1.3,0.3,2,0l9.7-5.5
+				c0.6-0.4,0.6-1.3,0-1.6l-9.7-5.6C61.2,109.4,60.4,109.4,59.8,109.8z"/>
+			<path id="XMLID_1124_" class="st162" d="M59.8,109.8l-9.6,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.6C61.2,109.5,60.4,109.5,59.8,109.8z"/>
+			<path id="XMLID_1123_" class="st163" d="M59.8,109.9l-9.6,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.5C61.2,109.5,60.4,109.5,59.8,109.9z"/>
+			<path id="XMLID_1122_" class="st164" d="M59.8,109.9l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.4c0.6,0.3,1.3,0.3,1.9,0l9.5-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C61.2,109.6,60.5,109.6,59.8,109.9z"/>
+			<path id="XMLID_1121_" class="st165" d="M59.9,109.9l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.3c0.6,0.3,1.3,0.3,1.9,0l9.5-5.3
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C61.2,109.6,60.5,109.6,59.9,109.9z"/>
+			<path id="XMLID_1120_" class="st166" d="M59.9,110l-9.4,5.4c-0.6,0.4-0.6,1.3,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.4,0.6-1.2,0-1.6l-9.4-5.4C61.2,109.6,60.5,109.6,59.9,110z"/>
+			<path id="XMLID_1119_" class="st167" d="M59.9,110l-9.4,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.3,0.6-1.2,0-1.6l-9.4-5.4C61.2,109.7,60.5,109.7,59.9,110z"/>
+			<path id="XMLID_1118_" class="st168" d="M59.9,110l-9.3,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.4C61.2,109.7,60.5,109.7,59.9,110z"/>
+			<path id="XMLID_1117_" class="st169" d="M59.9,110.1l-9.3,5.3c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0L71,117
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.3C61.2,109.7,60.5,109.7,59.9,110.1z"/>
+			<path id="XMLID_1116_" class="st170" d="M59.9,110.1l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.9,0L71,117
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C61.2,109.8,60.5,109.8,59.9,110.1z"/>
+			<path id="XMLID_1115_" class="st171" d="M59.9,110.2l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.8,0l9.2-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C61.2,109.8,60.5,109.8,59.9,110.2z"/>
+			<path id="XMLID_1114_" class="st172" d="M59.9,110.2l-9.1,5.3c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9.1-5.3C61.2,109.9,60.5,109.9,59.9,110.2z"/>
+			<path id="XMLID_1113_" class="st173" d="M59.9,110.2l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C61.2,109.9,60.5,109.9,59.9,110.2z"/>
+			<path id="XMLID_1112_" class="st174" d="M59.9,110.3l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.2,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C61.2,109.9,60.5,109.9,59.9,110.3z"/>
+			<path id="XMLID_1111_" class="st175" d="M59.9,110.3l-8.9,5.2c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.2C61.2,110,60.5,110,59.9,110.3z"/>
+			<path id="XMLID_1110_" class="st176" d="M59.9,110.3l-8.9,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.1C61.2,110,60.5,110,59.9,110.3z"/>
+			<path id="XMLID_1109_" class="st177" d="M59.9,110.4l-8.8,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.8,5c0.6,0.3,1.2,0.3,1.8,0l8.8-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.8-5.1C61.2,110,60.5,110,59.9,110.4z"/>
+			<path id="XMLID_1108_" class="st178" d="M59.9,110.4l-8.8,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.8,4.9c0.5,0.3,1.2,0.3,1.8,0l8.8-4.9
+				c0.6-0.3,0.6-1.2,0-1.5l-8.8-5.1C61.2,110.1,60.5,110.1,59.9,110.4z"/>
+			<path id="XMLID_1107_" class="st179" d="M59.9,110.4l-8.7,5c-0.6,0.3-0.6,1.2,0,1.5l8.7,4.9c0.5,0.3,1.2,0.3,1.8,0l8.7-4.9
+				c0.6-0.3,0.6-1.2,0-1.5l-8.7-5C61.2,110.1,60.5,110.1,59.9,110.4z"/>
+			<path id="XMLID_1106_" class="st180" d="M59.9,110.5l-8.7,5c-0.6,0.3-0.6,1.2,0,1.5l8.7,4.9c0.5,0.3,1.2,0.3,1.7,0l8.7-4.9
+				c0.6-0.3,0.6-1.1,0-1.5l-8.7-5C61.2,110.2,60.5,110.2,59.9,110.5z"/>
+			<path id="XMLID_1105_" class="st181" d="M59.9,110.5l-8.6,5c-0.6,0.3-0.6,1.1,0,1.5l8.6,4.9c0.5,0.3,1.2,0.3,1.7,0l8.6-4.9
+				c0.6-0.3,0.6-1.1,0-1.5l-8.6-5C61.2,110.2,60.5,110.2,59.9,110.5z"/>
+			<path id="XMLID_1104_" class="st182" d="M59.9,110.5l-8.6,4.9c-0.6,0.3-0.6,1.1,0,1.5l8.6,4.8c0.5,0.3,1.2,0.3,1.7,0l8.6-4.8
+				c0.6-0.3,0.6-1.1,0-1.5l-8.6-4.9C61.2,110.2,60.5,110.2,59.9,110.5z"/>
+			<path id="XMLID_1103_" class="st183" d="M60,110.6l-8.5,4.9c-0.6,0.3-0.6,1.1,0,1.4l8.5,4.8c0.5,0.3,1.2,0.3,1.7,0l8.5-4.8
+				c0.6-0.3,0.6-1.1,0-1.4l-8.5-4.9C61.2,110.3,60.5,110.3,60,110.6z"/>
+			<path id="XMLID_1102_" class="st184" d="M60,110.6l-8.4,4.9c-0.6,0.3-0.6,1.1,0,1.4l8.5,4.8c0.5,0.3,1.2,0.3,1.7,0l8.5-4.8
+				c0.6-0.3,0.6-1.1,0-1.4l-8.4-4.9C61.2,110.3,60.5,110.3,60,110.6z"/>
+			<path id="XMLID_1092_" class="st43" d="M60,110.6l-8.4,4.8c-0.6,0.3-0.5,1.1,0,1.4l8.4,4.7c0.5,0.3,1.2,0.3,1.7,0l8.4-4.7
+				c0.6-0.3,0.6-1.1,0-1.4l-8.4-4.8C61.2,110.3,60.5,110.3,60,110.6z"/>
+		</g>
+		<linearGradient id="XMLID_324_" gradientUnits="userSpaceOnUse" x1="49.8458" y1="115.9554" x2="71.7792" y2="115.9554">
+			<stop  offset="0" style="stop-color:#3C5185"/>
+			<stop  offset="0.6002" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#4A65A3"/>
+		</linearGradient>
+		<path id="XMLID_934_" class="st189" d="M59.8,109.7l-10,4.5v1.7c0,0.4,0.2,0.8,0.5,0.9l9.5,5.4c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+			c0.3-0.2,0.6-0.6,0.6-0.9v-1.5l-10-4.7C61.2,109.4,60.5,109.4,59.8,109.7z"/>
+		<linearGradient id="XMLID_325_" gradientUnits="userSpaceOnUse" x1="49.8457" y1="114.1442" x2="71.803" y2="114.1442">
+			<stop  offset="0" style="stop-color:#4A65A3"/>
+			<stop  offset="0.3998" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#3C5185"/>
+		</linearGradient>
+		<path id="XMLID_933_" class="st190" d="M59.8,107.9l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.4c0.6,0.3,1.3,0.3,1.9,0l9.5-5.4
+			c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C61.2,107.6,60.5,107.6,59.8,107.9z"/>
+		<polygon id="XMLID_932_" class="st48" points="57.1,114.3 61.4,111.9 63.6,115.5 		"/>
+	</g>
+	<g id="XMLID_941_">
+		<g id="XMLID_946_" class="st1">
+			<path id="XMLID_998_" class="st2" d="M187.9,156.2l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.7c0.7,0.4,1.6,0.4,2.4,0l11.8-6.7
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C189.6,155.8,188.7,155.8,187.9,156.2z"/>
+			<path id="XMLID_997_" class="st135" d="M187.9,156.3l-11.8,6.8c-0.8,0.4-0.8,1.6,0,2l11.8,6.6c0.7,0.4,1.6,0.4,2.4,0l11.8-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.8-6.8C189.6,155.8,188.7,155.8,187.9,156.3z"/>
+			<path id="XMLID_996_" class="st136" d="M187.9,156.3l-11.7,6.8c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.6,0-2l-11.7-6.8C189.6,155.9,188.7,155.9,187.9,156.3z"/>
+			<path id="XMLID_995_" class="st137" d="M187.9,156.4l-11.7,6.7c-0.8,0.4-0.8,1.6,0,2l11.7,6.6c0.7,0.4,1.6,0.4,2.4,0l11.7-6.6
+				c0.8-0.4,0.8-1.5,0-2l-11.7-6.7C189.6,155.9,188.7,155.9,187.9,156.4z"/>
+			<path id="XMLID_994_" class="st138" d="M187.9,156.4l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C189.6,156,188.7,156,187.9,156.4z"/>
+			<path id="XMLID_993_" class="st139" d="M188,156.4l-11.6,6.7c-0.8,0.4-0.8,1.5,0,2l11.6,6.5c0.7,0.4,1.6,0.4,2.3,0l11.6-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.6-6.7C189.6,156,188.7,156,188,156.4z"/>
+			<path id="XMLID_992_" class="st140" d="M188,156.5l-11.5,6.6c-0.8,0.4-0.7,1.5,0,2l11.5,6.5c0.7,0.4,1.6,0.4,2.3,0l11.5-6.5
+				c0.8-0.4,0.8-1.5,0-2l-11.5-6.6C189.6,156,188.7,156,188,156.5z"/>
+			<path id="XMLID_991_" class="st141" d="M188,156.5l-11.4,6.6c-0.8,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C189.6,156.1,188.7,156.1,188,156.5z"/>
+			<path id="XMLID_990_" class="st142" d="M188,156.5l-11.4,6.6c-0.7,0.4-0.7,1.5,0,1.9l11.4,6.4c0.7,0.4,1.6,0.4,2.3,0l11.4-6.4
+				c0.8-0.4,0.8-1.5,0-1.9l-11.4-6.6C189.6,156.1,188.7,156.1,188,156.5z"/>
+			<path id="XMLID_989_" class="st143" d="M188,156.6l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.4c0.7,0.4,1.6,0.4,2.3,0l11.3-6.4
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C189.6,156.2,188.7,156.2,188,156.6z"/>
+			<path id="XMLID_988_" class="st144" d="M188,156.6l-11.3,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.3,6.3c0.7,0.4,1.6,0.4,2.3,0l11.3-6.3
+				c0.7-0.4,0.8-1.5,0-1.9l-11.3-6.5C189.6,156.2,188.7,156.2,188,156.6z"/>
+			<path id="XMLID_987_" class="st145" d="M188,156.7l-11.2,6.5c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.6,0.4,2.3,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.2-6.5C189.6,156.2,188.7,156.2,188,156.7z"/>
+			<path id="XMLID_986_" class="st146" d="M188,156.7l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.2,6.3c0.7,0.4,1.5,0.4,2.2,0l11.2-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C189.6,156.3,188.7,156.3,188,156.7z"/>
+			<path id="XMLID_985_" class="st147" d="M188,156.7l-11.1,6.4c-0.7,0.4-0.7,1.5,0,1.9l11.1,6.3c0.7,0.4,1.5,0.4,2.2,0l11.1-6.3
+				c0.7-0.4,0.7-1.5,0-1.9l-11.1-6.4C189.6,156.3,188.7,156.3,188,156.7z"/>
+			<path id="XMLID_984_" class="st148" d="M188,156.8l-11,6.4c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.4C189.6,156.4,188.7,156.4,188,156.8z"/>
+			<path id="XMLID_983_" class="st149" d="M188,156.8l-11,6.3c-0.7,0.4-0.7,1.5,0,1.9l11,6.2c0.7,0.4,1.5,0.4,2.2,0l11-6.2
+				c0.7-0.4,0.7-1.5,0-1.9l-11-6.3C189.6,156.4,188.7,156.4,188,156.8z"/>
+			<path id="XMLID_982_" class="st150" d="M188,156.8l-10.9,6.3c-0.7,0.4-0.7,1.5,0,1.9l10.9,6.2c0.7,0.4,1.5,0.4,2.2,0l10.9-6.2
+				c0.7-0.4,0.7-1.4,0-1.9l-10.9-6.3C189.6,156.4,188.7,156.4,188,156.8z"/>
+			<path id="XMLID_981_" class="st151" d="M188,156.9l-10.9,6.3c-0.7,0.4-0.7,1.4,0,1.8l10.9,6.1c0.7,0.4,1.5,0.4,2.2,0l10.9-6.1
+				c0.7-0.4,0.7-1.4,0-1.8l-10.9-6.3C189.6,156.5,188.7,156.5,188,156.9z"/>
+			<path id="XMLID_980_" class="st152" d="M188,156.9l-10.8,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0L201,165
+				c0.7-0.4,0.7-1.4,0-1.8l-10.8-6.2C189.6,156.5,188.7,156.5,188,156.9z"/>
+			<path id="XMLID_979_" class="st153" d="M188,157l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.8,6.1c0.7,0.4,1.5,0.4,2.2,0L201,165
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C189.6,156.6,188.7,156.6,188,157z"/>
+			<path id="XMLID_978_" class="st154" d="M188,157l-10.7,6.2c-0.7,0.4-0.7,1.4,0,1.8l10.7,6c0.7,0.4,1.5,0.4,2.2,0l10.7-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.7-6.2C189.6,156.6,188.7,156.6,188,157z"/>
+			<path id="XMLID_977_" class="st155" d="M188,157l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C189.6,156.6,188.7,156.6,188,157z"/>
+			<path id="XMLID_976_" class="st156" d="M188.1,157.1l-10.6,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.6,6c0.7,0.4,1.5,0.4,2.1,0l10.6-6
+				c0.7-0.4,0.7-1.4,0-1.8l-10.6-6.1C189.6,156.7,188.7,156.7,188.1,157.1z"/>
+			<path id="XMLID_975_" class="st157" d="M188.1,157.1l-10.5,6.1c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6.1C189.5,156.7,188.7,156.7,188.1,157.1z"/>
+			<path id="XMLID_974_" class="st158" d="M188.1,157.1l-10.5,6c-0.7,0.4-0.7,1.4,0,1.8l10.5,5.9c0.7,0.4,1.5,0.4,2.1,0l10.5-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.5-6C189.5,156.8,188.7,156.8,188.1,157.1z"/>
+			<path id="XMLID_973_" class="st159" d="M188.1,157.2l-10.4,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.9c0.7,0.4,1.4,0.4,2.1,0l10.4-5.9
+				c0.7-0.4,0.7-1.4,0-1.8l-10.4-6C189.5,156.8,188.7,156.8,188.1,157.2z"/>
+			<path id="XMLID_972_" class="st160" d="M188.1,157.2l-10.3,6c-0.7,0.4-0.7,1.4,0,1.8l10.4,5.8c0.6,0.4,1.4,0.4,2.1,0l10.4-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-6C189.5,156.8,188.7,156.8,188.1,157.2z"/>
+			<path id="XMLID_971_" class="st161" d="M188.1,157.3l-10.3,5.9c-0.7,0.4-0.7,1.4,0,1.8l10.3,5.8c0.6,0.4,1.4,0.4,2.1,0l10.3-5.8
+				c0.7-0.4,0.7-1.4,0-1.8l-10.3-5.9C189.5,156.9,188.7,156.9,188.1,157.3z"/>
+			<path id="XMLID_970_" class="st162" d="M188.1,157.3l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.8c0.6,0.4,1.4,0.4,2.1,0l10.2-5.8
+				c0.7-0.4,0.7-1.4,0-1.7l-10.2-5.9C189.5,156.9,188.7,156.9,188.1,157.3z"/>
+			<path id="XMLID_969_" class="st163" d="M188.1,157.3l-10.2,5.9c-0.7,0.4-0.7,1.4,0,1.7l10.2,5.7c0.6,0.4,1.4,0.4,2.1,0l10.2-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.2-5.9C189.5,157,188.7,157,188.1,157.3z"/>
+			<path id="XMLID_968_" class="st164" d="M188.1,157.4l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C189.5,157,188.7,157,188.1,157.4z"/>
+			<path id="XMLID_967_" class="st165" d="M188.1,157.4l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+				c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C189.5,157,188.7,157,188.1,157.4z"/>
+			<path id="XMLID_966_" class="st166" d="M188.1,157.4l-10,5.8c-0.7,0.4-0.7,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-10-5.8C189.5,157.1,188.7,157.1,188.1,157.4z"/>
+			<path id="XMLID_965_" class="st167" d="M188.1,157.5l-9.9,5.7c-0.7,0.4-0.6,1.3,0,1.7l10,5.6c0.6,0.4,1.4,0.4,2,0l10-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C189.5,157.1,188.7,157.1,188.1,157.5z"/>
+			<path id="XMLID_964_" class="st168" d="M188.1,157.5l-9.9,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.9,5.6c0.6,0.3,1.4,0.3,2,0l9.9-5.6
+				c0.7-0.4,0.7-1.3,0-1.7l-9.9-5.7C189.5,157.2,188.7,157.2,188.1,157.5z"/>
+			<path id="XMLID_963_" class="st169" d="M188.1,157.6l-9.8,5.7c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.7-0.4,0.7-1.3,0-1.7l-9.8-5.7C189.5,157.2,188.8,157.2,188.1,157.6z"/>
+			<path id="XMLID_962_" class="st170" d="M188.1,157.6l-9.8,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.8,5.5c0.6,0.3,1.4,0.3,2,0l9.8-5.5
+				c0.6-0.4,0.7-1.3,0-1.7l-9.8-5.6C189.5,157.2,188.8,157.2,188.1,157.6z"/>
+			<path id="XMLID_961_" class="st171" d="M188.1,157.6l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.7l9.7,5.5c0.6,0.3,1.4,0.3,2,0l9.7-5.5
+				c0.6-0.4,0.6-1.3,0-1.7l-9.7-5.6C189.5,157.3,188.8,157.3,188.1,157.6z"/>
+			<path id="XMLID_960_" class="st172" d="M188.1,157.7l-9.7,5.6c-0.6,0.4-0.6,1.3,0,1.6l9.7,5.4c0.6,0.3,1.3,0.3,1.9,0l9.7-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.7-5.6C189.5,157.3,188.8,157.3,188.1,157.7z"/>
+			<path id="XMLID_959_" class="st173" d="M188.2,157.7l-9.6,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.6-5.5C189.5,157.4,188.8,157.4,188.2,157.7z"/>
+			<path id="XMLID_958_" class="st174" d="M188.2,157.7l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.6,5.4c0.6,0.3,1.3,0.3,1.9,0l9.6-5.4
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C189.5,157.4,188.8,157.4,188.2,157.7z"/>
+			<path id="XMLID_957_" class="st175" d="M188.2,157.8l-9.5,5.5c-0.6,0.4-0.6,1.3,0,1.6l9.5,5.3c0.6,0.3,1.3,0.3,1.9,0l9.5-5.3
+				c0.6-0.4,0.6-1.3,0-1.6l-9.5-5.5C189.5,157.4,188.8,157.4,188.2,157.8z"/>
+			<path id="XMLID_956_" class="st176" d="M188.2,157.8l-9.4,5.4c-0.6,0.4-0.6,1.3,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.4,0.6-1.2,0-1.6l-9.4-5.4C189.5,157.5,188.8,157.5,188.2,157.8z"/>
+			<path id="XMLID_955_" class="st177" d="M188.2,157.9l-9.4,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.4,5.3c0.6,0.3,1.3,0.3,1.9,0l9.4-5.3
+				c0.6-0.3,0.6-1.2,0-1.6l-9.4-5.4C189.5,157.5,188.8,157.5,188.2,157.9z"/>
+			<path id="XMLID_954_" class="st178" d="M188.2,157.9l-9.3,5.4c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.4C189.5,157.6,188.8,157.6,188.2,157.9z"/>
+			<path id="XMLID_953_" class="st179" d="M188.2,157.9l-9.3,5.3c-0.6,0.4-0.6,1.2,0,1.6l9.3,5.2c0.6,0.3,1.3,0.3,1.9,0l9.3-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.3-5.3C189.5,157.6,188.8,157.6,188.2,157.9z"/>
+			<path id="XMLID_952_" class="st180" d="M188.2,158l-9.2,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.2,5.2c0.6,0.3,1.3,0.3,1.9,0l9.2-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.2-5.3C189.5,157.6,188.8,157.6,188.2,158z"/>
+			<path id="XMLID_951_" class="st181" d="M188.2,158l-9.1,5.3c-0.6,0.3-0.6,1.2,0,1.6l9.1,5.2c0.6,0.3,1.3,0.3,1.8,0l9.1-5.2
+				c0.6-0.3,0.6-1.2,0-1.6l-9.1-5.3C189.5,157.7,188.8,157.7,188.2,158z"/>
+			<path id="XMLID_950_" class="st182" d="M188.2,158l-9.1,5.2c-0.6,0.3-0.6,1.2,0,1.5l9.1,5.1c0.6,0.3,1.3,0.3,1.8,0l9.1-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9.1-5.2C189.5,157.7,188.8,157.7,188.2,158z"/>
+			<path id="XMLID_949_" class="st183" d="M188.2,158.1l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.3,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C189.5,157.8,188.8,157.8,188.2,158.1z"/>
+			<path id="XMLID_948_" class="st184" d="M188.2,158.1l-9,5.2c-0.6,0.3-0.6,1.2,0,1.5l9,5.1c0.6,0.3,1.2,0.3,1.8,0l9-5.1
+				c0.6-0.3,0.6-1.2,0-1.5l-9-5.2C189.5,157.8,188.8,157.8,188.2,158.1z"/>
+			<path id="XMLID_947_" class="st43" d="M188.2,158.2l-8.9,5.1c-0.6,0.3-0.6,1.2,0,1.5l8.9,5c0.6,0.3,1.2,0.3,1.8,0l8.9-5
+				c0.6-0.3,0.6-1.2,0-1.5l-8.9-5.1C189.5,157.8,188.8,157.8,188.2,158.2z"/>
+		</g>
+		<linearGradient id="XMLID_326_" gradientUnits="userSpaceOnUse" x1="177.4845" y1="163.7915" x2="200.7639" y2="163.7915">
+			<stop  offset="3.802050e-003" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.1875" style="stop-color:#B2D2F1"/>
+			<stop  offset="1" style="stop-color:#E6F1FA"/>
+		</linearGradient>
+		<path id="XMLID_945_" class="st191" d="M188.1,157.2l-10.6,4.8v1.8c0,0.4,0.2,0.8,0.6,1l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10-5.6
+			c0.4-0.2,0.6-0.6,0.6-1v-1.6l-10.6-5C189.5,156.8,188.7,156.8,188.1,157.2z"/>
+		<path id="XMLID_944_" class="st126" d="M188.1,155.2l-10.1,5.8c-0.7,0.4-0.7,1.3,0,1.7l10.1,5.7c0.6,0.4,1.4,0.4,2,0l10.1-5.7
+			c0.7-0.4,0.7-1.3,0-1.7l-10.1-5.8C189.5,154.9,188.7,154.9,188.1,155.2z"/>
+		<path id="XMLID_942_" class="st43" d="M190.9,164.1c0,0-0.1,0-0.2,0l-4.5-0.4l-0.2-3.1c0-0.4,0.2-0.7,0.6-1
+			c0.8-0.5,2.2-0.4,3.1,0.3c0.5,0.3,0.7,0.8,0.7,1.2c0.6,0,1.1,0.2,1.6,0.6c0.9,0.7,0.9,1.7,0.1,2.2
+			C191.8,164,191.4,164.1,190.9,164.1z"/>
+	</g>
+</g>
+</svg>

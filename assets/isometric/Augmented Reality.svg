@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_80_);}
+	.st1{opacity:0.2;}
+	.st2{fill:#3C5185;fill-opacity:0;}
+	.st3{opacity:1.960800e-002;fill:#3C5185;enable-background:new    ;}
+	.st4{opacity:3.921600e-002;fill:#3C5185;enable-background:new    ;}
+	.st5{opacity:5.882400e-002;fill:#3C5185;enable-background:new    ;}
+	.st6{opacity:7.843100e-002;fill:#3C5185;enable-background:new    ;}
+	.st7{opacity:9.803900e-002;fill:#3C5185;enable-background:new    ;}
+	.st8{opacity:0.1176;fill:#3C5185;enable-background:new    ;}
+	.st9{opacity:0.1373;fill:#3C5185;enable-background:new    ;}
+	.st10{opacity:0.1569;fill:#3C5185;enable-background:new    ;}
+	.st11{opacity:0.1765;fill:#3C5185;enable-background:new    ;}
+	.st12{opacity:0.1961;fill:#3C5185;enable-background:new    ;}
+	.st13{opacity:0.2157;fill:#3C5185;enable-background:new    ;}
+	.st14{opacity:0.2353;fill:#3C5185;enable-background:new    ;}
+	.st15{opacity:0.2549;fill:#3C5185;enable-background:new    ;}
+	.st16{opacity:0.2745;fill:#3C5185;enable-background:new    ;}
+	.st17{opacity:0.2941;fill:#3C5185;enable-background:new    ;}
+	.st18{opacity:0.3137;fill:#3C5185;enable-background:new    ;}
+	.st19{opacity:0.3333;fill:#3C5185;enable-background:new    ;}
+	.st20{opacity:0.3529;fill:#3C5185;enable-background:new    ;}
+	.st21{opacity:0.3725;fill:#3C5185;enable-background:new    ;}
+	.st22{opacity:0.3922;fill:#3C5185;enable-background:new    ;}
+	.st23{opacity:0.4118;fill:#3C5185;enable-background:new    ;}
+	.st24{opacity:0.4314;fill:#3C5185;enable-background:new    ;}
+	.st25{opacity:0.451;fill:#3C5185;enable-background:new    ;}
+	.st26{opacity:0.4706;fill:#3C5185;enable-background:new    ;}
+	.st27{opacity:0.4902;fill:#3C5185;enable-background:new    ;}
+	.st28{opacity:0.5098;fill:#3C5185;enable-background:new    ;}
+	.st29{opacity:0.5294;fill:#3C5185;enable-background:new    ;}
+	.st30{opacity:0.549;fill:#3C5185;enable-background:new    ;}
+	.st31{opacity:0.5686;fill:#3C5185;enable-background:new    ;}
+	.st32{opacity:0.5882;fill:#3C5185;enable-background:new    ;}
+	.st33{opacity:0.6078;fill:#3C5185;enable-background:new    ;}
+	.st34{opacity:0.6275;fill:#3C5185;enable-background:new    ;}
+	.st35{opacity:0.6471;fill:#3C5185;enable-background:new    ;}
+	.st36{opacity:0.6667;fill:#3C5185;enable-background:new    ;}
+	.st37{opacity:0.6863;fill:#3C5185;enable-background:new    ;}
+	.st38{opacity:0.7059;fill:#3C5185;enable-background:new    ;}
+	.st39{opacity:0.7255;fill:#3C5185;enable-background:new    ;}
+	.st40{opacity:0.7451;fill:#3C5185;enable-background:new    ;}
+	.st41{opacity:0.7647;fill:#3C5185;enable-background:new    ;}
+	.st42{opacity:0.7843;fill:#3C5185;enable-background:new    ;}
+	.st43{opacity:0.8039;fill:#3C5185;enable-background:new    ;}
+	.st44{opacity:0.8235;fill:#3C5185;enable-background:new    ;}
+	.st45{opacity:0.8431;fill:#3C5185;enable-background:new    ;}
+	.st46{opacity:0.8627;fill:#3C5185;enable-background:new    ;}
+	.st47{opacity:0.8824;fill:#3C5185;enable-background:new    ;}
+	.st48{opacity:0.902;fill:#3C5185;enable-background:new    ;}
+	.st49{opacity:0.9216;fill:#3C5185;enable-background:new    ;}
+	.st50{opacity:0.9412;fill:#3C5185;enable-background:new    ;}
+	.st51{opacity:0.9608;fill:#3C5185;enable-background:new    ;}
+	.st52{opacity:0.9804;fill:#3C5185;enable-background:new    ;}
+	.st53{fill:#3C5185;}
+	.st54{fill:#E3EDF7;}
+	.st55{fill:#DAE7F5;}
+	.st56{fill:#D1E1F2;}
+	.st57{fill:#B2CAEC;}
+	.st58{fill:#98B9E5;}
+	.st59{fill:#7EA7DF;}
+	.st60{fill:url(#XMLID_81_);}
+	.st61{fill:#FFFFFF;}
+	.st62{fill:#A5CBEF;}
+	.st63{fill:url(#XMLID_82_);}
+	.st64{fill:#2D3D64;}
+	.st65{fill:#F2B1B5;}
+	.st66{fill:url(#XMLID_83_);}
+	.st67{fill:#5D7DBE;}
+	.st68{fill:#6E84B5;}
+	.st69{fill:#5C74AC;}
+	.st70{fill:#4A65A3;}
+	.st71{fill:url(#XMLID_84_);}
+	.st72{fill:url(#XMLID_85_);}
+	.st73{fill:url(#XMLID_86_);}
+	.st74{fill:url(#XMLID_87_);}
+	.st75{fill:url(#XMLID_88_);}
+	.st76{fill:url(#XMLID_89_);}
+	.st77{fill:url(#XMLID_90_);}
+	.st78{fill:url(#XMLID_91_);}
+	.st79{fill:url(#XMLID_92_);}
+	.st80{fill:url(#XMLID_93_);}
+</style>
+<g>
+	
+		<linearGradient id="XMLID_80_" gradientUnits="userSpaceOnUse" x1="149.989" y1="41.7839" x2="100.8279" y2="202.0921" gradientTransform="matrix(1 0 0 -1 0 256)">
+		<stop  offset="0.1103" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#E1EBF7"/>
+	</linearGradient>
+	<path id="XMLID_69_" class="st0" d="M211.1,141.3c0,42.4-41.9,72.4-84.4,72.4s-81.9-29.9-81.9-72.4S70.3,53,112.8,53
+		S211.1,98.9,211.1,141.3z"/>
+	<g id="XMLID_11364_">
+		<g id="XMLID_11368_" class="st1">
+			<polygon id="XMLID_11420_" class="st2" points="183.5,182 178.8,184.7 163.3,175.8 168,173 			"/>
+			<polygon id="XMLID_11419_" class="st3" points="183.5,182 178.8,184.7 163.3,175.7 168,173 			"/>
+			<polygon id="XMLID_11418_" class="st4" points="183.5,182 178.9,184.6 163.4,175.7 168,173 			"/>
+			<polygon id="XMLID_11417_" class="st5" points="183.5,182 179,184.6 163.5,175.7 168,173 			"/>
+			<polygon id="XMLID_11416_" class="st6" points="183.5,182 179.1,184.6 163.6,175.6 168,173 			"/>
+			<polygon id="XMLID_11415_" class="st7" points="183.5,182 179.2,184.5 163.7,175.6 168,173 			"/>
+			<polygon id="XMLID_11414_" class="st8" points="183.5,182 179.2,184.5 163.7,175.5 168,173 			"/>
+			<polygon id="XMLID_11413_" class="st9" points="183.5,182 179.3,184.4 163.8,175.5 168,173 			"/>
+			<polygon id="XMLID_11412_" class="st10" points="183.5,182 179.4,184.4 163.9,175.4 168,173 			"/>
+			<polygon id="XMLID_11411_" class="st11" points="183.5,182 179.5,184.3 164,175.4 168,173 			"/>
+			<polygon id="XMLID_11410_" class="st12" points="183.5,182 179.6,184.3 164.1,175.3 168,173 			"/>
+			<polygon id="XMLID_11409_" class="st13" points="183.5,182 179.6,184.2 164.1,175.3 168,173 			"/>
+			<polygon id="XMLID_11408_" class="st14" points="183.5,182 179.7,184.2 164.2,175.2 168,173 			"/>
+			<polygon id="XMLID_11407_" class="st15" points="183.5,182 179.8,184.1 164.3,175.2 168,173 			"/>
+			<polygon id="XMLID_11406_" class="st16" points="183.5,182 179.9,184.1 164.4,175.1 168,173 			"/>
+			<polygon id="XMLID_11405_" class="st17" points="183.5,182 180,184 164.5,175.1 168,173 			"/>
+			<polygon id="XMLID_11404_" class="st18" points="183.5,182 180,184 164.5,175 168,173 			"/>
+			<polygon id="XMLID_11403_" class="st19" points="183.5,182 180.1,183.9 164.6,175 168,173 			"/>
+			<polygon id="XMLID_11402_" class="st20" points="183.5,182 180.2,183.9 164.7,175 168,173 			"/>
+			<polygon id="XMLID_11401_" class="st21" points="183.5,182 180.3,183.9 164.8,174.9 168,173 			"/>
+			<polygon id="XMLID_11400_" class="st22" points="183.5,182 180.3,183.8 164.8,174.9 168,173 			"/>
+			<polygon id="XMLID_11399_" class="st23" points="183.5,182 180.4,183.8 164.9,174.8 168,173 			"/>
+			<polygon id="XMLID_11398_" class="st24" points="183.5,182 180.5,183.7 165,174.8 168,173 			"/>
+			<polygon id="XMLID_11397_" class="st25" points="183.5,182 180.6,183.7 165.1,174.7 168,173 			"/>
+			<polygon id="XMLID_11396_" class="st26" points="183.5,182 180.7,183.6 165.2,174.7 168,173 			"/>
+			<polygon id="XMLID_11395_" class="st27" points="183.5,182 180.7,183.6 165.2,174.6 168,173 			"/>
+			<polygon id="XMLID_11394_" class="st28" points="183.5,182 180.8,183.5 165.3,174.6 168,173 			"/>
+			<polygon id="XMLID_11393_" class="st29" points="183.5,182 180.9,183.5 165.4,174.5 168,173 			"/>
+			<polygon id="XMLID_11392_" class="st30" points="183.5,182 181,183.4 165.5,174.5 168,173 			"/>
+			<polygon id="XMLID_11391_" class="st31" points="183.5,182 181.1,183.4 165.6,174.4 168,173 			"/>
+			<polygon id="XMLID_11390_" class="st32" points="183.5,182 181.1,183.3 165.6,174.4 168,173 			"/>
+			<polygon id="XMLID_11389_" class="st33" points="183.5,182 181.2,183.3 165.7,174.3 168,173 			"/>
+			<polygon id="XMLID_11388_" class="st34" points="183.5,182 181.3,183.2 165.8,174.3 168,173 			"/>
+			<polygon id="XMLID_11387_" class="st35" points="183.5,182 181.4,183.2 165.9,174.2 168,173 			"/>
+			<polygon id="XMLID_11386_" class="st36" points="183.5,182 181.5,183.2 166,174.2 168,173 			"/>
+			<polygon id="XMLID_11385_" class="st37" points="183.5,182 181.5,183.1 166,174.2 168,173 			"/>
+			<polygon id="XMLID_11384_" class="st38" points="183.5,182 181.6,183.1 166.1,174.1 168,173 			"/>
+			<polygon id="XMLID_11383_" class="st39" points="183.5,182 181.7,183 166.2,174.1 168,173 			"/>
+			<polygon id="XMLID_11382_" class="st40" points="183.5,182 181.8,183 166.3,174 168,173 			"/>
+			<polygon id="XMLID_11381_" class="st41" points="183.5,182 181.8,182.9 166.3,174 168,173 			"/>
+			<polygon id="XMLID_11380_" class="st42" points="183.5,182 181.9,182.9 166.4,173.9 168,173 			"/>
+			<polygon id="XMLID_11379_" class="st43" points="183.5,182 182,182.8 166.5,173.9 168,173 			"/>
+			<polygon id="XMLID_11378_" class="st44" points="183.5,182 182.1,182.8 166.6,173.8 168,173 			"/>
+			<polygon id="XMLID_11377_" class="st45" points="183.5,182 182.2,182.7 166.7,173.8 168,173 			"/>
+			<polygon id="XMLID_11376_" class="st46" points="183.5,182 182.2,182.7 166.7,173.7 168,173 			"/>
+			<polygon id="XMLID_11375_" class="st47" points="183.5,182 182.3,182.6 166.8,173.7 168,173 			"/>
+			<polygon id="XMLID_11374_" class="st48" points="183.5,182 182.4,182.6 166.9,173.6 168,173 			"/>
+			<polygon id="XMLID_11373_" class="st49" points="183.5,182 182.5,182.5 167,173.6 168,173 			"/>
+			<polygon id="XMLID_11372_" class="st50" points="183.5,182 182.6,182.5 167.1,173.5 168,173 			"/>
+			<polygon id="XMLID_11371_" class="st51" points="183.5,182 182.6,182.5 167.1,173.5 168,173 			"/>
+			<polygon id="XMLID_11370_" class="st52" points="183.5,182 182.7,182.4 167.2,173.5 168,173 			"/>
+			<polygon id="XMLID_11369_" class="st53" points="183.5,182 182.8,182.4 167.3,173.4 168,173 			"/>
+		</g>
+		<polygon id="XMLID_11367_" class="st54" points="183.5,125.9 167.9,134.9 183.5,143.8 199,134.9 		"/>
+		<polygon id="XMLID_11366_" class="st55" points="183.5,143.8 183.5,182 199,173 199,134.9 		"/>
+		<polygon id="XMLID_11365_" class="st56" points="167.9,134.9 167.9,173 183.5,182 183.5,143.8 		"/>
+	</g>
+	<g id="XMLID_11535_">
+		<g id="XMLID_11539_" class="st1">
+			<polygon id="XMLID_11591_" class="st2" points="69.2,127.6 64.1,130.6 47.2,120.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11590_" class="st3" points="69.2,127.6 64.1,130.6 47.3,120.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11589_" class="st4" points="69.2,127.6 64.2,130.5 47.4,120.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11588_" class="st5" points="69.2,127.6 64.3,130.5 47.5,120.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11587_" class="st6" points="69.2,127.6 64.4,130.4 47.5,120.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11586_" class="st7" points="69.2,127.6 64.5,130.4 47.6,120.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11585_" class="st8" points="69.2,127.6 64.6,130.3 47.7,120.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11584_" class="st9" points="69.2,127.6 64.7,130.3 47.8,120.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11583_" class="st10" points="69.2,127.6 64.7,130.2 47.9,120.5 52.3,117.9 			"/>
+			<polygon id="XMLID_11582_" class="st11" points="69.2,127.6 64.8,130.2 48,120.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11581_" class="st12" points="69.2,127.6 64.9,130.1 48.1,120.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11580_" class="st13" points="69.2,127.6 65,130.1 48.1,120.3 52.3,117.9 			"/>
+			<polygon id="XMLID_11579_" class="st14" points="69.2,127.6 65.1,130 48.2,120.3 52.3,117.9 			"/>
+			<polygon id="XMLID_11578_" class="st15" points="69.2,127.6 65.2,130 48.3,120.2 52.3,117.9 			"/>
+			<polygon id="XMLID_11577_" class="st16" points="69.2,127.6 65.3,129.9 48.4,120.2 52.3,117.9 			"/>
+			<polygon id="XMLID_11576_" class="st17" points="69.2,127.6 65.3,129.9 48.5,120.1 52.3,117.9 			"/>
+			<polygon id="XMLID_11575_" class="st18" points="69.2,127.6 65.4,129.8 48.6,120.1 52.3,117.9 			"/>
+			<polygon id="XMLID_11574_" class="st19" points="69.2,127.6 65.5,129.8 48.7,120 52.3,117.9 			"/>
+			<polygon id="XMLID_11573_" class="st20" points="69.2,127.6 65.6,129.7 48.7,120 52.3,117.9 			"/>
+			<polygon id="XMLID_11572_" class="st21" points="69.2,127.6 65.7,129.7 48.8,119.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11571_" class="st22" points="69.2,127.6 65.8,129.6 48.9,119.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11570_" class="st23" points="69.2,127.6 65.9,129.6 49,119.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11569_" class="st24" points="69.2,127.6 65.9,129.5 49.1,119.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11568_" class="st25" points="69.2,127.6 66,129.5 49.2,119.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11567_" class="st26" points="69.2,127.6 66.1,129.4 49.3,119.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11566_" class="st27" points="69.2,127.6 66.2,129.4 49.3,119.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11565_" class="st28" points="69.2,127.6 66.3,129.3 49.4,119.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11564_" class="st29" points="69.2,127.6 66.4,129.3 49.5,119.5 52.3,117.9 			"/>
+			<polygon id="XMLID_11563_" class="st30" points="69.2,127.6 66.5,129.2 49.6,119.5 52.3,117.9 			"/>
+			<polygon id="XMLID_11562_" class="st31" points="69.2,127.6 66.5,129.2 49.7,119.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11561_" class="st32" points="69.2,127.6 66.6,129.1 49.8,119.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11560_" class="st33" points="69.2,127.6 66.7,129.1 49.9,119.3 52.3,117.9 			"/>
+			<polygon id="XMLID_11559_" class="st34" points="69.2,127.6 66.8,129 49.9,119.3 52.3,117.9 			"/>
+			<polygon id="XMLID_11558_" class="st35" points="69.2,127.6 66.9,129 50,119.2 52.3,117.9 			"/>
+			<polygon id="XMLID_11557_" class="st36" points="69.2,127.6 67,128.9 50.1,119.2 52.3,117.9 			"/>
+			<polygon id="XMLID_11556_" class="st37" points="69.2,127.6 67.1,128.9 50.2,119.1 52.3,117.9 			"/>
+			<polygon id="XMLID_11555_" class="st38" points="69.2,127.6 67.1,128.8 50.3,119.1 52.3,117.9 			"/>
+			<polygon id="XMLID_11554_" class="st39" points="69.2,127.6 67.2,128.8 50.4,119 52.3,117.9 			"/>
+			<polygon id="XMLID_11553_" class="st40" points="69.2,127.6 67.3,128.7 50.5,119 52.3,117.9 			"/>
+			<polygon id="XMLID_11552_" class="st41" points="69.2,127.6 67.4,128.7 50.5,118.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11551_" class="st42" points="69.2,127.6 67.5,128.6 50.6,118.9 52.3,117.9 			"/>
+			<polygon id="XMLID_11550_" class="st43" points="69.2,127.6 67.6,128.6 50.7,118.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11549_" class="st44" points="69.2,127.6 67.7,128.5 50.8,118.8 52.3,117.9 			"/>
+			<polygon id="XMLID_11548_" class="st45" points="69.2,127.6 67.7,128.5 50.9,118.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11547_" class="st46" points="69.2,127.6 67.8,128.4 51,118.7 52.3,117.9 			"/>
+			<polygon id="XMLID_11546_" class="st47" points="69.2,127.6 67.9,128.4 51.1,118.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11545_" class="st48" points="69.2,127.6 68,128.3 51.2,118.6 52.3,117.9 			"/>
+			<polygon id="XMLID_11544_" class="st49" points="69.2,127.6 68.1,128.2 51.2,118.5 52.3,117.9 			"/>
+			<polygon id="XMLID_11543_" class="st50" points="69.2,127.6 68.2,128.2 51.3,118.5 52.3,117.9 			"/>
+			<polygon id="XMLID_11542_" class="st51" points="69.2,127.6 68.3,128.1 51.4,118.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11541_" class="st52" points="69.2,127.6 68.3,128.1 51.5,118.4 52.3,117.9 			"/>
+			<polygon id="XMLID_11540_" class="st53" points="69.2,127.6 68.4,128 51.6,118.3 52.3,117.9 			"/>
+		</g>
+		<polygon id="XMLID_11538_" class="st57" points="69.2,72.2 52.3,81.9 69.2,91.7 86.1,81.9 		"/>
+		<polygon id="XMLID_11537_" class="st58" points="69.2,91.7 69.2,127.7 86.1,117.9 86.1,81.9 		"/>
+		<polygon id="XMLID_11536_" class="st59" points="52.3,81.9 52.3,117.9 69.2,127.7 69.2,91.7 		"/>
+	</g>
+	<g id="XMLID_11421_">
+		<polygon id="XMLID_11424_" class="st54" points="113.2,73.5 96.5,83.2 113.2,92.9 129.9,83.2 		"/>
+		<polygon id="XMLID_11423_" class="st55" points="113.2,92.9 113.2,145.8 129.9,136.2 129.9,83.2 		"/>
+		<polygon id="XMLID_11422_" class="st56" points="96.5,83.2 96.5,136.2 113.2,145.8 113.2,92.9 		"/>
+	</g>
+	<g id="XMLID_11478_">
+		<g id="XMLID_11482_" class="st1">
+			<polygon id="XMLID_11534_" class="st2" points="71.3,158.2 68.7,159.7 60.1,154.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11533_" class="st3" points="71.3,158.2 68.7,159.7 60.1,154.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11532_" class="st4" points="71.3,158.2 68.8,159.7 60.2,154.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11531_" class="st5" points="71.3,158.2 68.8,159.6 60.2,154.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11530_" class="st6" points="71.3,158.2 68.9,159.6 60.2,154.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11529_" class="st7" points="71.3,158.2 68.9,159.6 60.3,154.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11528_" class="st8" points="71.3,158.2 68.9,159.6 60.3,154.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11527_" class="st9" points="71.3,158.2 69,159.5 60.4,154.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11526_" class="st10" points="71.3,158.2 69,159.5 60.4,154.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11525_" class="st11" points="71.3,158.2 69.1,159.5 60.5,154.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11524_" class="st12" points="71.3,158.2 69.1,159.5 60.5,154.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11523_" class="st13" points="71.3,158.2 69.2,159.4 60.6,154.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11522_" class="st14" points="71.3,158.2 69.2,159.4 60.6,154.4 62.7,153.2 			"/>
+			<polygon id="XMLID_11521_" class="st15" points="71.3,158.2 69.3,159.4 60.6,154.4 62.7,153.2 			"/>
+			<polygon id="XMLID_11520_" class="st16" points="71.3,158.2 69.3,159.3 60.7,154.4 62.7,153.2 			"/>
+			<polygon id="XMLID_11519_" class="st17" points="71.3,158.2 69.3,159.3 60.7,154.3 62.7,153.2 			"/>
+			<polygon id="XMLID_11518_" class="st18" points="71.3,158.2 69.4,159.3 60.8,154.3 62.7,153.2 			"/>
+			<polygon id="XMLID_11517_" class="st19" points="71.3,158.2 69.4,159.3 60.8,154.3 62.7,153.2 			"/>
+			<polygon id="XMLID_11516_" class="st20" points="71.3,158.2 69.5,159.2 60.9,154.3 62.7,153.2 			"/>
+			<polygon id="XMLID_11515_" class="st21" points="71.3,158.2 69.5,159.2 60.9,154.2 62.7,153.2 			"/>
+			<polygon id="XMLID_11514_" class="st22" points="71.3,158.2 69.6,159.2 60.9,154.2 62.7,153.2 			"/>
+			<polygon id="XMLID_11513_" class="st23" points="71.3,158.2 69.6,159.2 61,154.2 62.7,153.2 			"/>
+			<polygon id="XMLID_11512_" class="st24" points="71.3,158.2 69.6,159.1 61,154.2 62.7,153.2 			"/>
+			<polygon id="XMLID_11511_" class="st25" points="71.3,158.2 69.7,159.1 61.1,154.1 62.7,153.2 			"/>
+			<polygon id="XMLID_11510_" class="st26" points="71.3,158.2 69.7,159.1 61.1,154.1 62.7,153.2 			"/>
+			<polygon id="XMLID_11509_" class="st27" points="71.3,158.2 69.8,159.1 61.2,154.1 62.7,153.2 			"/>
+			<polygon id="XMLID_11508_" class="st28" points="71.3,158.2 69.8,159 61.2,154.1 62.7,153.2 			"/>
+			<polygon id="XMLID_11507_" class="st29" points="71.3,158.2 69.9,159 61.3,154 62.7,153.2 			"/>
+			<polygon id="XMLID_11506_" class="st30" points="71.3,158.2 69.9,159 61.3,154 62.7,153.2 			"/>
+			<polygon id="XMLID_11505_" class="st31" points="71.3,158.2 70,159 61.3,154 62.7,153.2 			"/>
+			<polygon id="XMLID_11504_" class="st32" points="71.3,158.2 70,158.9 61.4,154 62.7,153.2 			"/>
+			<polygon id="XMLID_11503_" class="st33" points="71.3,158.2 70,158.9 61.4,153.9 62.7,153.2 			"/>
+			<polygon id="XMLID_11502_" class="st34" points="71.3,158.2 70.1,158.9 61.5,153.9 62.7,153.2 			"/>
+			<polygon id="XMLID_11501_" class="st35" points="71.3,158.2 70.1,158.9 61.5,153.9 62.7,153.2 			"/>
+			<polygon id="XMLID_11500_" class="st36" points="71.3,158.2 70.2,158.8 61.6,153.9 62.7,153.2 			"/>
+			<polygon id="XMLID_11499_" class="st37" points="71.3,158.2 70.2,158.8 61.6,153.8 62.7,153.2 			"/>
+			<polygon id="XMLID_11498_" class="st38" points="71.3,158.2 70.3,158.8 61.6,153.8 62.7,153.2 			"/>
+			<polygon id="XMLID_11497_" class="st39" points="71.3,158.2 70.3,158.8 61.7,153.8 62.7,153.2 			"/>
+			<polygon id="XMLID_11496_" class="st40" points="71.3,158.2 70.4,158.7 61.7,153.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11495_" class="st41" points="71.3,158.2 70.4,158.7 61.8,153.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11494_" class="st42" points="71.3,158.2 70.4,158.7 61.8,153.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11493_" class="st43" points="71.3,158.2 70.5,158.6 61.9,153.7 62.7,153.2 			"/>
+			<polygon id="XMLID_11492_" class="st44" points="71.3,158.2 70.5,158.6 61.9,153.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11491_" class="st45" points="71.3,158.2 70.6,158.6 62,153.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11490_" class="st46" points="71.3,158.2 70.6,158.6 62,153.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11489_" class="st47" points="71.3,158.2 70.7,158.5 62,153.6 62.7,153.2 			"/>
+			<polygon id="XMLID_11488_" class="st48" points="71.3,158.2 70.7,158.5 62.1,153.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11487_" class="st49" points="71.3,158.2 70.7,158.5 62.1,153.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11486_" class="st50" points="71.3,158.2 70.8,158.5 62.2,153.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11485_" class="st51" points="71.3,158.2 70.8,158.4 62.2,153.5 62.7,153.2 			"/>
+			<polygon id="XMLID_11484_" class="st52" points="71.3,158.2 70.9,158.4 62.3,153.4 62.7,153.2 			"/>
+			<polygon id="XMLID_11483_" class="st53" points="71.3,158.2 70.9,158.4 62.3,153.4 62.7,153.2 			"/>
+		</g>
+		<polygon id="XMLID_11481_" class="st54" points="71.3,137.2 62.7,142.2 71.3,147.2 79.9,142.2 		"/>
+		<polygon id="XMLID_11480_" class="st55" points="71.3,147.2 71.3,158.2 79.9,153.2 79.9,142.2 		"/>
+		<polygon id="XMLID_11479_" class="st56" points="62.7,142.2 62.7,153.2 71.3,158.2 71.3,147.2 		"/>
+	</g>
+	<g id="XMLID_10894_">
+		<g id="XMLID_10898_" class="st1">
+			<polygon id="XMLID_11476_" class="st2" points="191.6,128.3 189.5,129.5 182.8,125.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11475_" class="st3" points="191.6,128.3 189.6,129.5 182.8,125.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11474_" class="st4" points="191.6,128.3 189.6,129.5 182.8,125.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11473_" class="st5" points="191.6,128.3 189.6,129.5 182.9,125.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11472_" class="st6" points="191.6,128.3 189.7,129.4 182.9,125.5 184.8,124.4 			"/>
+			<polygon id="XMLID_11471_" class="st7" points="191.6,128.3 189.7,129.4 182.9,125.5 184.8,124.4 			"/>
+			<polygon id="XMLID_11470_" class="st8" points="191.6,128.3 189.7,129.4 183,125.5 184.8,124.4 			"/>
+			<polygon id="XMLID_11469_" class="st9" points="191.6,128.3 189.8,129.4 183,125.5 184.8,124.4 			"/>
+			<polygon id="XMLID_11468_" class="st10" points="191.6,128.3 189.8,129.4 183,125.5 184.8,124.4 			"/>
+			<polygon id="XMLID_11467_" class="st11" points="191.6,128.3 189.8,129.3 183.1,125.4 184.8,124.4 			"/>
+			<polygon id="XMLID_11466_" class="st12" points="191.6,128.3 189.9,129.3 183.1,125.4 184.8,124.4 			"/>
+			<polygon id="XMLID_11465_" class="st13" points="191.6,128.3 189.9,129.3 183.2,125.4 184.8,124.4 			"/>
+			<polygon id="XMLID_11464_" class="st14" points="191.6,128.3 189.9,129.3 183.2,125.4 184.8,124.4 			"/>
+			<polygon id="XMLID_11463_" class="st15" points="191.6,128.3 190,129.3 183.2,125.4 184.8,124.4 			"/>
+			<polygon id="XMLID_11462_" class="st16" points="191.6,128.3 190,129.2 183.3,125.3 184.8,124.4 			"/>
+			<polygon id="XMLID_11461_" class="st17" points="191.6,128.3 190,129.2 183.3,125.3 184.8,124.4 			"/>
+			<polygon id="XMLID_11460_" class="st18" points="191.6,128.3 190.1,129.2 183.3,125.3 184.8,124.4 			"/>
+			<polygon id="XMLID_11459_" class="st19" points="191.6,128.3 190.1,129.2 183.4,125.3 184.8,124.4 			"/>
+			<polygon id="XMLID_11458_" class="st20" points="191.6,128.3 190.1,129.2 183.4,125.3 184.8,124.4 			"/>
+			<polygon id="XMLID_11457_" class="st21" points="191.6,128.3 190.2,129.1 183.4,125.2 184.8,124.4 			"/>
+			<polygon id="XMLID_11456_" class="st22" points="191.6,128.3 190.2,129.1 183.5,125.2 184.8,124.4 			"/>
+			<polygon id="XMLID_11455_" class="st23" points="191.6,128.3 190.2,129.1 183.5,125.2 184.8,124.4 			"/>
+			<polygon id="XMLID_11454_" class="st24" points="191.6,128.3 190.3,129.1 183.5,125.2 184.8,124.4 			"/>
+			<polygon id="XMLID_11453_" class="st25" points="191.6,128.3 190.3,129.1 183.6,125.2 184.8,124.4 			"/>
+			<polygon id="XMLID_11452_" class="st26" points="191.6,128.3 190.3,129 183.6,125.1 184.8,124.4 			"/>
+			<polygon id="XMLID_11451_" class="st27" points="191.6,128.3 190.4,129 183.6,125.1 184.8,124.4 			"/>
+			<polygon id="XMLID_11450_" class="st28" points="191.6,128.3 190.4,129 183.7,125.1 184.8,124.4 			"/>
+			<polygon id="XMLID_11449_" class="st29" points="191.6,128.3 190.4,129 183.7,125.1 184.8,124.4 			"/>
+			<polygon id="XMLID_11448_" class="st30" points="191.6,128.3 190.5,129 183.7,125.1 184.8,124.4 			"/>
+			<polygon id="XMLID_11447_" class="st31" points="191.6,128.3 190.5,128.9 183.8,125 184.8,124.4 			"/>
+			<polygon id="XMLID_11446_" class="st32" points="191.6,128.3 190.5,128.9 183.8,125 184.8,124.4 			"/>
+			<polygon id="XMLID_11445_" class="st33" points="191.6,128.3 190.6,128.9 183.8,125 184.8,124.4 			"/>
+			<polygon id="XMLID_11444_" class="st34" points="191.6,128.3 190.6,128.9 183.9,125 184.8,124.4 			"/>
+			<polygon id="XMLID_11443_" class="st35" points="191.6,128.3 190.7,128.9 183.9,125 184.8,124.4 			"/>
+			<polygon id="XMLID_11442_" class="st36" points="191.6,128.3 190.7,128.8 183.9,124.9 184.8,124.4 			"/>
+			<polygon id="XMLID_11441_" class="st37" points="191.6,128.3 190.7,128.8 184,124.9 184.8,124.4 			"/>
+			<polygon id="XMLID_11440_" class="st38" points="191.6,128.3 190.8,128.8 184,124.9 184.8,124.4 			"/>
+			<polygon id="XMLID_11439_" class="st39" points="191.6,128.3 190.8,128.8 184,124.9 184.8,124.4 			"/>
+			<polygon id="XMLID_11438_" class="st40" points="191.6,128.3 190.8,128.7 184.1,124.9 184.8,124.4 			"/>
+			<polygon id="XMLID_11437_" class="st41" points="191.6,128.3 190.9,128.7 184.1,124.8 184.8,124.4 			"/>
+			<polygon id="XMLID_11436_" class="st42" points="191.6,128.3 190.9,128.7 184.1,124.8 184.8,124.4 			"/>
+			<polygon id="XMLID_11435_" class="st43" points="191.6,128.3 190.9,128.7 184.2,124.8 184.8,124.4 			"/>
+			<polygon id="XMLID_11434_" class="st44" points="191.6,128.3 191,128.7 184.2,124.8 184.8,124.4 			"/>
+			<polygon id="XMLID_11433_" class="st45" points="191.6,128.3 191,128.6 184.3,124.8 184.8,124.4 			"/>
+			<polygon id="XMLID_11432_" class="st46" points="191.6,128.3 191,128.6 184.3,124.7 184.8,124.4 			"/>
+			<polygon id="XMLID_11431_" class="st47" points="191.6,128.3 191.1,128.6 184.3,124.7 184.8,124.4 			"/>
+			<polygon id="XMLID_11430_" class="st48" points="191.6,128.3 191.1,128.6 184.4,124.7 184.8,124.4 			"/>
+			<polygon id="XMLID_11429_" class="st49" points="191.6,128.3 191.1,128.6 184.4,124.7 184.8,124.4 			"/>
+			<polygon id="XMLID_11428_" class="st50" points="191.6,128.3 191.2,128.5 184.4,124.7 184.8,124.4 			"/>
+			<polygon id="XMLID_11427_" class="st51" points="191.6,128.3 191.2,128.5 184.5,124.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11426_" class="st52" points="191.6,128.3 191.2,128.5 184.5,124.6 184.8,124.4 			"/>
+			<polygon id="XMLID_11425_" class="st53" points="191.6,128.3 191.3,128.5 184.5,124.6 184.8,124.4 			"/>
+		</g>
+		<polygon id="XMLID_10897_" class="st54" points="202.4,105.6 184.8,115.8 191.6,119.7 209.2,109.5 		"/>
+		<polygon id="XMLID_10896_" class="st55" points="191.6,119.7 191.6,128.3 209.2,118.2 209.2,109.5 		"/>
+		<polygon id="XMLID_10895_" class="st56" points="184.8,115.8 184.8,124.4 191.6,128.3 191.6,119.7 		"/>
+	</g>
+	<g id="XMLID_11477_">
+		<g id="XMLID_11822_" class="st1">
+			<polygon id="XMLID_11874_" class="st2" points="90.6,79.1 88.6,80.3 82,76.5 84,75.3 			"/>
+			<polygon id="XMLID_11873_" class="st3" points="90.6,79.1 88.6,80.3 82.1,76.5 84,75.3 			"/>
+			<polygon id="XMLID_11872_" class="st4" points="90.6,79.1 88.7,80.3 82.1,76.5 84,75.3 			"/>
+			<polygon id="XMLID_11871_" class="st5" points="90.6,79.1 88.7,80.2 82.1,76.5 84,75.3 			"/>
+			<polygon id="XMLID_11870_" class="st6" points="90.6,79.1 88.7,80.2 82.2,76.4 84,75.3 			"/>
+			<polygon id="XMLID_11869_" class="st7" points="90.6,79.1 88.8,80.2 82.2,76.4 84,75.3 			"/>
+			<polygon id="XMLID_11868_" class="st8" points="90.6,79.1 88.8,80.2 82.2,76.4 84,75.3 			"/>
+			<polygon id="XMLID_11867_" class="st9" points="90.6,79.1 88.8,80.2 82.3,76.4 84,75.3 			"/>
+			<polygon id="XMLID_11866_" class="st10" points="90.6,79.1 88.9,80.1 82.3,76.4 84,75.3 			"/>
+			<polygon id="XMLID_11865_" class="st11" points="90.6,79.1 88.9,80.1 82.3,76.3 84,75.3 			"/>
+			<polygon id="XMLID_11864_" class="st12" points="90.6,79.1 88.9,80.1 82.4,76.3 84,75.3 			"/>
+			<polygon id="XMLID_11863_" class="st13" points="90.6,79.1 89,80.1 82.4,76.3 84,75.3 			"/>
+			<polygon id="XMLID_11862_" class="st14" points="90.6,79.1 89,80.1 82.4,76.3 84,75.3 			"/>
+			<polygon id="XMLID_11861_" class="st15" points="90.6,79.1 89,80 82.5,76.3 84,75.3 			"/>
+			<polygon id="XMLID_11860_" class="st16" points="90.6,79.1 89.1,80 82.5,76.2 84,75.3 			"/>
+			<polygon id="XMLID_11859_" class="st17" points="90.6,79.1 89.1,80 82.5,76.2 84,75.3 			"/>
+			<polygon id="XMLID_11858_" class="st18" points="90.6,79.1 89.2,80 82.6,76.2 84,75.3 			"/>
+			<polygon id="XMLID_11857_" class="st19" points="90.6,79.1 89.2,80 82.6,76.2 84,75.3 			"/>
+			<polygon id="XMLID_11856_" class="st20" points="90.6,79.1 89.2,79.9 82.6,76.2 84,75.3 			"/>
+			<polygon id="XMLID_11855_" class="st21" points="90.6,79.1 89.3,79.9 82.7,76.1 84,75.3 			"/>
+			<polygon id="XMLID_11854_" class="st22" points="90.6,79.1 89.3,79.9 82.7,76.1 84,75.3 			"/>
+			<polygon id="XMLID_11853_" class="st23" points="90.6,79.1 89.3,79.9 82.7,76.1 84,75.3 			"/>
+			<polygon id="XMLID_11852_" class="st24" points="90.6,79.1 89.4,79.9 82.8,76.1 84,75.3 			"/>
+			<polygon id="XMLID_11851_" class="st25" points="90.6,79.1 89.4,79.8 82.8,76.1 84,75.3 			"/>
+			<polygon id="XMLID_11850_" class="st26" points="90.6,79.1 89.4,79.8 82.9,76 84,75.3 			"/>
+			<polygon id="XMLID_11849_" class="st27" points="90.6,79.1 89.5,79.8 82.9,76 84,75.3 			"/>
+			<polygon id="XMLID_11848_" class="st28" points="90.6,79.1 89.5,79.8 82.9,76 84,75.3 			"/>
+			<polygon id="XMLID_11847_" class="st29" points="90.6,79.1 89.5,79.8 83,76 84,75.3 			"/>
+			<polygon id="XMLID_11846_" class="st30" points="90.6,79.1 89.6,79.7 83,76 84,75.3 			"/>
+			<polygon id="XMLID_11845_" class="st31" points="90.6,79.1 89.6,79.7 83,75.9 84,75.3 			"/>
+			<polygon id="XMLID_11844_" class="st32" points="90.6,79.1 89.6,79.7 83.1,75.9 84,75.3 			"/>
+			<polygon id="XMLID_11843_" class="st33" points="90.6,79.1 89.7,79.7 83.1,75.9 84,75.3 			"/>
+			<polygon id="XMLID_11842_" class="st34" points="90.6,79.1 89.7,79.7 83.1,75.9 84,75.3 			"/>
+			<polygon id="XMLID_11841_" class="st35" points="90.6,79.1 89.7,79.6 83.2,75.9 84,75.3 			"/>
+			<polygon id="XMLID_11840_" class="st36" points="90.6,79.1 89.8,79.6 83.2,75.8 84,75.3 			"/>
+			<polygon id="XMLID_11839_" class="st37" points="90.6,79.1 89.8,79.6 83.2,75.8 84,75.3 			"/>
+			<polygon id="XMLID_11838_" class="st38" points="90.6,79.1 89.8,79.6 83.3,75.8 84,75.3 			"/>
+			<polygon id="XMLID_11837_" class="st39" points="90.6,79.1 89.9,79.6 83.3,75.8 84,75.3 			"/>
+			<polygon id="XMLID_11836_" class="st40" points="90.6,79.1 89.9,79.5 83.3,75.8 84,75.3 			"/>
+			<polygon id="XMLID_11835_" class="st41" points="90.6,79.1 89.9,79.5 83.4,75.7 84,75.3 			"/>
+			<polygon id="XMLID_11834_" class="st42" points="90.6,79.1 90,79.5 83.4,75.7 84,75.3 			"/>
+			<polygon id="XMLID_11833_" class="st43" points="90.6,79.1 90,79.5 83.4,75.7 84,75.3 			"/>
+			<polygon id="XMLID_11832_" class="st44" points="90.6,79.1 90,79.5 83.5,75.7 84,75.3 			"/>
+			<polygon id="XMLID_11831_" class="st45" points="90.6,79.1 90.1,79.5 83.5,75.7 84,75.3 			"/>
+			<polygon id="XMLID_11830_" class="st46" points="90.6,79.1 90.1,79.4 83.5,75.6 84,75.3 			"/>
+			<polygon id="XMLID_11829_" class="st47" points="90.6,79.1 90.1,79.4 83.6,75.6 84,75.3 			"/>
+			<polygon id="XMLID_11828_" class="st48" points="90.6,79.1 90.2,79.4 83.6,75.6 84,75.3 			"/>
+			<polygon id="XMLID_11827_" class="st49" points="90.6,79.1 90.2,79.4 83.6,75.6 84,75.3 			"/>
+			<polygon id="XMLID_11826_" class="st50" points="90.6,79.1 90.2,79.4 83.7,75.6 84,75.3 			"/>
+			<polygon id="XMLID_11825_" class="st51" points="90.6,79.1 90.3,79.3 83.7,75.5 84,75.3 			"/>
+			<polygon id="XMLID_11824_" class="st52" points="90.6,79.1 90.3,79.3 83.7,75.5 84,75.3 			"/>
+			<polygon id="XMLID_11823_" class="st53" points="90.6,79.1 90.3,79.3 83.8,75.5 84,75.3 			"/>
+		</g>
+		<polygon id="XMLID_11821_" class="st57" points="99.8,57.7 84,66.9 90.6,70.7 106.4,61.5 		"/>
+		<polygon id="XMLID_11820_" class="st58" points="90.6,70.7 90.6,79.1 106.4,69.9 106.4,61.5 		"/>
+		<polygon id="XMLID_11819_" class="st59" points="84,66.9 84,75.3 90.6,79.1 90.6,70.7 		"/>
+	</g>
+	<g id="XMLID_11593_">
+		<g id="XMLID_11651_" class="st1">
+			<polygon id="XMLID_11703_" class="st2" points="172.4,118.2 165.6,122.2 143.2,109.2 150,105.2 			"/>
+			<polygon id="XMLID_11702_" class="st3" points="172.4,118.2 165.7,122.1 143.3,109.2 150,105.2 			"/>
+			<polygon id="XMLID_11701_" class="st4" points="172.4,118.2 165.9,122.1 143.4,109.1 150,105.2 			"/>
+			<polygon id="XMLID_11700_" class="st5" points="172.4,118.2 166,122 143.5,109 150,105.2 			"/>
+			<polygon id="XMLID_11699_" class="st6" points="172.4,118.2 166.1,121.9 143.6,109 150,105.2 			"/>
+			<polygon id="XMLID_11698_" class="st7" points="172.4,118.2 166.2,121.9 143.7,108.9 150,105.2 			"/>
+			<polygon id="XMLID_11697_" class="st8" points="172.4,118.2 166.3,121.8 143.9,108.8 150,105.2 			"/>
+			<polygon id="XMLID_11696_" class="st9" points="172.4,118.2 166.4,121.7 144,108.8 150,105.2 			"/>
+			<polygon id="XMLID_11695_" class="st10" points="172.4,118.2 166.5,121.7 144.1,108.7 150,105.2 			"/>
+			<polygon id="XMLID_11694_" class="st11" points="172.4,118.2 166.7,121.6 144.2,108.6 150,105.2 			"/>
+			<polygon id="XMLID_11693_" class="st12" points="172.4,118.2 166.8,121.5 144.3,108.6 150,105.2 			"/>
+			<polygon id="XMLID_11692_" class="st13" points="172.4,118.2 166.9,121.5 144.4,108.5 150,105.2 			"/>
+			<polygon id="XMLID_11691_" class="st14" points="172.4,118.2 167,121.4 144.5,108.4 150,105.2 			"/>
+			<polygon id="XMLID_11690_" class="st15" points="172.4,118.2 167.1,121.3 144.7,108.4 150,105.2 			"/>
+			<polygon id="XMLID_11689_" class="st16" points="172.4,118.2 167.2,121.3 144.8,108.3 150,105.2 			"/>
+			<polygon id="XMLID_11688_" class="st17" points="172.4,118.2 167.3,121.2 144.9,108.2 150,105.2 			"/>
+			<polygon id="XMLID_11687_" class="st18" points="172.4,118.2 167.5,121.1 145,108.1 150,105.2 			"/>
+			<polygon id="XMLID_11686_" class="st19" points="172.4,118.2 167.6,121 145.1,108.1 150,105.2 			"/>
+			<polygon id="XMLID_11685_" class="st20" points="172.4,118.2 167.7,121 145.2,108 150,105.2 			"/>
+			<polygon id="XMLID_11684_" class="st21" points="172.4,118.2 167.8,120.9 145.3,107.9 150,105.2 			"/>
+			<polygon id="XMLID_11683_" class="st22" points="172.4,118.2 167.9,120.8 145.5,107.9 150,105.2 			"/>
+			<polygon id="XMLID_11682_" class="st23" points="172.4,118.2 168,120.8 145.6,107.8 150,105.2 			"/>
+			<polygon id="XMLID_11681_" class="st24" points="172.4,118.2 168.1,120.7 145.7,107.7 150,105.2 			"/>
+			<polygon id="XMLID_11680_" class="st25" points="172.4,118.2 168.3,120.6 145.8,107.7 150,105.2 			"/>
+			<polygon id="XMLID_11679_" class="st26" points="172.4,118.2 168.4,120.6 145.9,107.6 150,105.2 			"/>
+			<polygon id="XMLID_11678_" class="st27" points="172.4,118.2 168.5,120.5 146,107.5 150,105.2 			"/>
+			<polygon id="XMLID_11677_" class="st28" points="172.4,118.2 168.6,120.4 146.1,107.5 150,105.2 			"/>
+			<polygon id="XMLID_11676_" class="st29" points="172.4,118.2 168.7,120.4 146.3,107.4 150,105.2 			"/>
+			<polygon id="XMLID_11675_" class="st30" points="172.4,118.2 168.8,120.3 146.4,107.3 150,105.2 			"/>
+			<polygon id="XMLID_11674_" class="st31" points="172.4,118.2 169,120.2 146.5,107.3 150,105.2 			"/>
+			<polygon id="XMLID_11673_" class="st32" points="172.4,118.2 169.1,120.2 146.6,107.2 150,105.2 			"/>
+			<polygon id="XMLID_11672_" class="st33" points="172.4,118.2 169.2,120.1 146.7,107.1 150,105.2 			"/>
+			<polygon id="XMLID_11671_" class="st34" points="172.4,118.2 169.3,120 146.8,107.1 150,105.2 			"/>
+			<polygon id="XMLID_11670_" class="st35" points="172.4,118.2 169.4,120 146.9,107 150,105.2 			"/>
+			<polygon id="XMLID_11669_" class="st36" points="172.4,118.2 169.5,119.9 147.1,106.9 150,105.2 			"/>
+			<polygon id="XMLID_11668_" class="st37" points="172.4,118.2 169.6,119.8 147.2,106.9 150,105.2 			"/>
+			<polygon id="XMLID_11667_" class="st38" points="172.4,118.2 169.8,119.8 147.3,106.8 150,105.2 			"/>
+			<polygon id="XMLID_11666_" class="st39" points="172.4,118.2 169.9,119.7 147.4,106.7 150,105.2 			"/>
+			<polygon id="XMLID_11665_" class="st40" points="172.4,118.2 170,119.6 147.5,106.7 150,105.2 			"/>
+			<polygon id="XMLID_11664_" class="st41" points="172.4,118.2 170.1,119.6 147.6,106.6 150,105.2 			"/>
+			<polygon id="XMLID_11663_" class="st42" points="172.4,118.2 170.2,119.5 147.7,106.5 150,105.2 			"/>
+			<polygon id="XMLID_11662_" class="st43" points="172.4,118.2 170.3,119.4 147.9,106.5 150,105.2 			"/>
+			<polygon id="XMLID_11661_" class="st44" points="172.4,118.2 170.4,119.4 148,106.4 150,105.2 			"/>
+			<polygon id="XMLID_11660_" class="st45" points="172.4,118.2 170.6,119.3 148.1,106.3 150,105.2 			"/>
+			<polygon id="XMLID_11659_" class="st46" points="172.4,118.2 170.7,119.2 148.2,106.3 150,105.2 			"/>
+			<polygon id="XMLID_11658_" class="st47" points="172.4,118.2 170.8,119.2 148.3,106.2 150,105.2 			"/>
+			<polygon id="XMLID_11657_" class="st48" points="172.4,118.2 170.9,119.1 148.4,106.1 150,105.2 			"/>
+			<polygon id="XMLID_11656_" class="st49" points="172.4,118.2 171,119 148.5,106.1 150,105.2 			"/>
+			<polygon id="XMLID_11655_" class="st50" points="172.4,118.2 171.1,119 148.7,106 150,105.2 			"/>
+			<polygon id="XMLID_11654_" class="st51" points="172.4,118.2 171.2,118.9 148.8,105.9 150,105.2 			"/>
+			<polygon id="XMLID_11653_" class="st52" points="172.4,118.2 171.4,118.8 148.9,105.8 150,105.2 			"/>
+			<polygon id="XMLID_11652_" class="st53" points="172.4,118.2 171.5,118.7 149,105.8 150,105.2 			"/>
+		</g>
+		<polygon id="XMLID_11650_" class="st57" points="172.4,63.5 149.9,76.5 172.4,89.5 194.9,76.5 		"/>
+		<polygon id="XMLID_11649_" class="st58" points="172.4,89.5 172.4,118.3 194.9,105.3 194.9,76.5 		"/>
+		<polygon id="XMLID_11595_" class="st59" points="149.9,76.5 149.9,105.3 172.4,118.3 172.4,89.5 		"/>
+	</g>
+	<g class="st1">
+		<polygon id="XMLID_11363_" class="st2" points="109,156.1 77.2,174 125.5,201.9 157.3,184 		"/>
+		<polygon id="XMLID_68_" class="st3" points="109,156.1 77.8,173.6 126.1,201.5 157.3,184 		"/>
+		<polygon id="XMLID_67_" class="st4" points="109,156.1 78.4,173.3 126.7,201.2 157.3,184 		"/>
+		<polygon id="XMLID_66_" class="st5" points="109,156.1 79,173 127.3,200.9 157.3,184 		"/>
+		<polygon id="XMLID_65_" class="st6" points="109,156.1 79.6,172.6 127.9,200.5 157.3,184 		"/>
+		<polygon id="XMLID_64_" class="st7" points="109,156.1 80.2,172.3 128.5,200.2 157.3,184 		"/>
+		<polygon id="XMLID_63_" class="st8" points="109,156.1 80.8,172 129.1,199.9 157.3,184 		"/>
+		<polygon id="XMLID_62_" class="st9" points="109,156.1 81.4,171.6 129.7,199.5 157.3,184 		"/>
+		<polygon id="XMLID_61_" class="st10" points="109,156.1 82,171.3 130.3,199.2 157.3,184 		"/>
+		<polygon id="XMLID_60_" class="st11" points="109,156.1 82.6,171 130.9,198.8 157.3,184 		"/>
+		<polygon id="XMLID_59_" class="st12" points="109,156.1 83.2,170.6 131.5,198.5 157.3,184 		"/>
+		<polygon id="XMLID_58_" class="st13" points="109,156.1 83.8,170.3 132.1,198.2 157.3,184 		"/>
+		<polygon id="XMLID_57_" class="st14" points="109,156.1 84.4,170 132.7,197.8 157.3,184 		"/>
+		<polygon id="XMLID_56_" class="st15" points="109,156.1 85,169.6 133.3,197.5 157.3,184 		"/>
+		<polygon id="XMLID_55_" class="st16" points="109,156.1 85.6,169.3 133.9,197.2 157.3,184 		"/>
+		<polygon id="XMLID_54_" class="st17" points="109,156.1 86.2,168.9 134.5,196.8 157.3,184 		"/>
+		<polygon id="XMLID_53_" class="st18" points="109,156.1 86.8,168.6 135.1,196.5 157.3,184 		"/>
+		<polygon id="XMLID_52_" class="st19" points="109,156.1 87.4,168.3 135.7,196.2 157.3,184 		"/>
+		<polygon id="XMLID_51_" class="st20" points="109,156.1 88,167.9 136.3,195.8 157.3,184 		"/>
+		<polygon id="XMLID_50_" class="st21" points="109,156.1 88.6,167.6 136.9,195.5 157.3,184 		"/>
+		<polygon id="XMLID_49_" class="st22" points="109,156.1 89.2,167.3 137.5,195.2 157.3,184 		"/>
+		<polygon id="XMLID_48_" class="st23" points="109,156.1 89.8,166.9 138.1,194.8 157.3,184 		"/>
+		<polygon id="XMLID_47_" class="st24" points="109,156.1 90.4,166.6 138.7,194.5 157.3,184 		"/>
+		<polygon id="XMLID_46_" class="st25" points="109,156.1 91,166.3 139.3,194.2 157.3,184 		"/>
+		<polygon id="XMLID_45_" class="st26" points="109,156.1 91.6,165.9 139.9,193.8 157.3,184 		"/>
+		<polygon id="XMLID_44_" class="st27" points="109,156.1 92.2,165.6 140.5,193.5 157.3,184 		"/>
+		<polygon id="XMLID_43_" class="st28" points="109,156.1 92.8,165.3 141.1,193.1 157.3,184 		"/>
+		<polygon id="XMLID_42_" class="st29" points="109,156.1 93.4,164.9 141.7,192.8 157.3,184 		"/>
+		<polygon id="XMLID_41_" class="st30" points="109,156.1 93.9,164.6 142.3,192.5 157.3,184 		"/>
+		<polygon id="XMLID_40_" class="st31" points="109,156.1 94.5,164.3 142.9,192.1 157.3,184 		"/>
+		<polygon id="XMLID_39_" class="st32" points="109,156.1 95.1,163.9 143.5,191.8 157.3,184 		"/>
+		<polygon id="XMLID_38_" class="st33" points="109,156.1 95.7,163.6 144.1,191.5 157.3,184 		"/>
+		<polygon id="XMLID_37_" class="st34" points="109,156.1 96.3,163.2 144.6,191.1 157.3,184 		"/>
+		<polygon id="XMLID_36_" class="st35" points="109,156.1 96.9,162.9 145.2,190.8 157.3,184 		"/>
+		<polygon id="XMLID_35_" class="st36" points="109,156.1 97.5,162.6 145.8,190.5 157.3,184 		"/>
+		<polygon id="XMLID_34_" class="st37" points="109,156.1 98.1,162.2 146.4,190.1 157.3,184 		"/>
+		<polygon id="XMLID_33_" class="st38" points="109,156.1 98.7,161.9 147,189.8 157.3,184 		"/>
+		<polygon id="XMLID_32_" class="st39" points="109,156.1 99.3,161.6 147.6,189.5 157.3,184 		"/>
+		<polygon id="XMLID_31_" class="st40" points="109,156.1 99.9,161.2 148.2,189.1 157.3,184 		"/>
+		<polygon id="XMLID_30_" class="st41" points="109,156.1 100.5,160.9 148.8,188.8 157.3,184 		"/>
+		<polygon id="XMLID_29_" class="st42" points="109,156.1 101.1,160.6 149.4,188.5 157.3,184 		"/>
+		<polygon id="XMLID_28_" class="st43" points="109,156.1 101.7,160.2 150,188.1 157.3,184 		"/>
+		<polygon id="XMLID_27_" class="st44" points="109,156.1 102.3,159.9 150.6,187.8 157.3,184 		"/>
+		<polygon id="XMLID_26_" class="st45" points="109,156.1 102.9,159.6 151.2,187.4 157.3,184 		"/>
+		<polygon id="XMLID_25_" class="st46" points="109,156.1 103.5,159.2 151.8,187.1 157.3,184 		"/>
+		<polygon id="XMLID_24_" class="st47" points="109,156.1 104.1,158.9 152.4,186.8 157.3,184 		"/>
+		<polygon id="XMLID_23_" class="st48" points="109,156.1 104.7,158.6 153,186.4 157.3,184 		"/>
+		<polygon id="XMLID_22_" class="st49" points="109,156.1 105.3,158.2 153.6,186.1 157.3,184 		"/>
+		<polygon id="XMLID_21_" class="st50" points="109,156.1 105.9,157.9 154.2,185.8 157.3,184 		"/>
+		<polygon id="XMLID_20_" class="st51" points="109,156.1 106.5,157.5 154.8,185.4 157.3,184 		"/>
+		<polygon id="XMLID_19_" class="st52" points="109,156.1 107.1,157.2 155.4,185.1 157.3,184 		"/>
+		<polygon id="XMLID_11362_" class="st53" points="109,156.1 107.7,156.9 156,184.8 157.3,184 		"/>
+	</g>
+	<g>
+		
+			<linearGradient id="XMLID_81_" gradientUnits="userSpaceOnUse" x1="153.8903" y1="81.5312" x2="113.1761" y2="215.6005" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="3.802280e-002" style="stop-color:#A5CBEF"/>
+			<stop  offset="0.6654" style="stop-color:#EAF3FB"/>
+			<stop  offset="1" style="stop-color:#A5CBEF"/>
+		</linearGradient>
+		<path id="XMLID_11361_" class="st60" d="M109.1,44.1l-0.5,2.6c-0.6,0.4-0.7,3.3-0.7,4.1l0.8,99.6c0,4.8,2.5,8.3,6.7,10.7l35.6,21
+			c0.6,0.3,1.3,1.9,1.9,1.7l3.4,0.7c3.5-1.2,5.9-4.6,5.9-8.4V77c0-4.8-3.4-10.7-7.6-13.1l-33.8-19.5C116.7,42,113.1,41.3,109.1,44.1
+			z"/>
+		<path id="XMLID_11360_" class="st61" d="M114.5,44.6c-4.2-2.4-7.6-0.4-7.6,4.4v101c0,4.8,3.4,10.7,7.6,13.1l36.6,21.2
+			c4.2,2.4,7.6,0.4,7.6-4.4v-101c0-4.8-3.4-10.7-7.6-13.1L114.5,44.6z"/>
+		<g id="XMLID_11358_">
+			<path id="XMLID_11359_" class="st62" d="M138.6,64.5c-0.1,0-0.3,0-0.4-0.1l-11.5-6.6c-0.4-0.2-0.6-0.8-0.3-1.2
+				c0.2-0.4,0.8-0.6,1.2-0.3l11.5,6.6c0.4,0.2,0.6,0.8,0.3,1.2C139.2,64.4,138.9,64.5,138.6,64.5z"/>
+		</g>
+		<path id="XMLID_11357_" class="st62" d="M113.1,47l8.9,5.1c0.3,0.2,0.5,0.5,0.5,0.9v1.6c0,1.8,1,3.5,2.6,4.5l15.2,8.8
+			c1.2,0.7,2.6-0.2,2.6-1.5v-1.2c0-0.4,0.4-0.7,0.8-0.5l6.5,3.7c3.9,2.3,6.3,6.5,6.3,11v100.2c0,2.3-2.5,3.7-4.4,2.6l-36.8-21.3
+			c-4-2.3-6.5-6.6-6.5-11.2l-0.1-100.1C108.7,47.3,111.2,45.9,113.1,47z"/>
+	</g>
+	<g>
+		<path id="XMLID_11356_" class="st53" d="M85.3,158.5l-0.8,0.1c-0.7,0.1-1.3,0.5-1.6,1.1l-2.9,6.7c-0.3,0.8-0.3,1.7,0.2,2.4
+			l4.6,6.8l-1.9-8.6l1.8-3.6L85.3,158.5z"/>
+		<path id="XMLID_11355_" class="st53" d="M90.2,207.3v1.5c0,1.1,1,2,2.1,2l5.2-0.4c0.5-0.1,0.8-0.5,0.8-0.9l0,0
+			c0-0.8-0.6-1.5-1.5-1.6l-5.5-0.8L90.2,207.3z"/>
+		<path id="XMLID_11354_" class="st53" d="M84,203.5l0.3,1.4c0.3,1,1.3,1.6,2.3,1.2l4.5-1.5c0.4-0.2,0.6-0.6,0.5-1l0,0
+			c-0.2-0.7-0.9-1.2-1.6-1.1l-5,0.6L84,203.5z"/>
+		
+			<linearGradient id="XMLID_82_" gradientUnits="userSpaceOnUse" x1="84" y1="62.95" x2="94.476" y2="62.95" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0" style="stop-color:#A8D9FB"/>
+			<stop  offset="9.338021e-002" style="stop-color:#B3DEFB"/>
+			<stop  offset="0.4944" style="stop-color:#DCF0FD"/>
+			<stop  offset="0.8103" style="stop-color:#F6FBFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path id="XMLID_18_" class="st63" d="M94.3,177.9L84,178.2v7.1v18.1c0,0.5,0.4,0.9,0.9,0.9h1.6c0.5,0,0.9-0.4,0.9-0.8l1.5-21.2
+			h0.5l0.8,24.9c0,0.5,0.5,1,1,1h1.5c0.5,0,1-0.4,1-0.9l0.9-21.9l0,0L94.3,177.9z"/>
+		<path id="XMLID_17_" class="st59" d="M88.9,182.3l-1.5,21.2c0,0.5-0.4,0.8-0.9,0.8h-0.1v-17.7c0-1.3,0.5-2.6,1.3-3.6l0.5-0.6
+			L88.9,182.3L88.9,182.3z"/>
+		<g>
+			<polygon id="XMLID_16_" class="st64" points="84,164.8 84,158.6 84,158.6 83.9,160.8 83.5,165.9 			"/>
+			<polygon id="XMLID_15_" class="st64" points="84,171.9 83.3,168.6 82.9,172.7 84,174.4 			"/>
+		</g>
+		<path id="XMLID_11353_" class="st53" d="M94.8,180.8c-4.4,2-9.3-0.7-11.3-2.7l0.7-8.7l-0.4-9.5c0-0.7,0.6-1.3,1.3-1.4h0.5l8.5,3.7
+			l-0.2,9.5L94.8,180.8z"/>
+		<path id="XMLID_11352_" class="st53" d="M85.3,158.5h3.5c0.6,0,1.1,0.1,1.6,0.4l3.2,1.8c0.6,0.4,1.2,0.9,1.6,1.5l4.9,8
+			c0.3,0.5,0.3,1.1-0.1,1.5l-4.8,6.2l-1.5-1.2l3.1-6.3l-3.1-4.8L85.3,158.5z"/>
+		<polygon id="XMLID_14_" class="st64" points="94,176.7 97.6,170.4 93.8,166 92.6,164.8 96.7,170.4 93.6,176.7 		"/>
+		<ellipse id="XMLID_11351_" class="st65" cx="94" cy="178.2" rx="1.4" ry="1.7"/>
+		<path id="XMLID_11350_" class="st65" d="M88.3,158.1h-0.7v-5h3.2v2.6C90.8,157,89.7,158.1,88.3,158.1z"/>
+		<path id="XMLID_11349_" class="st65" d="M88.1,160L88.1,160c-0.7,0-1.3-0.6-1.3-1.3v-3.5c0-0.7,0.6-1.3,1.3-1.3l0,0
+			c0.7,0,1.3,0.6,1.3,1.3v3.5C89.4,159.5,88.8,160,88.1,160z"/>
+		
+			<linearGradient id="XMLID_83_" gradientUnits="userSpaceOnUse" x1="84.0835" y1="101.55" x2="91.1151" y2="101.55" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0.1499" style="stop-color:#FF9800"/>
+			<stop  offset="1" style="stop-color:#FFC107"/>
+		</linearGradient>
+		<path id="XMLID_11346_" class="st66" d="M87.7,158.6L87.7,158.6c-1.6,0-3-1.2-3.2-2.7l-0.3-2c-0.2-1,0.2-2,1-2.6l0.2-0.2
+			c0.6-0.5,1.4-0.8,2.2-0.8h0.5c1.3,0,2.5,0.7,3.2,1.8l0,0l0,0c0,0.7-0.5,1.4-1.2,1.5l-0.3,0.1l0.1,1.2l-0.7,0.8l0.2,1.3
+			C89.3,157.9,88.6,158.6,87.7,158.6z"/>
+		<path id="XMLID_13_" class="st53" d="M90.8,152.7l-0.8,0.1c0.1,0.1,0.2,0.3,0.2,0.5l0.2,1.3c0,0.2,0,0.4-0.1,0.5l0.8-0.1
+			c0.5-0.1,0.8-0.5,0.7-1l-0.1-0.5C91.8,153,91.3,152.7,90.8,152.7z"/>
+		<polygon id="XMLID_12_" class="st53" points="90.4,154.3 84.3,155.1 84.2,154.2 90.3,153.5 		"/>
+		<g>
+			<polygon id="XMLID_11_" class="st67" points="84.3,154.6 84.3,155.1 84.9,155.1 84.8,154.1 84.2,154.2 			"/>
+			<polygon id="XMLID_10_" class="st67" points="86,154 85.4,154.1 85.5,155 86.1,154.9 			"/>
+			<polygon id="XMLID_9_" class="st67" points="89.6,153.6 89,153.6 89.1,154.5 89.7,154.4 			"/>
+			<polygon id="XMLID_8_" class="st67" points="88.4,153.7 87.8,153.8 87.9,154.7 88.5,154.6 			"/>
+			<polygon id="XMLID_7_" class="st67" points="87.2,153.8 86.6,153.9 86.7,154.8 87.3,154.7 			"/>
+		</g>
+	</g>
+	<g id="XMLID_11596_" class="st1">
+		<polygon id="XMLID_11648_" class="st2" points="113.2,145.8 108.1,148.8 91.4,139.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11647_" class="st3" points="113.2,145.8 108.2,148.7 91.5,139.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11646_" class="st4" points="113.2,145.8 108.3,148.7 91.6,139 96.5,136.2 		"/>
+		<polygon id="XMLID_11645_" class="st5" points="113.2,145.8 108.4,148.6 91.7,139 96.5,136.2 		"/>
+		<polygon id="XMLID_11644_" class="st6" points="113.2,145.8 108.5,148.6 91.8,138.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11643_" class="st7" points="113.2,145.8 108.5,148.5 91.9,138.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11642_" class="st8" points="113.2,145.8 108.6,148.5 91.9,138.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11641_" class="st9" points="113.2,145.8 108.7,148.4 92,138.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11640_" class="st10" points="113.2,145.8 108.8,148.4 92.1,138.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11639_" class="st11" points="113.2,145.8 108.9,148.3 92.2,138.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11638_" class="st12" points="113.2,145.8 109,148.3 92.3,138.6 96.5,136.2 		"/>
+		<polygon id="XMLID_11637_" class="st13" points="113.2,145.8 109.1,148.2 92.4,138.6 96.5,136.2 		"/>
+		<polygon id="XMLID_11636_" class="st14" points="113.2,145.8 109.1,148.2 92.5,138.5 96.5,136.2 		"/>
+		<polygon id="XMLID_11635_" class="st15" points="113.2,145.8 109.2,148.1 92.5,138.5 96.5,136.2 		"/>
+		<polygon id="XMLID_11634_" class="st16" points="113.2,145.8 109.3,148.1 92.6,138.4 96.5,136.2 		"/>
+		<polygon id="XMLID_11633_" class="st17" points="113.2,145.8 109.4,148 92.7,138.4 96.5,136.2 		"/>
+		<polygon id="XMLID_11632_" class="st18" points="113.2,145.8 109.5,148 92.8,138.3 96.5,136.2 		"/>
+		<polygon id="XMLID_11631_" class="st19" points="113.2,145.8 109.6,147.9 92.9,138.3 96.5,136.2 		"/>
+		<polygon id="XMLID_11630_" class="st20" points="113.2,145.8 109.7,147.9 93,138.2 96.5,136.2 		"/>
+		<polygon id="XMLID_11629_" class="st21" points="113.2,145.8 109.7,147.8 93,138.2 96.5,136.2 		"/>
+		<polygon id="XMLID_11628_" class="st22" points="113.2,145.8 109.8,147.8 93.1,138.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11627_" class="st23" points="113.2,145.8 109.9,147.7 93.2,138.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11626_" class="st24" points="113.2,145.8 110,147.6 93.3,138 96.5,136.2 		"/>
+		<polygon id="XMLID_11625_" class="st25" points="113.2,145.8 110.1,147.6 93.4,138 96.5,136.2 		"/>
+		<polygon id="XMLID_11624_" class="st26" points="113.2,145.8 110.2,147.5 93.5,137.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11623_" class="st27" points="113.2,145.8 110.3,147.5 93.6,137.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11622_" class="st28" points="113.2,145.8 110.3,147.4 93.6,137.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11621_" class="st29" points="113.2,145.8 110.4,147.4 93.7,137.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11620_" class="st30" points="113.2,145.8 110.5,147.3 93.8,137.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11619_" class="st31" points="113.2,145.8 110.6,147.3 93.9,137.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11618_" class="st32" points="113.2,145.8 110.7,147.2 94,137.6 96.5,136.2 		"/>
+		<polygon id="XMLID_11617_" class="st33" points="113.2,145.8 110.8,147.2 94.1,137.6 96.5,136.2 		"/>
+		<polygon id="XMLID_11616_" class="st34" points="113.2,145.8 110.8,147.1 94.2,137.5 96.5,136.2 		"/>
+		<polygon id="XMLID_11615_" class="st35" points="113.2,145.8 110.9,147.1 94.2,137.5 96.5,136.2 		"/>
+		<polygon id="XMLID_11614_" class="st36" points="113.2,145.8 111,147 94.3,137.4 96.5,136.2 		"/>
+		<polygon id="XMLID_11613_" class="st37" points="113.2,145.8 111.1,147 94.4,137.4 96.5,136.2 		"/>
+		<polygon id="XMLID_11612_" class="st38" points="113.2,145.8 111.2,146.9 94.5,137.3 96.5,136.2 		"/>
+		<polygon id="XMLID_11611_" class="st39" points="113.2,145.8 111.3,146.9 94.6,137.3 96.5,136.2 		"/>
+		<polygon id="XMLID_11610_" class="st40" points="113.2,145.8 111.4,146.8 94.7,137.2 96.5,136.2 		"/>
+		<polygon id="XMLID_11609_" class="st41" points="113.2,145.8 111.4,146.8 94.7,137.2 96.5,136.2 		"/>
+		<polygon id="XMLID_11608_" class="st42" points="113.2,145.8 111.5,146.7 94.8,137.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11607_" class="st43" points="113.2,145.8 111.6,146.7 94.9,137.1 96.5,136.2 		"/>
+		<polygon id="XMLID_11606_" class="st44" points="113.2,145.8 111.7,146.6 95,137 96.5,136.2 		"/>
+		<polygon id="XMLID_11605_" class="st45" points="113.2,145.8 111.8,146.6 95.1,137 96.5,136.2 		"/>
+		<polygon id="XMLID_11604_" class="st46" points="113.2,145.8 111.9,146.5 95.2,136.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11603_" class="st47" points="113.2,145.8 112,146.5 95.3,136.9 96.5,136.2 		"/>
+		<polygon id="XMLID_11602_" class="st48" points="113.2,145.8 112,146.4 95.3,136.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11601_" class="st49" points="113.2,145.8 112.1,146.4 95.4,136.8 96.5,136.2 		"/>
+		<polygon id="XMLID_11600_" class="st50" points="113.2,145.8 112.2,146.3 95.5,136.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11599_" class="st51" points="113.2,145.8 112.3,146.3 95.6,136.7 96.5,136.2 		"/>
+		<polygon id="XMLID_11598_" class="st52" points="113.2,145.8 112.4,146.2 95.7,136.6 96.5,136.2 		"/>
+		<polygon id="XMLID_11597_" class="st53" points="113.2,145.8 112.5,146.2 95.8,136.6 96.5,136.2 		"/>
+	</g>
+	<polygon id="XMLID_6_" class="st68" points="108.7,76.1 108.8,90.3 113.2,92.9 129.9,83.2 113.2,73.5 	"/>
+	<polygon id="XMLID_11594_" class="st69" points="113.2,92.9 113.2,145.8 129.9,136.2 129.9,83.2 	"/>
+	<polygon id="XMLID_5_" class="st70" points="108.8,143.3 113.2,145.8 113.2,92.9 108.8,90.3 	"/>
+	<g id="XMLID_11704_">
+		<g id="XMLID_11708_" class="st1">
+			<polygon id="XMLID_11760_" class="st2" points="138.2,167.2 134.3,169.5 121.5,162.1 125.3,159.8 			"/>
+			<polygon id="XMLID_11759_" class="st3" points="138.2,167.2 134.3,169.5 121.5,162.1 125.3,159.8 			"/>
+			<polygon id="XMLID_11758_" class="st4" points="138.2,167.2 134.4,169.4 121.6,162 125.3,159.8 			"/>
+			<polygon id="XMLID_11757_" class="st5" points="138.2,167.2 134.5,169.4 121.6,162 125.3,159.8 			"/>
+			<polygon id="XMLID_11756_" class="st6" points="138.2,167.2 134.5,169.4 121.7,161.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11755_" class="st7" points="138.2,167.2 134.6,169.3 121.8,161.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11754_" class="st8" points="138.2,167.2 134.7,169.3 121.8,161.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11753_" class="st9" points="138.2,167.2 134.7,169.2 121.9,161.8 125.3,159.8 			"/>
+			<polygon id="XMLID_11752_" class="st10" points="138.2,167.2 134.8,169.2 122,161.8 125.3,159.8 			"/>
+			<polygon id="XMLID_11751_" class="st11" points="138.2,167.2 134.9,169.2 122,161.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11750_" class="st12" points="138.2,167.2 134.9,169.1 122.1,161.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11749_" class="st13" points="138.2,167.2 135,169.1 122.2,161.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11748_" class="st14" points="138.2,167.2 135.1,169 122.2,161.6 125.3,159.8 			"/>
+			<polygon id="XMLID_11747_" class="st15" points="138.2,167.2 135.1,169 122.3,161.6 125.3,159.8 			"/>
+			<polygon id="XMLID_11746_" class="st16" points="138.2,167.2 135.2,169 122.4,161.6 125.3,159.8 			"/>
+			<polygon id="XMLID_11745_" class="st17" points="138.2,167.2 135.3,168.9 122.4,161.5 125.3,159.8 			"/>
+			<polygon id="XMLID_11744_" class="st18" points="138.2,167.2 135.3,168.9 122.5,161.5 125.3,159.8 			"/>
+			<polygon id="XMLID_11743_" class="st19" points="138.2,167.2 135.4,168.8 122.6,161.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11742_" class="st20" points="138.2,167.2 135.5,168.8 122.6,161.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11741_" class="st21" points="138.2,167.2 135.5,168.8 122.7,161.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11740_" class="st22" points="138.2,167.2 135.6,168.7 122.8,161.3 125.3,159.8 			"/>
+			<polygon id="XMLID_11739_" class="st23" points="138.2,167.2 135.7,168.7 122.8,161.3 125.3,159.8 			"/>
+			<polygon id="XMLID_11738_" class="st24" points="138.2,167.2 135.7,168.7 122.9,161.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11737_" class="st25" points="138.2,167.2 135.8,168.6 123,161.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11736_" class="st26" points="138.2,167.2 135.9,168.6 123,161.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11735_" class="st27" points="138.2,167.2 135.9,168.5 123.1,161.1 125.3,159.8 			"/>
+			<polygon id="XMLID_11734_" class="st28" points="138.2,167.2 136,168.5 123.2,161.1 125.3,159.8 			"/>
+			<polygon id="XMLID_11733_" class="st29" points="138.2,167.2 136.1,168.5 123.2,161.1 125.3,159.8 			"/>
+			<polygon id="XMLID_11732_" class="st30" points="138.2,167.2 136.1,168.4 123.3,161 125.3,159.8 			"/>
+			<polygon id="XMLID_11731_" class="st31" points="138.2,167.2 136.2,168.4 123.3,161 125.3,159.8 			"/>
+			<polygon id="XMLID_11730_" class="st32" points="138.2,167.2 136.2,168.3 123.4,160.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11729_" class="st33" points="138.2,167.2 136.3,168.3 123.5,160.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11728_" class="st34" points="138.2,167.2 136.4,168.3 123.5,160.9 125.3,159.8 			"/>
+			<polygon id="XMLID_11727_" class="st35" points="138.2,167.2 136.4,168.2 123.6,160.8 125.3,159.8 			"/>
+			<polygon id="XMLID_11726_" class="st36" points="138.2,167.2 136.5,168.2 123.7,160.8 125.3,159.8 			"/>
+			<polygon id="XMLID_11725_" class="st37" points="138.2,167.2 136.6,168.2 123.7,160.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11724_" class="st38" points="138.2,167.2 136.6,168.1 123.8,160.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11723_" class="st39" points="138.2,167.2 136.7,168.1 123.9,160.7 125.3,159.8 			"/>
+			<polygon id="XMLID_11722_" class="st40" points="138.2,167.2 136.8,168 123.9,160.6 125.3,159.8 			"/>
+			<polygon id="XMLID_11721_" class="st41" points="138.2,167.2 136.8,168 124,160.6 125.3,159.8 			"/>
+			<polygon id="XMLID_11720_" class="st42" points="138.2,167.2 136.9,168 124.1,160.5 125.3,159.8 			"/>
+			<polygon id="XMLID_11719_" class="st43" points="138.2,167.2 137,167.9 124.1,160.5 125.3,159.8 			"/>
+			<polygon id="XMLID_11718_" class="st44" points="138.2,167.2 137,167.9 124.2,160.5 125.3,159.8 			"/>
+			<polygon id="XMLID_11717_" class="st45" points="138.2,167.2 137.1,167.8 124.3,160.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11716_" class="st46" points="138.2,167.2 137.2,167.8 124.3,160.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11715_" class="st47" points="138.2,167.2 137.2,167.8 124.4,160.4 125.3,159.8 			"/>
+			<polygon id="XMLID_11714_" class="st48" points="138.2,167.2 137.3,167.7 124.5,160.3 125.3,159.8 			"/>
+			<polygon id="XMLID_11713_" class="st49" points="138.2,167.2 137.4,167.7 124.5,160.3 125.3,159.8 			"/>
+			<polygon id="XMLID_11712_" class="st50" points="138.2,167.2 137.4,167.7 124.6,160.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11711_" class="st51" points="138.2,167.2 137.5,167.6 124.7,160.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11710_" class="st52" points="138.2,167.2 137.6,167.6 124.7,160.2 125.3,159.8 			"/>
+			<polygon id="XMLID_11709_" class="st53" points="138.2,167.2 137.6,167.5 124.8,160.1 125.3,159.8 			"/>
+		</g>
+		
+			<linearGradient id="XMLID_84_" gradientUnits="userSpaceOnUse" x1="125.3" y1="129.6" x2="151" y2="129.6" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0.1499" style="stop-color:#FF9800"/>
+			<stop  offset="1" style="stop-color:#FFC107"/>
+		</linearGradient>
+		<polygon id="XMLID_11707_" class="st71" points="138.2,119 125.3,126.4 138.2,133.8 151,126.4 		"/>
+		
+			<linearGradient id="XMLID_85_" gradientUnits="userSpaceOnUse" x1="138.1754" y1="109.15" x2="151.0356" y2="109.15" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0.1499" style="stop-color:#FF9800"/>
+			<stop  offset="1" style="stop-color:#FFC107"/>
+		</linearGradient>
+		<polygon id="XMLID_11706_" class="st72" points="138.2,133.8 138.2,167.3 151,159.8 151,126.4 		"/>
+		
+			<linearGradient id="XMLID_86_" gradientUnits="userSpaceOnUse" x1="125.3152" y1="109.15" x2="138.1754" y2="109.15" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0.1499" style="stop-color:#FF9800"/>
+			<stop  offset="1" style="stop-color:#FFC107"/>
+		</linearGradient>
+		<polygon id="XMLID_11705_" class="st73" points="125.3,126.4 125.3,159.8 138.2,167.3 138.2,133.8 		"/>
+	</g>
+	<g>
+		
+			<linearGradient id="XMLID_87_" gradientUnits="userSpaceOnUse" x1="-177.8372" y1="153.3197" x2="-156.0184" y2="153.3197" gradientTransform="matrix(-1 0 0 -1 -24.0468 256)">
+			<stop  offset="0" style="stop-color:#3C5185"/>
+			<stop  offset="0.128" style="stop-color:#41588E"/>
+			<stop  offset="0.6948" style="stop-color:#5573B1"/>
+			<stop  offset="1" style="stop-color:#5D7DBE"/>
+		</linearGradient>
+		<path id="XMLID_10892_" class="st74" d="M132.1,92.1L132.1,92.1c0.3-0.3,1-0.3,1.4-0.1l19.8,11.5c0.3,0.2,0.6,0.6,0.6,1v8.3
+			c0,0.3-0.2,0.6-0.5,0.7l0,0c-0.1,0-0.2,0-0.3-0.1l-20.4-11.7c-0.3-0.2-0.6-0.6-0.6-0.9v-8.6C132,92.2,132,92.1,132.1,92.1z"/>
+		
+			<linearGradient id="XMLID_88_" gradientUnits="userSpaceOnUse" x1="130.8608" y1="153.2" x2="153.0535" y2="153.2" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0" style="stop-color:#3C5185"/>
+			<stop  offset="0.128" style="stop-color:#41588E"/>
+			<stop  offset="0.6948" style="stop-color:#5573B1"/>
+			<stop  offset="1" style="stop-color:#5D7DBE"/>
+		</linearGradient>
+		<path id="XMLID_10891_" class="st75" d="M131.9,92.5c0-0.4,0.3-0.5,0.6-0.3l20,11.5c0.3,0.2,0.6,0.6,0.6,1v8.4
+			c0,0.4-0.3,0.5-0.6,0.3l-20-11.5c-0.3-0.2-0.6-0.6-0.6-1v-3l-1-2.5c-0.1-0.2,0-0.5,0.2-0.5l0.8-0.3V92.5z"/>
+		<g id="XMLID_10890_">
+			<polygon id="XMLID_4_" class="st61" points="146,102.6 134.4,95.9 134.4,95.2 146,101.8 			"/>
+		</g>
+		<g id="XMLID_10889_">
+			<polygon id="XMLID_3_" class="st61" points="146,105.1 134.4,98.5 134.4,97.7 146,104.4 			"/>
+		</g>
+		<g id="XMLID_10888_">
+			<polygon id="XMLID_2_" class="st61" points="140.9,104.9 134.4,101.2 134.4,100.5 140.9,104.2 			"/>
+		</g>
+		<polygon id="XMLID_10887_" class="st61" points="146.6,101.5 146.6,108.7 151.8,111.7 151.8,104.5 		"/>
+	</g>
+	<g>
+		<path id="XMLID_10923_" class="st61" d="M132,103.7c0-0.1,0.1-0.2,0.2-0.1l21.4,12.4c0.1,0.1,0.2,0.2,0.2,0.3v11.5
+			c0,0.1-0.1,0.2-0.2,0.1l-21.4-12.4c-0.1-0.1-0.2-0.2-0.2-0.3V103.7z"/>
+		
+			<linearGradient id="XMLID_89_" gradientUnits="userSpaceOnUse" x1="132" y1="140.25" x2="153.8" y2="140.25" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0" style="stop-color:#E1E9FC"/>
+			<stop  offset="0.368" style="stop-color:#AFC0E5"/>
+			<stop  offset="1" style="stop-color:#5D7DBE"/>
+		</linearGradient>
+		<path id="XMLID_1_" class="st76" d="M153.6,116l-21.4-12.4c-0.1-0.1-0.2,0-0.2,0.1v0.6l21.1,12.2c0.1,0.1,0.2,0.2,0.2,0.3v10.9
+			l0.3,0.2c0.1,0.1,0.2,0,0.2-0.1v-11.5C153.8,116.3,153.7,116.1,153.6,116z"/>
+		
+			<linearGradient id="XMLID_90_" gradientUnits="userSpaceOnUse" x1="151.452" y1="132.1929" x2="144.6217" y2="140.9294" gradientTransform="matrix(1 0 0 -1 0 256)">
+			<stop  offset="0.1499" style="stop-color:#FF9800"/>
+			<stop  offset="1" style="stop-color:#FFC107"/>
+		</linearGradient>
+		<path id="XMLID_10918_" class="st77" d="M149.2,118.1c-0.1-0.2-0.3-0.4-0.4-0.6c-0.2-0.2-0.3-0.4-0.5-0.6s-0.3-0.3-0.5-0.5
+			c-0.2-0.1-0.4-0.3-0.5-0.4c-0.2-0.1-0.3-0.2-0.5-0.2l0.5-1.4c0.3,0.1,0.5,0.2,0.8,0.4c0.2,0.1,0.5,0.3,0.7,0.5s0.5,0.4,0.7,0.6
+			s0.4,0.5,0.6,0.7c0.2,0.3,0.4,0.5,0.5,0.8c0.2,0.3,0.3,0.6,0.4,0.8l-0.1,0.1l-1.3,0.6C149.5,118.6,149.3,118.4,149.2,118.1z
+			 M149,123.9c0.2,0,0.3,0,0.5-0.1s0.5-0.1,0.7-0.3c0.2-0.1,0.4-0.3,0.6-0.5c0.2-0.2,0.3-0.4,0.4-0.6c0.1-0.2,0.2-0.5,0.2-0.8
+			c0.1-0.3,0.1-0.5,0.1-0.8s0-0.6-0.1-0.9l-1.5,0.2c0,0.2,0.1,0.4,0.1,0.6s0,0.4-0.1,0.5c0,0.2-0.1,0.3-0.1,0.4s-0.1,0.2-0.2,0.3
+			c-0.1,0.1-0.1,0.1-0.2,0.2c-0.1,0-0.2,0.1-0.2,0.1c-0.1,0-0.2,0-0.3,0s-0.3,0-0.4-0.1c-0.2-0.1-0.3-0.1-0.5-0.2s-0.4-0.2-0.5-0.4
+			c-0.2-0.1-0.3-0.3-0.5-0.5s-0.3-0.4-0.5-0.6s-0.3-0.4-0.4-0.6c-0.1-0.2-0.2-0.5-0.3-0.7s-0.2-0.5-0.3-0.7s-0.1-0.5-0.2-0.7
+			c0-0.2-0.1-0.4-0.1-0.6s0-0.4,0-0.5s0.1-0.3,0.1-0.4s0.1-0.2,0.2-0.3c0.1-0.1,0.1-0.1,0.2-0.2c0.1,0,0.2-0.1,0.2-0.1v-1.5h0.1
+			c-0.2,0-0.4,0-0.5,0.1c-0.1,0-0.3,0.1-0.4,0.2c-0.2,0.1-0.4,0.3-0.6,0.5c-0.2,0.2-0.3,0.4-0.4,0.6c-0.1,0.2-0.2,0.5-0.2,0.8
+			c-0.1,0.3-0.1,0.5-0.1,0.8s0,0.6,0.1,0.9c0,0.3,0.1,0.6,0.2,0.9c0.1,0.3,0.2,0.6,0.3,0.9s0.3,0.6,0.4,0.8c0.2,0.3,0.3,0.5,0.5,0.8
+			s0.4,0.5,0.6,0.7c0.2,0.2,0.4,0.4,0.7,0.6c0.2,0.2,0.5,0.4,0.7,0.5c0.3,0.1,0.5,0.3,0.8,0.4S148.6,123.7,149,123.9
+			C148.9,123.9,149,123.9,149,123.9z"/>
+		<polygon id="XMLID_10916_" class="st59" points="140.2,111 140.2,111.8 133.2,107.7 133.2,106.9 		"/>
+		<polygon id="XMLID_10915_" class="st59" points="143,115.1 143,115.9 133.2,110.2 133.2,109.4 		"/>
+		<polygon id="XMLID_10914_" class="st59" points="143,117.2 143,117.9 133.2,112.3 133.2,111.5 		"/>
+		<polygon id="XMLID_10913_" class="st59" points="143,119.1 143,119.9 133.2,114.3 133.2,113.5 		"/>
+	</g>
+	<g id="XMLID_10901_">
+		<g id="XMLID_10909_">
+			<path id="XMLID_10910_" class="st61" d="M143.3,94.6c-3.8-2.2-6.9-7.6-6.9-12c0-2.2,0.8-3.9,2.2-4.7c1.4-0.8,3.2-0.6,5.1,0.5l0,0
+				c3.8,2.2,6.9,7.6,6.9,12c0,2.2-0.8,3.9-2.2,4.7c-0.6,0.3-1.2,0.5-1.9,0.5C145.5,95.5,144.4,95.2,143.3,94.6z M138.9,78.6
+				c-1.2,0.7-1.8,2.1-1.8,4c0,4.2,2.9,9.3,6.5,11.3c1.7,1,3.2,1.1,4.4,0.5c1.2-0.7,1.8-2.1,1.8-4c0-4.2-2.9-9.3-6.5-11.3l0,0
+				c-1-0.6-2-0.9-2.8-0.9C140,78.2,139.4,78.3,138.9,78.6z"/>
+		</g>
+		<g id="XMLID_10907_">
+			
+				<linearGradient id="XMLID_91_" gradientUnits="userSpaceOnUse" x1="1055.5068" y1="169.5585" x2="1070.4237" y2="169.5585" gradientTransform="matrix(-1 0 0 -1 1206.484 256)">
+				<stop  offset="0.1499" style="stop-color:#FF9800"/>
+				<stop  offset="1" style="stop-color:#FFC107"/>
+			</linearGradient>
+			<path id="XMLID_10908_" class="st78" d="M146.5,95.9c0.8,0,1.5-0.2,2.1-0.6c1.5-0.9,2.3-2.6,2.4-5h-1.4c0,1.8-0.6,3.1-1.6,3.7
+				s-2.5,0.4-4-0.5c-3.5-2-6.4-7-6.4-11c0-1.8,0.6-3.1,1.6-3.7s2.5-0.4,4,0.5l0.7-1.3c-2-1.2-4-1.3-5.5-0.5c-1.5,0.9-2.3,2.6-2.3,5
+				c0,4.5,3.2,10,7.1,12.3C144.3,95.6,145.5,95.9,146.5,95.9z"/>
+		</g>
+		<path id="XMLID_10902_" class="st61" d="M140.5,83.7v-1.8l2.7,1.8v0.9l-1.5,3.7l-0.9-0.6l1.4-3.6l-0.9-0.6v0.7L140.5,83.7z
+			 M144.9,88.1v-1l0.8,0.5v1l0.4,0.3V90l-0.4-0.3V91l-0.8-0.5v-1.3l-1.5-1v-1l1.3-2.4l0.9,0.6l-1.3,2.3L144.9,88.1z"/>
+	</g>
+	<g id="XMLID_10899_">
+		
+			<linearGradient id="XMLID_92_" gradientUnits="userSpaceOnUse" x1="276.998" y1="181.4" x2="288.798" y2="181.4" gradientTransform="matrix(1 0 0 -1 -167.4162 256)">
+			<stop  offset="0" style="stop-color:#3C5185"/>
+			<stop  offset="0.6002" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#4A65A3"/>
+		</linearGradient>
+		<path id="XMLID_11818_" class="st79" d="M115.5,67.8c-3.2-1.9-5.9-0.3-5.9,3.4s2.7,8.3,5.9,10.2c3.2,1.9,5.9,0.3,5.9-3.4
+			C121.4,74.3,118.7,69.7,115.5,67.8z"/>
+		
+			<linearGradient id="XMLID_93_" gradientUnits="userSpaceOnUse" x1="276.2288" y1="181.2" x2="288.0288" y2="181.2" gradientTransform="matrix(1 0 0 -1 -167.4162 256)">
+			<stop  offset="0" style="stop-color:#4A65A3"/>
+			<stop  offset="0.3998" style="stop-color:#445C95"/>
+			<stop  offset="1" style="stop-color:#3C5185"/>
+		</linearGradient>
+		<path id="XMLID_11817_" class="st80" d="M114.7,68c-3.2-1.9-5.9-0.3-5.9,3.4c0,3.7,2.7,8.3,5.9,10.2c3.2,1.9,5.9,0.3,5.9-3.4
+			C120.6,74.5,118,69.9,114.7,68z"/>
+		<g id="XMLID_10900_">
+			<path id="XMLID_11816_" class="st61" d="M113.8,78.1l-2.1-2.6c-0.3-0.3-0.2-0.9,0.1-1.2c0.4-0.3,0.9-0.2,1.2,0.1l1.1,1.3l2.6-2.1
+				c0.4-0.3,0.9-0.2,1.2,0.1c0.3,0.4,0.2,0.9-0.1,1.2L113.8,78.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
