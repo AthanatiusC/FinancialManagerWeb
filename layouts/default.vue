@@ -1,5 +1,16 @@
 <template>
   <v-app>
+    <!-- <v-app-bar
+      :clipped-left="clipped"
+      :color="appbarbg"
+      fixed
+      app
+      flat
+    >
+      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
+      <v-toolbar-title v-text="title" />
+      <v-spacer />
+    </v-app-bar>
     <v-navigation-drawer
       v-model="drawer"
       :mini-variant="miniVariant"
@@ -23,22 +34,27 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
-    </v-navigation-drawer>
-    <v-app-bar
-      :clipped-left="clipped"
-      :color="appbarbg"
-      fixed
-      app
-      flat
-    >
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="title" />
-      <v-spacer />
-    </v-app-bar>
-    <v-main>
+    </v-navigation-drawer> -->
+    <navigation :color="color" :flat="flat"/>
+    <v-main class="pt-0">
       <nuxt />
     </v-main>
-    <v-navigation-drawer
+    <v-scale-transition>
+      <v-btn
+        fab
+        v-show="fab"
+        v-scroll="onScroll"
+        dark
+        fixed
+        bottom
+        right
+        color="#2a1242"
+        @click="toTop"
+      >
+        <v-icon>mdi-arrow-up</v-icon>
+      </v-btn>
+    </v-scale-transition>
+    <!-- <v-navigation-drawer
       v-model="rightDrawer"
       :right="right"
       temporary
@@ -54,17 +70,33 @@
           <v-list-item-title>Switch drawer (click me)</v-list-item-title>
         </v-list-item>
       </v-list>
-    </v-navigation-drawer>
-    <v-footer>
+    </v-navigation-drawer> -->
+    
+    <!-- <v-footer style="background-color:#ffffff00">
       <span>&copy; {{ new Date().getFullYear() }} Lexi Anugrah</span>
-    </v-footer>
+    </v-footer> -->
   </v-app>
 </template>
 
 <script>
+import Navigation from '~/components/Navigation.vue';
 export default {
+  components: { Navigation },
+  computed:{
+    isLoggedIn(){
+      if($cookies.get("loggedIn")==true){
+        return true
+      }else{
+        return false
+      }
+    }
+  },
   data () {
     return {
+      isAllowed:true,
+      fab: null,
+      color: "",
+      flat: null,
       clipped: false,
       drawer: false,
       fixed: false,
@@ -86,6 +118,35 @@ export default {
       title: 'Finance Manager',
       appbarbg:'transparent'
     }
-  }
+  },created() {
+    const top = window.pageYOffset || 0;
+    if (top <= 60) {
+      this.color = "transparent";
+      this.flat = true;
+    }
+  },
+  watch: {
+    fab(value) {
+      if (value) {
+        this.color = "#2a1242";
+        this.flat = false;
+      } else {
+        this.color = "transparent";
+        this.flat = true;
+      }
+    },
+  },beforeMount(){
+    
+  },
+  methods: {
+    onScroll(e) {
+      if (typeof window === "undefined") return;
+      const top = window.pageYOffset || e.target.scrollTop || 0;
+      this.fab = top > 60;
+    },
+    toTop() {
+      this.$vuetify.goTo(0);
+    },
+  },
 }
 </script>
