@@ -67,8 +67,11 @@
         <v-btn text @click="$vuetify.goTo('#team')">
           <span class="mr-2">Our Team</span>
         </v-btn>
-        <v-btn rounded outlined text to="/Login">
+        <v-btn text to="/Login">
           <span class="mr-2">Login</span>
+        </v-btn>
+        <v-btn rounded outlined text to="/Register">
+          <span class="mr-2">Sign Up</span>
         </v-btn>
       </div>
     </v-app-bar>
@@ -89,9 +92,8 @@
 export default {
   computed:{
     isAllowed(){
-      console.log($nuxt.$route.name)
-
-      if($nuxt.$route.name=="index"){
+      console.log()
+      if($nuxt.$route.path=="/"){
         return true
       }else{
         return false

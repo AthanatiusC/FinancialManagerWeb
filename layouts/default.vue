@@ -1,44 +1,63 @@
 <template>
   <v-app>
-    <!-- <v-app-bar
-      :clipped-left="clipped"
-      :color="appbarbg"
-      fixed
-      app
-      flat
-    >
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="title" />
-      <v-spacer />
-    </v-app-bar>
-    <v-navigation-drawer
-      v-model="drawer"
-      :mini-variant="miniVariant"
-      :clipped="clipped"
-      fixed
-      app
-    >
-      <v-list>
-        <v-list-item
-          v-for="(item, i) in items"
-          :key="i"
-          :to="item.to"
-          router
-          exact
-        >
-          <v-list-item-action>
-            <v-icon>{{ item.icon }}</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <v-list-item-title v-text="item.title" />
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
-    </v-navigation-drawer> -->
+    <notifications animation-type="velocity"/>
+
     <navigation :color="color" :flat="flat"/>
-    <v-main class="pt-0">
+    <v-main v-if="isIndex" class="pt-0">
       <nuxt />
     </v-main>
+    <div class="dashboard">
+      <side-bar
+      v-show="isDashboard"
+      :background-color="sidebarBackground"
+      :short-title="$t('sidebar.shortTitle')"
+      :title="$t('sidebar.title')"
+    >
+      <template slot-scope="" slot="links">
+        <sidebar-item
+          :link="{
+            name: $t('sidebar.dashboard'),
+            icon: 'tim-icons icon-chart-pie-36',
+            path: '/dashboard/home'
+          }"
+        >
+        </sidebar-item>
+        <sidebar-item
+          :link="{
+            name: $t('transactions'),
+            icon: 'tim-icons icon-money-coins',
+            path: '/dashboard/transactions'
+          }"
+        >
+        </sidebar-item>
+
+        <li class="active-pro">
+          <NuxtLink to="setting">
+            <i class="tim-icons icon-settings-gear-63"></i>
+            <p>Settings</p>
+          </NuxtLink>
+        </li>
+      </template>
+    </side-bar>
+    </div>
+    <v-main v-if="isDashboard" class="pt-0 dashboard">
+      <div class="main-panel" :data="sidebarBackground">
+        <DashboardNavbar></DashboardNavbar>
+        <router-view name="header"></router-view>
+
+        <div
+          :class="{ content: !isFullScreenRoute }"
+          @click="toggleSidebar"
+        >
+          <zoom-center-transition :duration="200" mode="out-in">
+            <!-- your content here -->
+            <nuxt></nuxt>
+          </zoom-center-transition>
+        </div>
+        <content-footer v-if="!isFullScreenRoute"></content-footer>
+      </div>
+    </v-main>
+
     <v-scale-transition>
       <v-btn
         fab
@@ -54,37 +73,52 @@
         <v-icon>mdi-arrow-up</v-icon>
       </v-btn>
     </v-scale-transition>
-    <!-- <v-navigation-drawer
-      v-model="rightDrawer"
-      :right="right"
-      temporary
-      fixed
-    >
-      <v-list>
-        <v-list-item @click.native="right = !right">
-          <v-list-item-action>
-            <v-icon light>
-              mdi-repeat
-            </v-icon>
-          </v-list-item-action>
-          <v-list-item-title>Switch drawer (click me)</v-list-item-title>
-        </v-list-item>
-      </v-list>
-    </v-navigation-drawer> -->
     
-    <!-- <v-footer style="background-color:#ffffff00">
-      <span>&copy; {{ new Date().getFullYear() }} Lexi Anugrah</span>
-    </v-footer> -->
   </v-app>
 </template>
 
 <script>
+import ContentFooter from '@/components/Layout/ContentFooter';
+import { SlideYDownTransition, ZoomCenterTransition } from 'vue2-transitions';
+import DashboardNavbar from '@/components/Layout/DashboardNavbar';
+
 import Navigation from '~/components/Navigation.vue';
+import PerfectScrollbar from 'perfect-scrollbar';
+import 'perfect-scrollbar/css/perfect-scrollbar.css';
+
+function hasElement(className) {
+  return document.getElementsByClassName(className).length > 0;
+}
+function initScrollbar(className) {
+  if (hasElement(className)) {
+    new PerfectScrollbar(`.${className}`);
+  } else {
+    // try to init it later in case this component is loaded async
+    setTimeout(() => {
+      initScrollbar(className);
+    }, 100);
+  }
+}
+
 export default {
-  components: { Navigation },
+  components: { Navigation,ZoomCenterTransition,DashboardNavbar,ContentFooter },
   computed:{
-    isLoggedIn(){
-      if($cookies.get("loggedIn")==true){
+    isFullScreenRoute() {
+      return this.$route.path === '/maps/full-screen'
+    },
+    isDashboard(){
+      var path = $nuxt.$route.path+""
+      path = path.toString().toLowerCase()
+      if(path.includes("dashboard")){
+        return true
+      }else{
+        return false
+      }
+    },
+    isIndex(){
+      var path = $nuxt.$route.path+""
+      path = path.toString().toLowerCase()
+      if(path ==="/"||path==="/login"||path==="/register"){
         return true
       }else{
         return false
@@ -93,32 +127,21 @@ export default {
   },
   data () {
     return {
-      isAllowed:true,
+      sidebarBackground: 'vue',
       fab: null,
       color: "",
       flat: null,
       clipped: false,
       drawer: false,
       fixed: false,
-      items: [
-        {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
-        },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
-        }
-      ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
       title: 'Finance Manager',
-      appbarbg:'transparent'
+      appbarbg:'transparent',
     }
   },created() {
+    // this.$notify.changeName
     const top = window.pageYOffset || 0;
     if (top <= 60) {
       this.color = "transparent";
@@ -147,6 +170,70 @@ export default {
     toTop() {
       this.$vuetify.goTo(0);
     },
+    showMessage(message,type){
+        this.message =message
+        this.type = type
+        this.transition="scroll-x-transition"
+        setTimeout(() => {
+            this.alert=true
+        }, 3000);
+    },
+    toggleSidebar() {
+        if (this.$sidebar.showSidebar) {
+          this.$sidebar.displaySidebar(false);
+        }
+    },
+    initScrollbar() {
+      let docClasses = document.body.classList;
+      let isWindows = navigator.platform.startsWith('Win');
+      if (isWindows) {
+        // if we are on windows OS we activate the perfectScrollbar function
+        initScrollbar('sidebar');
+        initScrollbar('main-panel');
+        initScrollbar('sidebar-wrapper');
+
+        docClasses.add('perfect-scrollbar-on');
+      } else {
+        docClasses.add('perfect-scrollbar-off');
+      }
+    }
   },
+  mounted() {
+    this.initScrollbar();
+  }
 }
 </script>
+
+<style lang="scss">
+  $scaleSize: 0.95;
+  @keyframes zoomIn95 {
+    from {
+      opacity: 0;
+      transform: scale3d($scaleSize, $scaleSize, $scaleSize);
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .main-panel .zoomIn {
+    animation-name: zoomIn95;
+  }
+
+  @keyframes zoomOut95 {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+      transform: scale3d($scaleSize, $scaleSize, $scaleSize);
+    }
+  }
+
+  .main-panel .zoomOut {
+    animation-name: zoomOut95;
+  }
+  .dashboard{    
+    @import '@/assets/sass/black-dashboard.scss';
+  }
+</style>

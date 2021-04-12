@@ -11,23 +11,31 @@
                     <v-card-text>
                         <h2 class="text-center">Enter your user creditential!</h2>
                         <br>
-                        <v-form>
-                        Username
+                        <v-form ref="form" v-model="valid" lazy-validation>
+                        Email
                         <v-text-field
-                            id="username"
+                            id="email"
                             autocomplete="off"
-                            prepend-icon="mdi-account"
-                            name="username"
-                            label="Username"
-                            type="text"
+                            prepend-icon="mdi-email"
+                            v-model="user.email"
+                            :rules="[() => !!user.email || 'This field is required',
+                            v => !v || /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/.test(v) || 'E-mail must be valid']"
+                            name="email"
+                            label="Email"
+                            type="email"
                             solo
                             dense
                         ></v-text-field>
                         Password
                         <v-text-field
                             id="password"
+                            v-model="user.password"
                             autocomplete="off"
                             prepend-icon="mdi-form-textbox-password"
+                            :rules="[() => !!user.password || 'This field is required',
+                            () => user.password.length>=8 || 'Minimal 8 characters',
+                            ]"
+                            hint="Password must be at least 8 characters"
                             name="password"
                             label="Password"
                             type="password"
@@ -35,7 +43,7 @@
                             dense
                         ></v-text-field>
                         </v-form>
-                        <nuxt-link to="/">don't have an account yet?</nuxt-link>
+                        <nuxt-link to="/Register">don't have an account yet?</nuxt-link>
                     </v-card-text>
                     <v-card-actions>
                         <v-col>
@@ -45,7 +53,7 @@
                             </v-btn>
                         </v-col>
                         <v-col class="text-right">
-                            <v-btn outlined rounded color="success" dark >
+                            <v-btn :disabled="!valid" rounded color="success" @click="login()" click="validate">
                                 Login
                             </v-btn>
                         </v-col>
@@ -62,3 +70,72 @@
     background-size:100%;
 }
 </style>
+<script>
+import Alert from "~/components/Alert.vue"
+
+export default{
+    middleware:'dashboard',
+    components: { Alert },
+    data:()=>({
+        user:{
+            email:'',
+            password:''
+        },
+        alert:{
+            display:false,
+            color:'green',
+            border:'left',
+            type:'success',
+            icons:'',
+            message:'',
+            transition:''
+        },
+        valid:false
+    }),
+    head(){
+      return{
+          title:$nuxt.$route.name
+      }  
+    },
+    methods:{
+        showMessage(message,type){
+            this.message =message
+            this.type = type
+            this.transition="scroll-x-transition"
+            setTimeout(() => {
+                this.alert=true
+            }, 3000);
+        },
+        async login(){
+            if(this.$refs.form.validate()){
+                await this.$axios.$post("/api/v1/user/auth",this.user).then((res)=>{
+                    if(res.data.id!= null){
+                        this.$notify({
+                            type: 'success',
+                            title: 'Login Success!',
+                            text: 'Rediricting to<b> Dashboard! </b>'
+                        })
+                        this.$store.commit('auth/setUser',res.data,{httpOnly:true})
+                        this.$router.push('/dashboard/home')
+                    }else{
+                        this.$notify({
+                            type: 'error',
+                            title: 'Login Failed!',
+                            text: res.message,
+                            // data: {res:res}
+                        })
+                    }
+                }).catch((err)=>{
+                    if(!err.status){
+                        this.$notify({
+                            type: 'error',
+                            title: 'Login Failed!',
+                            text: err,
+                        })
+                    }
+                })
+            }
+        }
+    }
+}
+</script>

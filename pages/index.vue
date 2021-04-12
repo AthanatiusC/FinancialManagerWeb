@@ -13,7 +13,7 @@
             rounded
             outlined
             large
-            @click="$vuetify.goTo('#hero')"
+            to="/register"
             class="mt-5"
             color="white"
           >
@@ -82,11 +82,16 @@
 </template>
 
 <script>
-import Team from '~/components/Team.vue';
-import About from '~/components/About.vue';
+import Team from '~/components/Team';
+import About from '~/components/About';
 
 export default {
   components: {Team,About },
+  head(){
+    return{
+        title:"Home"
+    }  
+  },
   data(){
     return{
       features: [

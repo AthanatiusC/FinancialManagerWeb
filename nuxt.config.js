@@ -6,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - FinanceManager',
+    titleTemplate: 'FinanceManager',
     title: 'FinanceManager',
     htmlAttrs: {
       lang: 'en'
@@ -17,16 +17,26 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
     ]
+    
   },
-
+  // izitoast: {
+  //   position: 'topLeft',
+  //   transitionIn: 'bounceInLeft',
+  //   transitionOut: 'fadeOutRight',
+  // },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    'assets/css/demo.css',
+    'assets/css/nucleo-icons.css',
+    'node_modules/sweetalert2/dist/sweetalert2.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: "~/plugins/vue-notification.js", ssr: false },
+    { src: "~/plugins/dashboard-plugin.js", ssr: false },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -42,8 +52,28 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/pwa',
     'cookie-universal-nuxt',
+    '@nuxtjs/axios',
+    'nuxt-i18n'
+    // 'nuxt-izitoast',
+    // '@plugins/vue-notification.js'
   ],
+  i18n: {
+    locales: [
+      {
+        code: 'en',
+        file: 'en.js'
+      },
+      {
+        code: 'ar',
+        file: 'ar.js'
+      }
+    ],
+    lazy: true,
+    langDir: 'lang/',
+    defaultLocale: 'en',
+  },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
@@ -68,6 +98,27 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
+  
   build: {
+    transpile: [/^element-ui/],
+    /*
+    ** You can extend webpack config here
+    */
+    extend (config, ctx) {
+    },
+    babel: {
+      plugins: [
+        [
+          'component',
+          {
+            'libraryName': 'element-ui',
+            'styleLibraryName': 'theme-chalk'
+          }
+        ]
+      ]
+    }
+  },
+  axios: {
+    baseURL: 'http://localhost:8088'
   }
 }
