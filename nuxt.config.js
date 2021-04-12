@@ -30,7 +30,6 @@ export default {
   css: [
     'assets/css/demo.css',
     'assets/css/nucleo-icons.css',
-    'node_modules/sweetalert2/dist/sweetalert2.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

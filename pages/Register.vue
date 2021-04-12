@@ -169,22 +169,27 @@
         if(this.$refs.form.validate()){
             await this.$axios.$post("/api/v1/user/register",this.user).then((res)=>{
                 if(res.data != null){
-                    // this.$notify.success({
-                    //     title: 'Successfully Registered!',
-                    //     message: 'Redirecting to dashboard!'
-                    // })
+                    this.$notify({
+                        type:"success",
+                        title: 'Successfully Registered!',
+                        message: 'Redirecting to dashboard!'
+                    })
+                    this.$store.commit('auth/setUser',res.data,{httpOnly:true})
+                    this.$router.push('/dashboard/home')
                 }else{
-                    // this.$notify.error({
-                    //     title: 'Register Failed!',
-                    //     message: res.message
-                    // })
+                    this.$notify({
+                        type:"error",
+                        title: 'Register Failed!',
+                        message: res.message
+                    })
                 }
             }).catch((err)=>{
                 if(!err.status){
-                    // this.$notify.error({
-                    //     title: 'Register Failed!',
-                    //     message: "Duplicate email!"
-                    // })
+                    this.$notify({
+                        type:"error",
+                        title: 'Register Failed!',
+                        message: "Duplicate email!"
+                    })
                 }
             })
         }

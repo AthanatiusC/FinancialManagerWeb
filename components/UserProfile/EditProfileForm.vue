@@ -8,7 +8,7 @@
             type="text"
             label="Username"
             placeholder="Username"
-            v-model="data.fullname"
+            v-model="userdata.fullname"
           >
           </base-input>
         </div>
@@ -17,7 +17,7 @@
             type="email"
             label="Email address"
             placeholder="mike@email.com"
-            v-model="data.email"
+            v-model="userdata.email"
           >
           </base-input>
         </div>
@@ -29,63 +29,32 @@
             type="text"
             label="Full Name"
             placeholder="Full Name"
-            v-model="this.data.fullname"
+            v-model="userdata.fullname"
           >
           </base-input>
         </div>
       </div>
 
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-12">
           <base-input
             type="text"
             label="Address"
             placeholder="Home Address"
-            v-model="data.address"
+            v-model="userdata.address"
           >
           </base-input>
-        </div>
-        <div class="col-md-6">
-          <v-menu
-            ref="menu"
-            v-model="menu"
-            :close-on-content-click="false"
-            transition="scale-transition"
-            offset-y
-            min-width="auto"
-          >
-            <template v-slot:activator="{ on, attrs }">
-              <base-input
-                v-bind="attrs"
-                v-on="on"
-                type="text"
-                label="Date of Birth"
-                placeholder="Date of Birth"
-                v-model="date">
-              </base-input>
-            </template>
-            <v-date-picker
-              ref="picker"
-              v-model="date"
-              :max="new Date().toISOString().substr(0, 10)"
-              min="1950-01-01"
-            ></v-date-picker>
-          </v-menu>
         </div>
       </div>
-
-      <!-- <div class="row">
-        <div class="col-md-12">
-          <base-input label="About Me">
-            <textarea
-              class="form-control"
-              placeholder="ZIP Code"
-              v-model="data.aboutMe"
-            >
-            </textarea>
-          </base-input>
-        </div>
-      </div> -->
+      <label>Date of Birth</label>
+      <template>
+        <base-input>
+        <el-date-picker v-model="userdata.dob"
+          type="datetime"
+          placeholder="Select date and time">
+          </el-date-picker>
+      </base-input>
+      </template>
 
       <base-button native-type="submit" type="primary" class="btn-fill">
         Save
@@ -96,16 +65,22 @@
 <script>
 import moment from 'moment'
 import { format, parseISO } from 'date-fns'
+import {DatePicker, TimeSelect} from 'element-ui'
 export default {
-  props:['data'],
-  computed: {
-      computedDateFormattedMomentjs () {
-        return this.data.dob ? moment(this.data.dob).format('dddd, MMMM Do YYYY') : ''
-      },
-      computedDateFormattedDatefns () {
-        return this.data.dob ? format(parseISO(this.data.dob), 'EEEE, MMMM do yyyy') : ''
-      },
+  components:{
+    [DatePicker.name]: DatePicker,
+    [TimeSelect.name]: TimeSelect,
   },
+  async fetch(){
+    var id = this.$cookies.get("id")
+    var token = this.$cookies.get("refresh_token")
+    this.$axios.setHeader("refresh_token",token)
+    this.$axios.setHeader("user_id",id)
+    const data = await this.$axios.$get("api/v1/user/"+id).then((res)=>{
+      this.userdata = res.data 
+    });
+  },
+  props:['data'],
   watch: {
       menu (val) {
         val && setTimeout(() => (this.$refs.picker.activePicker = 'YEAR'))
@@ -113,25 +88,52 @@ export default {
   },
   data() {
     return {
-      date: moment(this.data.dob).format("YYYY-MM-DD"),
-      menu: false,
-      // user:this.data
-      // user: {
-      //   username: this.data.fullname,
-      //   email: this.data.email,
-      //   firstName: this.data.fullname.split(' ')[0],
-      //   lastName: this.data.fullname.split(' ')[1],
-      //   address: this.data.address,
-      //   city: 'New York',
-      //   country: 'USA',
-      //   postalCode: '',
-      //   aboutMe: `Lamborghini Mercy, Your chick she so thirsty, I'm in that two seat Lambo.`
-      // }
+      userdata:{
+        menu: false,
+        fullname:null,
+        dob:null,
+        address:null,
+        email:null
+      }
     };
   },
   methods: {
-    updateProfile() {
-      alert('Your data: ' + JSON.stringify(this.user));
+    async updateProfile() {
+      if(this.userdata.fullname||this.userdata.address||this.userdata.email||this.userdata.dob){
+          this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
+          this.$axios.setHeader("user_id",this.$cookies.get("id"))
+          this.userdata.id=this.$cookies.get("id")
+          await this.$axios.$put("/api/v1/user/update",this.userdata).then((res)=>{
+              if(res.data){
+                  this.$notify({
+                      type: 'success',
+                      title: 'Transaction successfully updated!',
+                      text: 'Refreshing Table..'
+                  })
+                  this.$fetch()
+              }else{
+                  this.$notify({
+                      type: 'error',
+                      title: 'Update transaction failed!',
+                      text: res.message,
+                  })
+              }
+          }).catch((err)=>{
+              if(!err.status){
+                  this.$notify({
+                      type: 'error',
+                      title: 'Update transaction failed!',
+                      text: err,
+                  })
+              }
+          })
+      }else{
+          this.$notify({
+              type: 'error',
+              title: 'Please fill all the required input!',
+              text: 'Try again..'
+          })
+      }
     }
   }
 };

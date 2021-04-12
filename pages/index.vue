@@ -118,7 +118,7 @@ export default {
   }
 }
 </script>
-<style>
+<style scoped>
 
 .heroiso{
   position: absolute;
@@ -185,7 +185,7 @@ section {
 }
 </style>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .circle {
   stroke: white;
   stroke-dasharray: 650;

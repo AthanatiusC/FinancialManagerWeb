@@ -1,74 +1,77 @@
 <template>
-  <SlideYUpTransition :duration="animationDuration">
-    <div
-      ref="modal"
-      class="modal fade"
-      @click.self="closeModal"
-      :class="[
-        { 'show d-block': show },
-        { 'd-none': !show },
-        { 'modal-mini': type === 'mini' }
-      ]"
-      v-show="show"
-      tabindex="-1"
-      role="dialog"
-      :aria-hidden="!show"
-    >
+  <zoom-center-transition :duration="200" mode="out-in">
+    <div class="dashboard">
       <div
-        class="modal-dialog"
-        role="document"
+        ref="modal"
+        class="modal fade"
+        @click.self="closeModal"
         :class="[
-          { 'modal-notice': type === 'notice' },
-          { 'modal-dialog-centered': centered },
-          modalClasses
+          { 'show d-block': show },
+          { 'd-none': !show },
+          { 'modal-mini': type === 'mini' }
         ]"
+        v-show="show"
+        tabindex="-1"
+        role="dialog"
+        :aria-hidden="!show"
       >
         <div
-          class="modal-content"
+          class="modal-dialog"
+          role="document"
           :class="[
-            gradient ? `bg-gradient-${gradient}` : '',
-            modalContentClasses
+            { 'modal-notice': type === 'notice' },
+            { 'modal-dialog-centered': centered },
+            modalClasses
           ]"
         >
           <div
-            class="modal-header"
-            :class="[headerClasses]"
-            v-if="$slots.header"
+            class="modal-content"
+            :class="[
+              gradient ? `bg-gradient-${gradient}` : '',
+              modalContentClasses
+            ]"
           >
-            <slot name="header"></slot>
-            <slot name="close-button">
-              <button
-                type="button"
-                class="close"
-                v-if="showClose"
-                @click="closeModal"
-                data-dismiss="modal"
-                aria-label="Close"
-              >
-                <i class="tim-icons icon-simple-remove"></i>
-              </button>
-            </slot>
-          </div>
+            <div
+              class="modal-header"
+              :class="[headerClasses]"
+              v-if="$slots.header"
+            >
+              <slot name="header"></slot>
+              <slot name="close-button">
+                <button
+                  type="button"
+                  class="close"
+                  v-if="showClose"
+                  @click="closeModal"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <i class="tim-icons icon-simple-remove"></i>
+                </button>
+              </slot>
+            </div>
 
-          <div v-if="$slots.default" class="modal-body" :class="bodyClasses">
-            <slot></slot>
-          </div>
+            <div v-if="$slots.default" class="modal-body" :class="bodyClasses">
+              <slot></slot>
+            </div>
 
-          <div class="modal-footer" :class="footerClasses" v-if="$slots.footer">
-            <slot name="footer"></slot>
+            <div class="modal-footer" :class="footerClasses" v-if="$slots.footer">
+              <slot name="footer"></slot>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </SlideYUpTransition>
+  </zoom-center-transition>
 </template>
 <script>
-import { SlideYUpTransition } from 'vue2-transitions';
+import { SlideYUpTransition,ZoomCenterTransition } from 'vue2-transitions';
 
 export default {
   name: 'modal',
   components: {
-    SlideYUpTransition
+    SlideYUpTransition,
+    ZoomCenterTransition
   },
   props: {
     show: Boolean,
@@ -167,4 +170,15 @@ export default {
 .modal.show {
   background-color: rgba(0, 0, 0, 0.3);
 }
+</style>
+
+<style lang="scss">
+  *{
+    font-family:'Roboto';
+
+  }
+  .dashboard{
+    @import '@/assets/sass/black-dashboard.scss';
+  }
+  // @import '@/assets/sass/black-dashboard.scss';
 </style>

@@ -9,7 +9,7 @@
               <h5 class="card-category">Total transactions made</h5>
               <h2 class="card-title">History</h2>
             </div>
-            <div class="col-sm-6 d-flex d-sm-block">
+            <!-- <div class="col-sm-6 d-flex d-sm-block">
               <div
                 class="btn-group btn-group-toggle"
                 :class="isRTL ? 'float-left' : 'float-right'"
@@ -35,7 +35,7 @@
                   </span>
                 </label>
               </div>
-            </div>
+            </div> -->
           </div>
         </template>
         <div class="chart-area">
@@ -51,7 +51,24 @@
         </div>
       </card>
     </div>
-
+    <div class="col-4">
+      <card class="text-center">
+        <h4 class="card-title">Total Life spending:</h4>
+        <h2 class="card-title">{{TotalSpending}}</h2>
+      </card>
+    </div>
+    <div class="col-4">
+      <card class="text-center">
+        <h4 class="card-title">This Month spending:</h4>
+        <h2 class="card-title">{{TotalMonthSpending}}</h2>
+      </card>
+    </div>
+    <div class="col-4">
+      <card class="text-center">
+        <h4 class="card-title">Today's spending:</h4>
+        <h2 class="card-title">{{TodaySpending}}</h2>
+      </card>
+    </div>
 
     
     <!-- <div class="col-lg-5">
@@ -77,35 +94,53 @@
         </div>
       </card>
     </div> -->
-    <div class="col">
+    <div class="col-12">
       <card card-body-classes="table-full-width">
         <h4 slot="header" class="card-title">Transaction Table</h4>
         <el-table :data="tableData">
           <el-table-column
-            min-width="150"
-            sortable
-            label="Name"
-            property="name"
+              min-width="150"
+              sortable
+              label="ID"
+              property="id"
           ></el-table-column>
           <el-table-column
-            min-width="150"
-            sortable
-            label="Country"
-            property="country"
+              min-width="150"
+              sortable
+              label="Transaction"
+              property="transaction"
           ></el-table-column>
           <el-table-column
-            min-width="150"
-            sortable
-            label="City"
-            property="city"
+              min-width="150"
+              sortable
+              label="Recipt"
+              property="recipt"
           ></el-table-column>
           <el-table-column
-            min-width="150"
-            sortable
-            align="right"
-            header-align="right"
-            label="Salary"
-            property="salary"
+              min-width="150"
+              sortable
+              label="Description"
+              property="description"
+          ></el-table-column>
+          <el-table-column
+              min-width="150"
+              sortable
+              label="Type"
+              property="types"
+          ></el-table-column>
+          <el-table-column
+              min-width="150"
+              sortable
+              label="Amount"
+              property="amount"
+              :formatter="toCurrencyString"
+          ></el-table-column>
+          <el-table-column
+              min-width="150"
+              sortable
+              label="Time"
+              property="time"
+              :formatter="timeFormat"
           ></el-table-column>
         </el-table>
       </card>
@@ -121,12 +156,10 @@ import * as chartConfigs from '@/components/Charts/config';
 import TaskList from '@/components/Dashboard/TaskList';
 import config from '@/config';
 import { Table, TableColumn } from 'element-ui';
+import moment from 'moment'
+import axios from '@/node_modules/axios/index'
 
-let bigChartData = [
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [80, 120, 105, 110, 95, 105, 90, 100, 80, 95, 70, 120],
-  [60, 80, 65, 130, 80, 105, 90, 130, 70, 115, 60, 130]
-]
+let bigChartData = [[0,0,0,0,0,0,0,0,0,0,0,0]]
 let bigChartLabels = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
 let bigChartDatasetOptions = {
   fill: true,
@@ -154,154 +187,87 @@ export default {
     [TableColumn.name]: TableColumn
   },
   async fetch(){
-    var id = this.$cookies.get("id")
-    var token = this.$cookies.get("refresh_token")
-    this.$axios.setHeader("refresh_token",token)
-    this.$axios.setHeader("user_id",id)
-    const data = await this.$axios.$get("api/v1/manager/history/"+id).then((data)=>{
-      this.transactions = data.data
-      data.data.forEach(item => {
-        console.log(item)
-        // if(item.status==true){
-        //   this.completedData.push(item)
-        // }else{
-        //   this.incompleteData.push(item)
-        // }
-      });
-    })
+      this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
+      this.$axios.setHeader("user_id",this.$cookies.get("id"))
+      await this.$axios.$get(`/api/v1/manager/history/${this.$cookies.get("id")}`).then((data)=>{
+          this.tableData = data.data
+      })
   },
   data () {
     return {
       transactions:null,
-      tableData: [
-        {
-          id: 1,
-          name: 'Dakota Rice',
-          salary: '$36.738',
-          country: 'Niger',
-          city: 'Oud-Turnhout'
-        },
-        {
-          id: 2,
-          name: 'Minerva Hooper',
-          salary: '$23,789',
-          country: 'Curaçao',
-          city: 'Sinaai-Waas'
-        },
-        {
-          id: 3,
-          name: 'Sage Rodriguez',
-          salary: '$56,142',
-          country: 'Netherlands',
-          city: 'Baileux'
-        },
-        {
-          id: 4,
-          name: 'Philip Chaney',
-          salary: '$38,735',
-          country: 'Korea, South',
-          city: 'Overland Park'
-        },
-        {
-          id: 5,
-          name: 'Doris Greene',
-          salary: '$63,542',
-          country: 'Malawi',
-          city: 'Feldkirchen in Kärnten'
+      tableData: [],
+    };
+  },
+  computed: {
+    TotalMonthSpending(){
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var month = moment(transaction.time).month();
+          groupedTransaction[month] = groupedTransaction[month] || [];
+          groupedTransaction[month].push(transaction);
+      });
+      var total=0
+      if(groupedTransaction[moment(moment.now()).month()]){
+        groupedTransaction[moment(moment.now()).month()].forEach((transaction) => {
+          total += parseInt(transaction.amount)
+        });
+      }
+      
+      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },
+    TotalSpending(){
+      var total=0
+      this.tableData.forEach((transaction) => {
+        total += parseInt(transaction.amount)
+      });
+      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },TodaySpending(){
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var day = moment(transaction.time).date();
+          console.log(day)
+          groupedTransaction[day] = groupedTransaction[day] || [];
+          groupedTransaction[day].push(transaction);
+      });
+      var total=0
+      console.log("DATE  ="+moment(moment.now()).date())
+      if(groupedTransaction[moment(moment.now()).date()]){
+        groupedTransaction[moment(moment.now()).date()].forEach((transaction) => {
+          total += parseInt(transaction.amount)
+        });
+      }
+      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },
+    bigLineChart(){
+        var groupedTransaction = {};
+        this.tableData.forEach((transaction) => {
+            var month = moment(transaction.time).month();
+            groupedTransaction[month] = groupedTransaction[month] || [];
+            groupedTransaction[month].push(transaction);
+        });
+        var datas = [[]];
+        for (let index = 0; index < moment(moment.now()).month()+1; index++) {
+          if(groupedTransaction[index]){
+            datas[0].push(groupedTransaction[index].length)
+          }else{
+            datas[0].push(0)
+          }
         }
-      ],
-      bigLineChart: {
-        activeIndex: 0,
+        var data = {activeIndex: 0,
         chartData: {
           datasets: [{
             ...bigChartDatasetOptions,
-            data: bigChartData[0]
+            data: datas[0]
           }],
           labels: bigChartLabels
         },
         extraOptions: chartConfigs.purpleChartOptions,
         gradientColors: config.colors.primaryGradient,
         gradientStops: [1, 0.4, 0],
-        categories: []
-      },
-      purpleLineChart: {
-        extraOptions: chartConfigs.purpleChartOptions,
-        chartData: {
-          labels: ['JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
-          datasets: [
-            {
-              label: 'Data',
-              fill: true,
-              borderColor: config.colors.primary,
-              borderWidth: 2,
-              borderDash: [],
-              borderDashOffset: 0.0,
-              pointBackgroundColor: config.colors.primary,
-              pointBorderColor: 'rgba(255,255,255,0)',
-              pointHoverBackgroundColor: config.colors.primary,
-              pointBorderWidth: 20,
-              pointHoverRadius: 4,
-              pointHoverBorderWidth: 15,
-              pointRadius: 4,
-              data: [80, 100, 70, 80, 120, 80]
-            }
-          ]
-        },
-        gradientColors: config.colors.primaryGradient,
-        gradientStops: [1, 0.2, 0]
-      },
-      greenLineChart: {
-        extraOptions: chartConfigs.greenChartOptions,
-        chartData: {
-          labels: ['JUL', 'AUG', 'SEP', 'OCT', 'NOV'],
-          datasets: [
-            {
-              label: 'My First dataset',
-              fill: true,
-              borderColor: config.colors.danger,
-              borderWidth: 2,
-              borderDash: [],
-              borderDashOffset: 0.0,
-              pointBackgroundColor: config.colors.danger,
-              pointBorderColor: 'rgba(255,255,255,0)',
-              pointHoverBackgroundColor: config.colors.danger,
-              pointBorderWidth: 20,
-              pointHoverRadius: 4,
-              pointHoverBorderWidth: 15,
-              pointRadius: 4,
-              data: [90, 27, 60, 12, 80]
-            }
-          ]
-        },
-        gradientColors: [
-          'rgba(66,134,121,0.15)',
-          'rgba(66,134,121,0.0)',
-          'rgba(66,134,121,0)'
-        ],
-        gradientStops: [1, 0.4, 0]
-      },
-      blueBarChart: {
-        extraOptions: chartConfigs.barChartOptions,
-        chartData: {
-          labels: ['USA', 'GER', 'AUS', 'UK', 'RO', 'BR'],
-          datasets: [
-            {
-              label: 'Countries',
-              fill: true,
-              borderColor: config.colors.info,
-              borderWidth: 2,
-              borderDash: [],
-              borderDashOffset: 0.0,
-              data: [53, 20, 10, 80, 100, 45]
-            }
-          ]
-        },
-        gradientColors: config.colors.primaryGradient,
-        gradientStops: [1, 0.4, 0]
-      }
-    };
-  },
-  computed: {
+        categories: []}
+        return data
+    },
     enableRTL () {
       return this.$route.query.enableRTL;
     },
@@ -327,6 +293,10 @@ export default {
       this.$refs.bigChart.updateGradients(chartData);
       this.bigLineChart.chartData = chartData;
       this.bigLineChart.activeIndex = index;
+    },timeFormat(row,column){
+        return moment(row[column.property]).format("YYYY MMM DD")
+    },toCurrencyString(row,column){
+        return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(row[column.property])
     }
   },
   mounted () {
@@ -334,4 +304,3 @@ export default {
   }
 }
 </script>
-<style></style>

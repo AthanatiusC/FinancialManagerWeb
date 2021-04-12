@@ -20,7 +20,7 @@
     </div>
 
     <ul class="navbar-nav" :class="$rtl.isRTL ? 'mr-auto' : 'ml-auto'">
-      <div class="search-bar input-group" @click="searchModalVisible = true">
+      <!-- <div class="search-bar input-group" @click="searchModalVisible = true">
         <button
           class="btn btn-link"
           id="search-button"
@@ -29,7 +29,6 @@
         >
           <i class="tim-icons icon-zoom-split"></i>
         </button>
-        <!-- You can choose types of search input -->
       </div>
       <modal
         :show.sync="searchModalVisible"
@@ -80,8 +79,10 @@
         <li class="nav-link">
           <a href="#" class="nav-item dropdown-item">Another one</a>
         </li>
-      </base-dropdown>
+      </base-dropdown> -->
+      
       <base-dropdown
+        title=""
         tag="li"
         :menu-on-right="!$rtl.isRTL"
         title-tag="a"
@@ -89,20 +90,19 @@
         title-classes="nav-link"
         menu-classes="dropdown-navbar"
       >
+      <li class="nav-link">
+        <NuxtLink class="nav-item dropdown-item" style="color:black" to='/dashboard/setting'>{{user.fullname}}</NuxtLink>
+      </li>
         <template
           slot="title"
         >
-          <div class="photo"><img src="img/mike.jpg" /></div>
+          <div class="photo"><img src="../../assets/icons/Cyberpunk Augmentation.png" /></div>
           <b class="caret d-none d-lg-block d-xl-block"></b>
           <p class="d-lg-none">Log out</p>
         </template>
-        <li class="nav-link">
-          <NuxtLink class="nav-item dropdown-item" style="color:black" to='/dashboard/setting'>Profile</NuxtLink>
-        </li>
         <div class="dropdown-divider"></div>
         <li class="nav-link" @click="logout()">
           <NuxtLink class="nav-item dropdown-item"  style="color:black" to='/'>Log Out</NuxtLink>
-          <!-- <v-btn rounded color="secondary" @click="logout()" href="#" class="nav-item dropdown-item">Log out</v-btn> -->
         </li>
       </base-dropdown>
     </ul>
@@ -114,6 +114,15 @@ import BaseNav from '@/components/Navbar/BaseNav'
 import Modal from '@/components/Modal'
 
 export default {
+  async fetch(){
+    var id = this.$cookies.get("id")
+    var token = this.$cookies.get("refresh_token")
+    this.$axios.setHeader("refresh_token",token)
+    this.$axios.setHeader("user_id",id)
+    const data = await this.$axios.$get("api/v1/user/"+id).then((data)=>{
+      this.user = data.data  
+    });
+  },
   components: {
     CollapseTransition,
     BaseNav,
@@ -134,6 +143,9 @@ export default {
   },
   data() {
     return {
+      user:{
+        fullname:''
+      },
       activeNotifications: false,
       showMenu: false,
       searchModalVisible: false,

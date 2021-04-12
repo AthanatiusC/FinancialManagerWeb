@@ -27,8 +27,7 @@ export default {
     this.$axios.setHeader("refresh_token",token)
     this.$axios.setHeader("user_id",id)
     const data = await this.$axios.$get("api/v1/user/"+id).then((data)=>{
-      this.user = data.data  
-      console.log(data.data)
+      this.user = data.data
     });
   },
 };
