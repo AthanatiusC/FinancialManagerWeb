@@ -6,8 +6,8 @@
         <template slot="header">
           <div class="row">
             <div class="col-sm-6" :class="isRTL ? 'text-right' : 'text-left'">
-              <h5 class="card-category">Total transactions made</h5>
-              <h2 class="card-title">History</h2>
+              <h5 class="card-category">Total transactions made in</h5>
+              <h2 class="card-title">2021</h2>
             </div>
             <!-- <div class="col-sm-6 d-flex d-sm-block">
               <div
@@ -51,24 +51,122 @@
         </div>
       </card>
     </div>
+    
     <div class="col-4">
       <card class="text-center">
-        <h4 class="card-title">Total Life spending:</h4>
-        <h2 class="card-title">{{TotalSpending}}</h2>
+        <div v-if="TodaySpending<YesterdaySpending">
+          <h4 class="card-title">Today's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#42b883"><span class="tim-icons icon-minimal-up"/> {{parseCurrency(TodaySpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Yesterday's spending was <b style="color:#fd5d93">{{parseCurrency(YesterdaySpending)}}!</b>
+              </p>
+              <p>
+                Your spending is <b style="color:#42b883">{{parseCurrency(YesterdaySpending-TodaySpending)}}</b> lesser than yesterday!
+              </p>
+            </div>
+          </h5>
+        </div>
+        <div v-else>
+          <h4 class="card-title">Today's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#fd5d93"><span class="tim-icons icon-minimal-down"/> {{parseCurrency(TodaySpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Yesterday's spending was <b style="color:#1d8cf8">{{parseCurrency(YesterdaySpending)}}! </b>
+              </p>
+              <p>
+                Caution! your spending is <b style="color:#fd5d93">{{parseCurrency(YesterdaySpending-TodaySpending)}}</b> bigger than Yesterday!
+              </p>
+            </div>
+          </h5>
+        </div>
       </card>
     </div>
     <div class="col-4">
       <card class="text-center">
-        <h4 class="card-title">This Month spending:</h4>
-        <h2 class="card-title">{{TotalMonthSpending}}</h2>
+        <div v-if="CurrentMonthSpending<LastMonthSpending">
+          <h4 class="card-title">This month's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#42b883"><span class="tim-icons icon-minimal-up"/> {{parseCurrency(CurrentMonthSpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Last month's spending was <b style="color:#fd5d93">{{parseCurrency(LastMonthSpending)}}!</b>
+              </p>
+              <p>
+                Your spending is <b style="color:#42b883">{{parseCurrency(LastMonthSpending-CurrentMonthSpending)}}</b> lesser than Last month!
+              </p>
+            </div>
+          </h5>
+        </div>
+        <div v-else>
+          <h4 class="card-title">This month's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#fd5d93"><span class="tim-icons icon-minimal-down"/> {{parseCurrency(CurrentMonthSpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Last months's spending was <b style="color:#1d8cf8">{{parseCurrency(LastMonthSpending)}}! </b>
+              </p>
+              <p>
+                Caution! your spending is <b style="color:#fd5d93">{{parseCurrency(LastMonthSpending-CurrentMonthSpending)}}</b> bigger than last month!
+              </p>
+            </div>
+          </h5>
+        </div>
       </card>
     </div>
     <div class="col-4">
       <card class="text-center">
-        <h4 class="card-title">Today's spending:</h4>
-        <h2 class="card-title">{{TodaySpending}}</h2>
+        <div v-if="CurrentYearlySpending<LastYearlySpending">
+          <h4 class="card-title">This year's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#42b883"><span class="tim-icons icon-minimal-up"/>{{parseCurrency(CurrentYearlySpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Last years's spending was <b style="color:#fd5d93">{{parseCurrency(LastYearlySpending)}}!</b>
+              </p>
+              <p>
+                Your spending is <b style="color:#42b883">{{parseCurrency(CurrentYearlySpending-LastYearlySpending)}}</b> lesser than last year!
+              </p>
+            </div>
+          </h5>
+        </div>
+        <div v-else>
+          <h4 class="card-title">This year's spending is</h4>
+          <h2 class="card-title">
+            <b style="color:#fd5d93"><span class="tim-icons icon-minimal-down"/> {{parseCurrency(CurrentYearlySpending)}}</b>
+          </h2>
+          <hr style="border-color: #2b3553;margin:5px 15px">
+          <h5 class="card-footer" style="padding:0px;margin:0px"> 
+            <div class="stats" style="margin:10px 15px;">
+              <p>
+                Last years's spending was <b style="color:#1d8cf8">{{parseCurrency(LastYearlySpending)}}! </b>
+              </p>
+              <p>
+                Caution! your spending is <b style="color:#fd5d93">{{parseCurrency(CurrentYearlySpending-LastYearlySpending)}}</b> bigger than last year!
+              </p>
+            </div>
+          </h5>
+        </div>
       </card>
     </div>
+    
 
     
     <!-- <div class="col-lg-5">
@@ -101,13 +199,7 @@
           <el-table-column
               min-width="150"
               sortable
-              label="ID"
-              property="id"
-          ></el-table-column>
-          <el-table-column
-              min-width="150"
-              sortable
-              label="Transaction"
+              label="Transaction Name"
               property="transaction"
           ></el-table-column>
           <el-table-column
@@ -115,13 +207,10 @@
               sortable
               label="Recipt"
               property="recipt"
-          ></el-table-column>
-          <el-table-column
-              min-width="150"
-              sortable
-              label="Description"
-              property="description"
-          ></el-table-column>
+              :formatter="reciptFormat"
+          >
+            <!-- <label class="btn-primary rounded pt-1 pl-4 pr-4">{{reciptFormat(scope)}}</label> -->
+          </el-table-column>
           <el-table-column
               min-width="150"
               sortable
@@ -200,44 +289,101 @@ export default {
     };
   },
   computed: {
-    TotalMonthSpending(){
+    CurrentMonthSpending(){
+      var total=0
       var groupedTransaction = {};
       this.tableData.forEach((transaction) => {
           var month = moment(transaction.time).month();
           groupedTransaction[month] = groupedTransaction[month] || [];
           groupedTransaction[month].push(transaction);
       });
-      var total=0
       if(groupedTransaction[moment(moment.now()).month()]){
         groupedTransaction[moment(moment.now()).month()].forEach((transaction) => {
           total += parseInt(transaction.amount)
         });
       }
       
-      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
-    },
-    TotalSpending(){
+      return total  
+      // return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },LastMonthSpending(){
       var total=0
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var month = moment(transaction.time).month();
+          groupedTransaction[month] = groupedTransaction[month] || [];
+          groupedTransaction[month].push(transaction);
+      });
+      if(groupedTransaction[moment(moment().subtract(1, 'months')).month()]){
+        groupedTransaction[moment(moment().subtract(1, 'months')).month()].forEach((transaction) => {
+          total += parseInt(transaction.amount)
+        });
+      }
+      return total  
+      
+      // return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },
+    CurrentYearlySpending(){
+      var total=0
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var year = moment(transaction.time).year()-1;
+
+          groupedTransaction[year] = groupedTransaction[year] || [];
+          groupedTransaction[year].push(transaction);
+      });
       this.tableData.forEach((transaction) => {
         total += parseInt(transaction.amount)
       });
-      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+
+      return total
+      // return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+    },
+    LastYearlySpending(){
+      var total=0
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var year = moment(transaction.time).year();
+
+          groupedTransaction[year] = groupedTransaction[year] || [];
+          groupedTransaction[year].push(transaction);
+      });
+      if(groupedTransaction[moment(moment().subtract(1, 'years')).year()]){
+        groupedTransaction[moment(moment().subtract(1, 'years')).year()].forEach((transaction) => {
+          total += parseInt(transaction.amount)
+        });
+      }
+      return total
+      // return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
     },TodaySpending(){
       var groupedTransaction = {};
       this.tableData.forEach((transaction) => {
           var day = moment(transaction.time).date();
-          console.log(day)
           groupedTransaction[day] = groupedTransaction[day] || [];
           groupedTransaction[day].push(transaction);
       });
       var total=0
-      console.log("DATE  ="+moment(moment.now()).date())
       if(groupedTransaction[moment(moment.now()).date()]){
         groupedTransaction[moment(moment.now()).date()].forEach((transaction) => {
           total += parseInt(transaction.amount)
         });
       }
-      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+      return total
+    },YesterdaySpending(){
+      var groupedTransaction = {};
+      this.tableData.forEach((transaction) => {
+          var day = moment(transaction.time).date();
+          groupedTransaction[day] = groupedTransaction[day] || [];
+          groupedTransaction[day].push(transaction);
+      });
+      var total=0
+
+      if(groupedTransaction[moment(moment().subtract(1, 'days')).date()]){
+        groupedTransaction[moment(moment().subtract(1, 'days')).date()].forEach((transaction) => {
+          total += parseInt(transaction.amount)
+        });
+      }
+      // return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(total)
+      return total
     },
     bigLineChart(){
         var groupedTransaction = {};
@@ -293,10 +439,17 @@ export default {
       this.$refs.bigChart.updateGradients(chartData);
       this.bigLineChart.chartData = chartData;
       this.bigLineChart.activeIndex = index;
-    },timeFormat(row,column){
-        return moment(row[column.property]).format("YYYY MMM DD")
+    },
+    parseCurrency(number){
+      return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(number)
+    },
+    timeFormat(row,column){
+        return moment(row[column.property]).format("YYYY MMMM do dddd")
     },toCurrencyString(row,column){
         return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(row[column.property])
+    },reciptFormat(row,column){
+      let format = String(row[column.property]).split("\\");
+      return format[format.length-1]
     }
   },
   mounted () {

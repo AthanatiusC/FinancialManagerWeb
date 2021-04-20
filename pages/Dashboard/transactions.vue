@@ -1,6 +1,23 @@
 <template>
     <div>
         <div>
+            <modal :show.sync="modals.picture"
+                body-classes="p-0"
+                modal-classes="modal-dialog-centered modal-sm"
+                style="overflow-y:hidden;">
+                <card type="secondary"
+                    header-classes="bg-white pb-5"
+                    body-classes="px-lg-5 py-lg-5"
+                    class="border-0 mb-0">
+                    <img slot="image" ref="imageshow" class="card-img-top" src="" alt="Recipt Image"/>
+                    <h4 class="card-title">Name : {{imagedata.name}}</h4>
+                    <h4 class="card-title">Extension : {{imagedata.extension}}</h4>
+                    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+                    <div class="text-center mt-4">
+                        <base-button @click="modals.picture = false" type="success">Update!</base-button>
+                    </div>
+                </card>
+            </modal>
             <modal :show.sync="modals.CreateTransactionModal"
                body-classes="p-0"
                modal-classes="modal-dialog-centered modal-sm"
@@ -26,18 +43,38 @@
                                     v-model="transaction.amount"
                                     >
                         </base-input>
-                        <base-input label="Recipt"
-                                    type="trecipt"
-                                    placeholder="Enter Recipt"
-                                    v-model="transaction.recipt"
-                                    >
-                        </base-input>
-                        <base-input label="Type"
+                        <label>Recipt</label>
+                        <div>
+                            <label class="btn-primary rounded pt-1 pl-4 pr-4">
+                                <input  label="Browse Recipt image"
+                                        style="overflow:hidden;width: 0;"
+                                        type="file"
+                                        accept="image/x-png,image/jpeg"
+                                        @change="upload($event.target.files)"
+                                        />Chose File
+                            </label>
+                            <label class="col-6">
+                                <div class="text-truncate" v-if="transaction.recipt">{{transaction.recipt}}</div>
+                                <div v-else>Browse File</div>
+                            </label>
+                        </div>
+                        <!-- <base-input label="Type"
                                     type="ttype"
                                     placeholder="Enter Type"
                                     v-model="transaction.types"
                                     >
+                        </base-input> -->
+                        <base-input 
+                            label="Type"
+                            class="customselect"
+                            v-model="transaction.types">
+                            <select v-model="transaction.types" class="form-control" id="exampleFormControlSelect2">
+                                <option style="color:black;font-family:Poppins,sans-serif">Wired</option>
+                                <option style="color:black;font-family:Poppins,sans-serif">Direct</option>
+                                <option style="color:black;font-family:Poppins,sans-serif">Others</option>
+                            </select>
                         </base-input>
+                        <label >DoB</label>
                         <template>
                             <base-input>
                             <el-date-picker 
@@ -85,18 +122,32 @@
                                     v-model="transaction2.amount"
                                     >
                         </base-input>
-                        <base-input label="Recipt"
-                                    type="trecipt"
-                                    placeholder="Enter Recipt"
-                                    v-model="transaction2.recipt"
-                                    >
+                        <label>Recipt</label>
+                        <div>
+                            <label class="btn-primary rounded pt-1 pl-4 pr-4">
+                                <input  label="Browse Recipt image"
+                                        style="overflow:hidden;width: 0;"
+                                        type="file"
+                                        accept="image/x-png,image/jpeg"
+                                        @change="upload2($event.target.files)"
+                                        />Chose File
+                            </label>
+                            <label class="col-6">
+                                <div class="text-truncate" v-if="transaction2.recipt">{{transaction2.recipt}}</div>
+                                <div v-else>Browse File</div>
+                            </label>
+                        </div>
+                        <base-input 
+                            label="Type"
+                            class="customselect"
+                            v-model="transaction2.types">
+                            <select v-model="transaction2.types" class="form-control" id="exampleFormControlSelect2">
+                                <option style="color:black;font-family:Poppins,sans-serif">Wired</option>
+                                <option style="color:black;font-family:Poppins,sans-serif">Direct</option>
+                                <option style="color:black;font-family:Poppins,sans-serif">Others</option>
+                            </select>
                         </base-input>
-                        <base-input label="Type"
-                                    type="ttype"
-                                    placeholder="Enter Type"
-                                    v-model="transaction2.types"
-                                    >
-                        </base-input>
+                        <label >DoB</label>
                         <template>
                             <base-input>
                             <el-date-picker 
@@ -142,8 +193,10 @@
                     min-width="150"
                     sortable
                     label="Recipt"
-                    property="recipt"
-                ></el-table-column>
+                    v-slot="scope"
+                >
+                    <label class="btn-primary rounded pt-1 pl-4 pr-4" @click="showImage(scope)">{{reciptFormat(scope)}}</label>
+                </el-table-column>
                 <el-table-column
                     min-width="150"
                     sortable
@@ -211,6 +264,10 @@ export default {
     },
     data(){
         return{
+            imagedata:{
+                name:null,
+                extension:null
+            },
             transaction:{
                 userid:null,
                 transaction:null,
@@ -231,12 +288,122 @@ export default {
             },
             modals:{
                 CreateTransactionModal:false,
-                UpdateTransaction:false
+                UpdateTransaction:false,
+                picture:false
             },
             tableData: [],
         }
     },
     methods:{
+        showImage(scope){
+            try {
+                this.path = scope.row.recipt
+                this.modals.picture = true;
+                let img = new Image();
+                img.src = this.path
+                let format = String(scope.row.recipt).split("\\");
+                let name = format[format.length-1]
+                let extension = String(name).split(".");
+
+                this.imagedata.extension = extension[extension.length-1]
+                this.imagedata.name = name
+
+                this.$refs.imageshow.src = require("@/assets/asset/"+name); 
+            } catch (error) {
+                this.$refs.imageshow.src = require("@/assets/notfound.jpg"); 
+                this.$notify({
+                    type: 'error',
+                    title: 'Error occured!',
+                    text: error
+                })
+            }
+        },
+        reciptFormat(scope){
+            let format = String(scope.row.recipt).split("\\");
+            return format[format.length-1];
+        },
+        async upload(event){
+            this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
+            this.$axios.setHeader("user_id",this.$cookies.get("id"))
+            let img = event[0]
+            this.transaction.recipt = img.name
+            if (Math.floor(img.size/1000000)<=25){
+                let fd= new FormData()
+                fd.append('image', img)
+                await this.$axios.$post('/api/v1/manager/upload', fd).then((res)=>{
+                    if(res.data){
+                        this.transaction.recipt = res.data
+                        this.$notify({
+                            type: 'success',
+                            title: 'Success upload!',
+                            text: 'Image successfully uploaded!'
+                        })
+                    }else{
+                        this.$notify({
+                            type: 'error',
+                            title: 'Failed to upload!',
+                            text: res.message,
+                            // data: {res:res}
+                        })
+                    }
+                }).catch((err)=>{
+                    if(!err.status){
+                        this.$notify({
+                            type: 'error',
+                            title: 'Something unexpected has happend!',
+                            text: err,
+                        })
+                    }
+                })
+            }else{
+                this.$notify({
+                    type: 'error',
+                    title: 'Failed to upload!',
+                    text: 'The specified ile is too large, the specified file size must be less than 2.5 Mb!'
+                })
+            }
+        },
+        async upload2(event){
+            this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
+            this.$axios.setHeader("user_id",this.$cookies.get("id"))
+            let img = event[0]
+            this.transaction2.recipt = img.name
+            if (Math.floor(img.size/1000000)<=25){
+                let fd= new FormData()
+                fd.append('image', img)
+                await this.$axios.$post('/api/v1/manager/upload', fd).then((res)=>{
+                    if(res.data){
+                        this.transaction2.recipt = res.data
+                        this.$notify({
+                            type: 'success',
+                            title: 'Success upload!',
+                            text: 'Image successfully uploaded!'
+                        })
+                    }else{
+                        this.$notify({
+                            type: 'error',
+                            title: 'Failed to upload!',
+                            text: res.message,
+                            // data: {res:res}
+                        })
+                    }
+                }).catch((err)=>{
+                    if(!err.status){
+                        this.$notify({
+                            type: 'error',
+                            title: 'Something unexpected has happend!',
+                            text: err,
+                        })
+                    }
+                })
+            }else{
+                this.$notify({
+                    type: 'error',
+                    title: 'Failed to upload!',
+                    text: 'The specified ile is too large, the specified file size must be less than 2.5 Mb!'
+                })
+            }
+        },
         async CreateTransaction(){
             if(this.transaction.userid||this.transaction.transaction||this.transaction.amount||this.transaction.recipt||this.transaction.description||this.transaction.types||this.transaction.time){
                 this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
@@ -278,11 +445,11 @@ export default {
             }
         },
         async UpdateTransaction(){
-            if(this.transaction.userid||this.transaction.transaction||this.transaction.amount||this.transaction.recipt||this.transaction.description||this.transaction.types||this.transaction.time){
+            if(this.transaction2.userid||this.transaction2.transaction||this.transaction2.amount||this.transaction2.recipt||this.transaction2.description||this.transaction2.types||this.transaction2.time){
                 this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
                 this.$axios.setHeader("user_id",this.$cookies.get("id"))
                 this.transaction.userid=this.$cookies.get("id")
-                await this.$axios.$put("/api/v1/manager/update",this.transaction).then((res)=>{
+                await this.$axios.$put("/api/v1/manager/update",this.transaction2).then((res)=>{
                     if(res.data){
                         this.$notify({
                             type: 'success',
@@ -356,3 +523,8 @@ export default {
     }
 }
 </script>
+<style>
+.customselect.decorated{
+    color: black;
+}
+</style>

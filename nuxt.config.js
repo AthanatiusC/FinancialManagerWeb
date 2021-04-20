@@ -72,6 +72,7 @@ export default {
     lazy: true,
     langDir: 'lang/',
     defaultLocale: 'en',
+    silentTranslationWarn: process.env.NODE_ENV === 'production'
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
