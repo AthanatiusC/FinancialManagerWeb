@@ -121,7 +121,7 @@
                 Last months's spending was <b style="color:#1d8cf8">{{parseCurrency(LastMonthSpending)}}! </b>
               </p>
               <p>
-                Caution! your spending is <b style="color:#fd5d93">{{parseCurrency(LastMonthSpending-CurrentMonthSpending)}}</b> bigger than last month!
+                Caution! your spending is <b style="color:#fd5d93">{{parseCurrency(CurrentMonthSpending-LastMonthSpending)}}</b> bigger than last month!
               </p>
             </div>
           </h5>
