@@ -3,7 +3,7 @@
         <v-container fluid fill-height>
             <v-row align="center" justify="center">
                 <v-col md="3">
-                    <v-card color="#f4f7f5" shaped elevation="10">
+                <v-card color="#f4f7f5" shaped elevation="10">
                     <v-flex>
                         <v-img class="mx-auto" contain max-width="200px" :src="require('@/assets/icons/Fingerprint Padlock.png')" alt="">
                         </v-img>

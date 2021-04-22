@@ -52,17 +52,17 @@
                         </base-input>
                         <label>Receipt</label>
                         <div>
-                            <label class="btn btn-link btn-info">
+                            <label class="btn-primary rounded pt-1 pl-4 pr-4">
                                 <input  label="Browse receipt image"
                                         style="overflow:hidden;width: 0;"
                                         type="file"
                                         accept="image/x-png,image/jpeg"
                                         @change="upload($event.target.files)"
-                                        />Browse File
+                                        />Chose File
                             </label>
                             <label class="col-6">
-                                <div class="text-truncate" v-if="transaction.recipt">{{transaction.recipt}}</div>
-                                <div v-else></div>
+                                <div class="text-truncate" v-if="transaction2.recipt">{{transaction2.recipt}}</div>
+                                <div v-else>Browse File</div>
                             </label>
                         </div>
                         <!-- <base-input label="Type"
