@@ -11,7 +11,7 @@
                     </v-flex> 
                     <v-card-text>
                         <v-row v-show="isLogin" justify="center" >
-                            <div class="semipolar-spinner text-center" :style="spinnerStyle">
+                            <div class="semipolar-spinner text-center" >
                             <div class="ring"></div>
                             <div class="ring"></div>
                             <div class="ring"></div>

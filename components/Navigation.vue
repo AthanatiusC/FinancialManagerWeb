@@ -92,7 +92,6 @@
 export default {
   computed:{
     isAllowed(){
-      console.log()
       if($nuxt.$route.path=="/"){
         return true
       }else{

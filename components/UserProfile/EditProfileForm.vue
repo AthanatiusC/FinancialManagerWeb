@@ -66,6 +66,7 @@
 import moment from 'moment'
 import {DatePicker, TimeSelect} from 'element-ui'
 export default {
+  middleware:'authentication',
   components:{
     [DatePicker.name]: DatePicker,
     [TimeSelect.name]: TimeSelect,

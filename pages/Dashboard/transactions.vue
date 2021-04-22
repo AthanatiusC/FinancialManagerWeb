@@ -259,6 +259,7 @@ import {DatePicker, TimeSelect} from 'element-ui'
 import moment from 'moment'
 
 export default {
+    middleware:'authentication',
     async fetch(){
         this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
         this.$axios.setHeader("user_id",this.$cookies.get("id"))
@@ -362,13 +363,16 @@ export default {
                     fire.test = "test"
                     await fire.put(event[0])
                     fire.getDownloadURL().then((res)=> {
-                        console.log('Got download URL : '+res);
                         if(res){
                             this.transaction2.recipt = res
                         }
                     });
                 } catch (e) {
-                    console.log(e)
+                    this.$notify({
+                        type: 'error',
+                        title: 'Failed to upload!',
+                        text: e
+                    })
                 }
             }else{
                 this.$notify({
@@ -390,13 +394,16 @@ export default {
                     fire.test = "test"
                     await fire.put(event[0])
                     fire.getDownloadURL().then((res)=> {
-                        console.log('Got download URL : '+res);
                         if(res){
                             this.transaction2.recipt = res
                         }
                     });
                 } catch (e) {
-                    console.log(e)
+                    this.$notify({
+                        type: 'error',
+                        title: 'Failed to upload!',
+                        text: e
+                    })
                 }
             }else{
                 this.$notify({
@@ -411,7 +418,6 @@ export default {
                 this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
                 this.$axios.setHeader("user_id",this.$cookies.get("id"))
                 this.transaction.userid=this.$cookies.get("id")
-                console.log(this.transaction)
                 await this.$axios.$post("/api/v1/manager/insert",this.transaction).then((res)=>{
                     if(res.data.id){
                         this.$notify({
