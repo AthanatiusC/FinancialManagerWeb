@@ -54,7 +54,36 @@ export default {
     '@nuxtjs/pwa',
     'cookie-universal-nuxt',
     '@nuxtjs/axios',
-    'nuxt-i18n'
+    'nuxt-i18n',
+    ['@nuxtjs/firebase',
+      {
+        lazy: true,
+        config: {
+          apiKey: 'AIzaSyAxKh7Qr2DU2w5weYz1pPnnopa1dgy1qKg',
+          authDomain: 'finageapi.firebaseapp.com',
+          projectId: 'finageapi',
+          storageBucket: 'finageapi.appspot.com',
+          messagingSenderId: '149644929001',
+          appId: '1:149644929001:web:a0b775d3292efcfb0b4d78',
+          measurementId: 'G-ZYTBM992GQ'
+        },
+        services: {
+          storage: true, // Just as example. Can be any other service.
+          auth:true
+        },
+        auth: {
+          persistence: 'local', // default
+          initialize: {
+            onAuthStateChangedMutation: 'ON_AUTH_STATE_CHANGED_MUTATION',
+            onAuthStateChangedAction: 'onAuthStateChangedAction',
+            subscribeManually: false
+          },
+          ssr: false, // default
+          emulatorPort: 9099,
+          emulatorHost: 'http://localhost',
+        }
+      }
+    ]
     // 'nuxt-izitoast',
     // '@plugins/vue-notification.js'
   ],
@@ -119,6 +148,7 @@ export default {
     }
   },
   axios: {
-    baseURL: 'http://localhost:8088'
+    // baseURL: 'http://localhost:8088'
+    baseURL: 'https://finageapi.herokuapp.com/'
   }
 }

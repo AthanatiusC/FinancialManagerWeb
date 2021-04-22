@@ -448,8 +448,9 @@ export default {
     },toCurrencyString(row,column){
         return new Intl.NumberFormat('id-ID', { style: 'currency', currency: 'IDR' }).format(row[column.property])
     },reciptFormat(row,column){
-      let format = String(row[column.property]).split("\\");
-      return format[format.length-1]
+      let temp = String(row.recipt).split("%2F");
+      let format = String(temp[temp.length-1]).split("?");
+      return format[0];
     }
   },
   mounted () {

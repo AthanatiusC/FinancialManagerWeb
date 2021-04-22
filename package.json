@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "^3.0.0-beta.16",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/firebase":"^8.2.7",
+    "firebase":"^8.4.1",
     "bootstrap": "4.3.1",
     "chart.js": "^2.7.1",
     "cookie-universal-nuxt": "^2.1.4",
@@ -34,7 +37,6 @@
     "@nuxt/types": "^2.15.3",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/vuetify": "^1.11.3",
-    "@nuxtjs/axios": "^5.13.1",
     "babel-plugin-component": "^1.1.1"
   },
   "description": "## Build Setup",

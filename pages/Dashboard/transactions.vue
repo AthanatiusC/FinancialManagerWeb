@@ -10,12 +10,14 @@
                     body-classes="px-lg-5 py-lg-5"
                     class="border-0 mb-0">
                     <img slot="image" ref="imageshow" class="card-img-top" src="" alt="Receipt Image"/>
-                    <h4 class=card-title>Filename - {{imagedata.name}}</h4>
+                    <h4 class=card-title>{{imagedata.name}}</h4>
                     <h5 class="card-footer" style="padding:0px;margin:0px"> 
                     <hr style="border-color: #2b3553;margin:5px 0px">
-                    <di style="color:#b4b4bb" class="card-text">
-                        {{imagedata.description}}
-                    </di>
+                    <div style="color:#b4b4bb" class="card-text">
+                        <div>
+                            {{imagedata.description}}
+                        </div>
+                    </div>
                     <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
                     <div class="text-center mt-4">
                         <base-button @click="modals.picture = false" class="btn btn-info btn-simple">Ok</base-button>
@@ -243,8 +245,8 @@
                 </el-table-column>
             </el-table>
             <!-- <card-footer> -->
-                <el-pagination layout="prev, pager, next" :total="this.tableData.length" @current-change="setPage">
-                </el-pagination>
+                <!-- <el-pagination layout="prev, pager, next" :total="this.tableData.length" @current-change="setPage">
+                </el-pagination> -->
             <!-- </card-footer> -->
         </card>
     </div>    
@@ -279,6 +281,7 @@ export default {
             imagedata:{
                 name:null,
                 extension:null,
+                url:null,
                 description:null
             },
             transaction:{
@@ -322,15 +325,16 @@ export default {
                 this.modals.picture = true;
                 let img = new Image();
                 img.src = this.path
-                let format = String(scope.row.recipt).split("\\");
-                let name = format[format.length-1]
+                let format = String(scope.row.recipt).split("%2F");
+                let name = String(format[format.length-1]).split("?")[0];
                 let extension = String(name).split(".");
 
                 this.imagedata.extension = extension[extension.length-1]
                 this.imagedata.name = name
+                this.imagedata.url = this.path
                 this.imagedata.description = String(scope.row.description)
 
-                this.$refs.imageshow.src = require("@/assets/asset/"+name); 
+                this.$refs.imageshow.src = this.path; 
             } catch (error) {
                 this.$refs.imageshow.src = require("@/assets/notfound.jpg"); 
                 this.$notify({
@@ -341,42 +345,31 @@ export default {
             }
         },
         reciptFormat(scope){
-            let format = String(scope.row.recipt).split("\\");
-            return format[format.length-1];
+            let temp = String(scope.row.recipt).split("%2F");
+            let format = String(temp[temp.length-1]).split("?");
+            return format[0];
+        },getExtension(filename){
+            let extension = String(filename).split(".");
+            return extension[extension.length-1]
         },
         async upload(event){
-            this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
-            this.$axios.setHeader("user_id",this.$cookies.get("id"))
             let img = event[0]
-            this.transaction.recipt = img.name
+            this.transaction2.recipt = img.name
             if (Math.floor(img.size/1000000)<=25){
-                let fd= new FormData()
-                fd.append('image', img)
-                await this.$axios.$post('/api/v1/manager/upload', fd).then((res)=>{
-                    if(res.data){
-                        this.transaction.recipt = res.data
-                        this.$notify({
-                            type: 'success',
-                            title: 'Success upload!',
-                            text: 'Image successfully uploaded!'
-                        })
-                    }else{
-                        this.$notify({
-                            type: 'error',
-                            title: 'Failed to upload!',
-                            text: res.message,
-                            // data: {res:res}
-                        })
-                    }
-                }).catch((err)=>{
-                    if(!err.status){
-                        this.$notify({
-                            type: 'error',
-                            title: 'Something unexpected has happend!',
-                            text: err,
-                        })
-                    }
-                })
+                try {
+                    await this.$fire.storageReady()
+                    let fire = this.$fire.storage.ref('receipt/transaction-'+this.transaction2.id+'.'+this.getExtension(img.name))
+                    fire.test = "test"
+                    await fire.put(event[0])
+                    fire.getDownloadURL().then((res)=> {
+                        console.log('Got download URL : '+res);
+                        if(res){
+                            this.transaction2.recipt = res
+                        }
+                    });
+                } catch (e) {
+                    console.log(e)
+                }
             }else{
                 this.$notify({
                     type: 'error',
@@ -386,38 +379,25 @@ export default {
             }
         },
         async upload2(event){
-            this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
-            this.$axios.setHeader("user_id",this.$cookies.get("id"))
+            // this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))
+            // this.$axios.setHeader("user_id",this.$cookies.get("id"))
             let img = event[0]
             this.transaction2.recipt = img.name
             if (Math.floor(img.size/1000000)<=25){
-                let fd= new FormData()
-                fd.append('image', img)
-                await this.$axios.$post('/api/v1/manager/upload', fd).then((res)=>{
-                    if(res.data){
-                        this.transaction2.recipt = res.data
-                        this.$notify({
-                            type: 'success',
-                            title: 'Success upload!',
-                            text: 'Image successfully uploaded!'
-                        })
-                    }else{
-                        this.$notify({
-                            type: 'error',
-                            title: 'Failed to upload!',
-                            text: res.message,
-                            // data: {res:res}
-                        })
-                    }
-                }).catch((err)=>{
-                    if(!err.status){
-                        this.$notify({
-                            type: 'error',
-                            title: 'Something unexpected has happend!',
-                            text: err,
-                        })
-                    }
-                })
+                try {
+                    await this.$fire.storageReady()
+                    let fire = this.$fire.storage.ref('receipt/transaction-'+this.transaction2.id+'.'+this.getExtension(img.name))
+                    fire.test = "test"
+                    await fire.put(event[0])
+                    fire.getDownloadURL().then((res)=> {
+                        console.log('Got download URL : '+res);
+                        if(res){
+                            this.transaction2.recipt = res
+                        }
+                    });
+                } catch (e) {
+                    console.log(e)
+                }
             }else{
                 this.$notify({
                     type: 'error',
