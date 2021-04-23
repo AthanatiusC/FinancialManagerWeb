@@ -61,7 +61,7 @@
                                         />Chose File
                             </label>
                             <label class="col-6">
-                                <div class="text-truncate" v-if="transaction2.recipt">{{transaction2.recipt}}</div>
+                                <div class="text-truncate" v-if="transaction.recipt">{{transaction.recipt}}</div>
                                 <div v-else>Browse File</div>
                             </label>
                         </div>
@@ -359,12 +359,12 @@ export default {
             if (Math.floor(img.size/1000000)<=25){
                 try {
                     await this.$fire.storageReady()
-                    let fire = this.$fire.storage.ref('receipt/transaction-'+this.transaction2.id+'.'+this.getExtension(img.name))
+                    let fire = this.$fire.storage.ref('receipt/transaction-'+this.transaction.id+'.'+this.getExtension(img.name))
                     fire.test = "test"
                     await fire.put(event[0])
                     fire.getDownloadURL().then((res)=> {
                         if(res){
-                            this.transaction2.recipt = res
+                            this.transaction.recipt = res
                         }
                     });
                 } catch (e) {

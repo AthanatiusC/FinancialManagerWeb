@@ -91,7 +91,7 @@
         menu-classes="dropdown-navbar"
       >
       <li class="nav-link">
-        <NuxtLink class="nav-item dropdown-item" style="color:black" to='/dashboard/setting'>{{user.fullname}}</NuxtLink>
+        <NuxtLink class="nav-item dropdown-item" style="color:black" to='/dashboard/setting'>{{$cookies.get("fullname")}}</NuxtLink>
       </li>
         <template
           slot="title"
@@ -115,13 +115,15 @@ import Modal from '@/components/Modal'
 
 export default {
   async fetch(){
-    var id = this.$cookies.get("id")
-    var token = this.$cookies.get("refresh_token")
-    this.$axios.setHeader("refresh_token",token)
-    this.$axios.setHeader("user_id",id)
-    await this.$axios.$get("api/v1/user/"+id).then((data)=>{
-      this.user = data.data  
-    });
+    // var id = this.$cookies.get("id")
+    // var token = this.$cookies.get("refresh_token")
+    // this.$axios.setHeader("refresh_token",token)
+    // this.$axios.setHeader("user_id",id)
+    // await this.$axios.$get("api/v1/user/"+id).then((data)=>{
+    //   console.log(data)
+    //   this.user = data.data  
+    //   // console.log(this.user)
+    // });
   },
   components: {
     CollapseTransition,
@@ -143,9 +145,7 @@ export default {
   },
   data() {
     return {
-      user:{
-        fullname:''
-      },
+      user:{},
       activeNotifications: false,
       showMenu: false,
       searchModalVisible: false,

@@ -36,6 +36,7 @@ export default {
   plugins: [
     { src: "~/plugins/vue-notification.js", ssr: false },
     { src: "~/plugins/dashboard-plugin.js", ssr: false },
+    { src: "~/plugins/axios.js", ssr: false },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
