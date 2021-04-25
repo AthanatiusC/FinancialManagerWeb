@@ -7,7 +7,6 @@ export default function ({ store,$axios, $cookies }) {
     $axios.onError(error => {
         let id = $cookies.get("id")
         const code = parseInt(error.response && error.response.status)
-        console.log(code)
         if (code === 401) {
             let fd = new FormData()
             fd.append("id",id)

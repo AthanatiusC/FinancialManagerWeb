@@ -24,7 +24,7 @@
         </sidebar-item>
         <sidebar-item
           :link="{
-            name: $t('transactions'),
+            name: 'transactions',
             icon: 'tim-icons icon-money-coins',
             path: '/dashboard/transactions'
           }"

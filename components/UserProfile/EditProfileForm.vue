@@ -48,8 +48,10 @@
       </div>
       <label>Date of Birth</label>
       <template>
-        <base-input>
-        <el-date-picker v-model="userdata.dob"
+      <base-input ref="dateinput">
+        <el-date-picker 
+          v-model.lazy="userdata.dob"
+          @input="test"
           type="datetime"
           placeholder="Select date and time">
           </el-date-picker>
@@ -76,7 +78,7 @@ export default {
     var token = this.$cookies.get("refresh_token")
     this.$axios.setHeader("refresh_token",token)
     this.$axios.setHeader("user_id",id)
-    const data = await this.$axios.$get("api/v1/user/"+id).then((res)=>{
+    await this.$axios.$get("api/v1/user/"+id).then((res)=>{
       this.userdata = res.data 
     });
   },
@@ -98,6 +100,10 @@ export default {
     };
   },
   methods: {
+    test(event){
+      // console.log(event)
+      // console.log(this.$refs.dateinput.)
+    },
     async updateProfile() {
       if(this.userdata.fullname||this.userdata.address||this.userdata.email||this.userdata.dob){
           this.$axios.setHeader("refresh_token",this.$cookies.get("refresh_token"))

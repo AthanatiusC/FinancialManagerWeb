@@ -22,7 +22,7 @@
           </v-btn>
         </v-col>
         <v-col md="6"> 
-          <img class="isometric heroiso" height="700px" src="../assets/isometric/data analytics.svg" alt="">
+          <img style="z-index:-1;" class="isometric heroiso" height="700px" src="../assets/isometric/data analytics.svg" alt="">
         </v-col>
       </v-row>
       </v-container>
@@ -119,6 +119,9 @@ export default {
 }
 </script>
 <style scoped>
+@media screen {
+  
+}
 
 .heroiso{
   position: absolute;

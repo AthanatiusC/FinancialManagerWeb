@@ -13,8 +13,8 @@
             <img src="@/assets/icons/Synthetic Biology.png" alt="Logo" />
           </v-list-item-avatar>
           <v-list-item-content>
-            <v-list-item-title class="title">Calango</v-list-item-title>
-            <v-list-item-subtitle>WEB</v-list-item-subtitle>
+            <v-list-item-title class="title">Finage</v-list-item-title>
+            <v-list-item-subtitle>Financial Manager</v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
       </v-list>
@@ -104,10 +104,8 @@ export default {
     isXs: false,
     items: [
       ["mdi-home-outline", "Home", "#hero"],
-      ["mdi-information-outline", "Sobre", "#features"],
-      ["mdi-download-box-outline", "Download", "#download"],
-      ["mdi-currency-usd", "Preços", "#pricing"],
-      ["mdi-email-outline", "Contatos", "#contact"],
+      ["mdi-information-outline", "Features", "#features"],
+      ["mdi-account-multiple-outline", "Our Team", "#team"],
     ],
   }),
   props: {
